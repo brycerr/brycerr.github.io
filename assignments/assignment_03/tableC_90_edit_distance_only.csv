@@ -1,0 +1,1529 @@
+ID,ltable_id,rtable_id,ltable_title,rtable_title,rtable_platform,ltable_date,rtable_date,ltable_rating,rtable_rating
+1,3,6,Grand Theft Auto IV,Grand Theft Auto IV,PC,"Apr 29, 2008","Dec 2, 2008",98,95
+1,3,33,Grand Theft Auto IV,Grand Theft Auto V,"PS4, XB1, PC, XBXS, PS5","Apr 29, 2008","Nov 18, 2014",98,92
+1,6,2,The Legend of Zelda: Breath of the Wild,The Legend of Zelda: Breath of the Wild,"Wii-U, Switch","Mar 3, 2017","Mar 3, 2017",97,96
+1,9,5,Red Dead Redemption 2,Red Dead Redemption 2,"PS4, XB1, Stadia, PC, XBXS, PS5","Oct 26, 2018","Oct 26, 2018",97,96
+1,9,2213,Red Dead Redemption 2,Red Dead Redemption,"Switch, PS4","Oct 26, 2018","Aug 17, 2023",97,79
+1,10,6,Grand Theft Auto V,Grand Theft Auto IV,PC,"Nov 18, 2014","Dec 2, 2008",97,95
+1,10,33,Grand Theft Auto V,Grand Theft Auto V,"PS4, XB1, PC, XBXS, PS5","Nov 18, 2014","Nov 18, 2014",97,92
+1,12,6,Grand Theft Auto III,Grand Theft Auto IV,PC,"Oct 22, 2001","Dec 2, 2008",97,95
+1,13,1,Super Mario Odyssey,Super Mario Odyssey,Switch,"Oct 27, 2017","Oct 27, 2017",97,97
+1,18,923,GoldenEye 007,GoldenEye 007,"XBXS, XB1, 3DS","Aug 25, 1997","Nov 5, 2010",96,83
+1,20,41,Resident Evil 4 (2005),Resident Evil 4 (2023),"PC, XBXS, PS5, PS4","Jan 11, 2005","Mar 24, 2023",96,92
+1,21,3,Baldur's Gate 3,Baldur's Gate 3,"PC, PS5, XBXS","Aug 3, 2023","Aug 3, 2023",96,96
+1,26,7,Elden Ring,Elden Ring,"PC, XBXS, PS5, XB1, PS4","Feb 25, 2022","Feb 25, 2022",96,95
+1,29,4,The Legend of Zelda: Tears of the Kingdom,The Legend of Zelda: Tears of the Kingdom,Switch,"May 12, 2023","May 12, 2023",96,96
+1,31,283,Gran Turismo,Gran Turismo 7,"PS5, PS4","May 12, 1998","Mar 4, 2022",96,87
+1,34,31,Portal: Companion Collection,Portal: Companion Collection,Switch,"Jun 28, 2022","Jun 28, 2022",95,93
+1,38,2006,LittleBigPlanet,LittleBigPlanet 3,"PS4, PS5","Oct 27, 2008","Nov 18, 2014",95,79
+1,42,90,The Legend of Zelda: Majora's Mask,The Legend of Zelda: Majora's Mask 3D,3DS,"Oct 25, 2000","Feb 13, 2015",95,90
+1,45,588,The Legend of Zelda: Twilight Princess,The Legend of Zelda: Twilight Princess HD,Wii-U,"Nov 19, 2006","Mar 4, 2016",95,85
+1,47,11,Persona 5 Royal,Persona 5 Royal,"PS4, PS5, Switch, PC, XB1, XBXS","Mar 31, 2020","Oct 31, 2019",95,94
+1,48,10,The Last of Us Remastered,The Last of Us Remastered,"PS4, PS5","Jul 29, 2014","Jul 28, 2014",95,94
+1,49,5,Red Dead Redemption,Red Dead Redemption 2,"PS4, XB1, Stadia, PC, XBXS, PS5","May 18, 2010","Oct 26, 2018",95,96
+1,49,2213,Red Dead Redemption,Red Dead Redemption,"Switch, PS4","May 18, 2010","Aug 17, 2023",95,79
+1,51,250,Final Fantasy IX,Final Fantasy XVI,"PS5, PC","Nov 13, 2000","Jun 22, 2023",94,88
+1,51,1463,Final Fantasy IX,Final Fantasy VII,"PS4, PS5, Switch, PC, XBXS, XB1","Nov 13, 2000","Jul 4, 2013",94,81
+1,51,1514,Final Fantasy IX,Final Fantasy IX,"PS4, PS5, Switch, XB1, PC","Nov 13, 2000","Apr 14, 2016",94,81
+1,51,1524,Final Fantasy IX,Final Fantasy XV,"PS4, XB1, PC, Stadia, XBXS, PS5","Nov 13, 2000","Nov 29, 2016",94,81
+1,52,9,God of War,God of War,"PS4, PS5","Apr 20, 2018","Apr 20, 2018",94,94
+1,53,15,Elden Ring: Shadow of the Erdtree,Elden Ring: Shadow of the Erdtree,"PC, PS5, PS4, XB1, XBXS","Jun 21, 2024","Jun 21, 2024",94,94
+1,55,8,Astro Bot,Astro Bot,PS5,"Sep 6, 2024","Sep 6, 2024",94,95
+1,56,182,Devil May Cry,Devil May Cry 5,"PS4, XB1, PC, XBXS, PS5","Oct 16, 2001","Mar 8, 2019",94,88
+1,59,13,Metroid Prime Remastered,Metroid Prime Remastered,Switch,"Feb 8, 2023","Feb 8, 2023",94,94
+1,63,619,Gears of War,Gears of War 4,"XB1, PC, XBXS","Nov 7, 2006","Oct 11, 2016",94,85
+1,65,117,Sid Meier's Civilization II,Sid Meier's Civilization VI,"PC, PS4, XB1, Switch","Feb 29, 1996","Oct 21, 2016",94,89
+1,65,1332,Sid Meier's Civilization II,Sid Meier's Civilization VII,"PS5, PS4, XBXS, XB1, Switch, PC","Feb 29, 1996","Feb 11, 2025",94,81
+1,66,286,Quake,Quake,"XBXS, PS5, XB1, PS4, Switch, PC","Jun 22, 1996","Aug 19, 2021",94,87
+1,67,28,Metaphor: ReFantazio,Metaphor: ReFantazio,"XBXS, PS5, PC, PS4","Oct 11, 2024","Oct 11, 2024",94,93
+1,68,1596,Call of Duty 4: Modern Warfare,Call of Duty: Modern Warfare,"PS4, XB1, PC, XBXS, PS5","Nov 5, 2007","Oct 25, 2019",94,81
+1,71,1398,Ninja Gaiden Black,Ninja Gaiden 2 Black,"XBXS, PS5, PC","Sep 20, 2005","Jan 23, 2025",94,81
+1,76,35,God of War: Ragnarok,God of War Ragnarök,"PS4, PS5, PC","Nov 9, 2022","Nov 9, 2022",94,92
+1,81,1596,Call of Duty: Modern Warfare 2,Call of Duty: Modern Warfare,"PS4, XB1, PC, XBXS, PS5","Nov 10, 2009","Oct 25, 2019",94,81
+1,84,814,Star Wars: Knights of the Old Republic,Star Wars: Knights of the Old Republic,"Switch, PC","Jul 17, 2003","Nov 18, 2003",94,84
+1,85,117,Sid Meier's Civilization IV,Sid Meier's Civilization VI,"PC, PS4, XB1, Switch","Oct 25, 2005","Oct 21, 2016",94,89
+1,85,1332,Sid Meier's Civilization IV,Sid Meier's Civilization VII,"PS5, PS4, XBXS, XB1, Switch, PC","Oct 25, 2005","Feb 11, 2025",94,81
+1,89,283,Gran Turismo 2,Gran Turismo 7,"PS5, PS4","Dec 23, 1999","Mar 4, 2022",93,87
+1,90,26,The Last of Us Part II,The Last of Us Part II,"PS4, PS5","Jun 19, 2020","Jun 19, 2020",93,93
+1,90,1227,The Last of Us Part II,The Last of Us Part I,"PS5, PC, PS4","Jun 19, 2020","Jun 14, 2013",93,82
+1,94,85,Dwarf Fortress,Dwarf Fortress,PC,"Aug 8, 2006","Dec 6, 2022",93,90
+1,95,25,Half-Life: Alyx,Half-Life: Alyx,"Vive, Quest, PC","Mar 23, 2020","Mar 23, 2020",93,93
+1,96,17,Divinity: Original Sin II,Divinity: Original Sin 2,"PC, Switch, PS4, XB1","Sep 14, 2017","Sep 14, 2017",93,93
+1,96,524,Divinity: Original Sin II,Divinity: Original Sin,"PC, PS4, XB1","Sep 14, 2017","Jun 30, 2014",93,85
+1,100,21,Super Mario 3D World,Super Mario 3D World,"Wii-U, Switch","Nov 22, 2013","Nov 22, 2013",93,93
+1,103,53,Street Fighter IV,Street Fighter 6,"PC, XBXS, PS5, PS4","Feb 17, 2009","Jun 1, 2023",93,92
+1,104,88,Minecraft,Minecraft,"PS4, PS5, XBXS, XB1, Switch, PC","Nov 18, 2011","Sep 20, 2017",93,90
+1,105,189,Persona 4 Golden,Persona 4 Golden,"PC, PS5, XBXS, XB1, PS4, Switch","Nov 20, 2012","Jun 13, 2020",93,88
+1,106,12,Persona 5,Persona 5,"PS4, PS5","Apr 4, 2017","Apr 4, 2017",93,94
+1,113,619,Gears of War 2,Gears of War 4,"XB1, PC, XBXS","Nov 7, 2008","Oct 11, 2016",93,85
+1,114,795,SoulCalibur II,SoulCalibur VI,"PS4, XB1, PC, XBXS, PS5","Aug 27, 2003","Oct 18, 2018",93,84
+1,115,949,Pro Evolution Soccer 2,Pro Evolution Soccer 2017,"PS4, XB1, PC, XBXS, PS5","Mar 11, 2003","Sep 15, 2016",93,83
+1,115,997,Pro Evolution Soccer 2,Pro Evolution Soccer 2016,"PS4, XB1, PC, XBXS, PS5","Mar 11, 2003","Sep 15, 2015",93,83
+1,115,1216,Pro Evolution Soccer 2,Pro Evolution Soccer 2018,"PS4, XB1, PC, XBXS, PS5","Mar 11, 2003","Sep 12, 2017",93,82
+1,115,1633,Pro Evolution Soccer 2,Pro Evolution Soccer 2015,"PS4, XB1, PC, XBXS, PS5","Mar 11, 2003","Nov 10, 2014",93,80
+1,115,2415,Pro Evolution Soccer 2,Pro Evolution Soccer 2019,"PS4, XB1, PC, XBXS, PS5","Mar 11, 2003","Aug 28, 2018",93,78
+1,117,30,Metal Gear Solid V: The Phantom Pain,Metal Gear Solid V: The Phantom Pain,"PS4, XB1, PC, XBXS, PS5","Sep 1, 2015","Sep 1, 2015",93,93
+1,118,1103,The Legend of Zelda: Skyward Sword,The Legend of Zelda: Skyward Sword HD,Switch,"Nov 20, 2011","Jul 16, 2021",93,82
+1,120,2430,Rock Band 3,Rock Band 4,"PS4, XB1, XBXS, PS5","Oct 26, 2010","Oct 6, 2015",93,78
+1,122,248,NBA 2K1,NBA 2K17,"PS4, XB1, PC, XBXS, PS5","Nov 1, 2000","Sep 16, 2016",93,88
+1,122,691,NBA 2K1,NBA 2K16,"PS4, XB1, PC, XBXS, PS5","Nov 1, 2000","Sep 29, 2015",93,84
+1,122,1200,NBA 2K1,NBA 2K14,"PS4, XB1, PC, XBXS, PS5","Nov 1, 2000","Oct 1, 2013",93,82
+1,122,1515,NBA 2K1,NBA 2K19,"PS4, XB1, PC, XBXS, PS5, Switch","Nov 1, 2000","Sep 7, 2018",93,81
+1,122,1655,NBA 2K1,NBA 2K15,"PS4, XB1, PC, XBXS, PS5","Nov 1, 2000","Oct 6, 2014",93,80
+1,122,1878,NBA 2K1,NBA 2K18,"PS4, XB1, PC, Switch, XBXS, PS5","Nov 1, 2000","Sep 15, 2017",93,80
+1,123,14,Hades,Hades,"PC, Switch, PS4, PS5, XB1, XBXS","Dec 6, 2018","Sep 17, 2020",93,94
+1,124,37,Resident Evil 4,Resident Evil 2,"PS4, XB1, PC, XBXS, PS5, Switch","Mar 24, 2023","Jan 25, 2019",93,92
+1,124,468,Resident Evil 4,Resident Evil 4 VR,"Quest, PC","Mar 24, 2023","Oct 21, 2021",93,86
+1,124,1084,Resident Evil 4,Resident Evil 4,"XB1, PS4, XBXS, PS5","Mar 24, 2023","Aug 30, 2016",93,82
+1,124,1939,Resident Evil 4,Resident Evil 3,"PS4, PC, XB1, XBXS, PS5, Switch","Mar 24, 2023","Apr 3, 2020",93,80
+1,126,24,Uncharted 4: A Thief's End,Uncharted 4: A Thief's End,"PS4, PS5, PC","May 10, 2016","May 10, 2016",93,93
+1,127,39,Super Smash Bros. Ultimate,Super Smash Bros. Ultimate,Switch,"Dec 7, 2018","Dec 7, 2018",93,92
+1,134,36,Forza Horizon 4,Forza Horizon 5,"PC, XB1, XBXS","Sep 28, 2018","Nov 9, 2021",92,92
+1,134,42,Forza Horizon 4,Forza Horizon 4,"XB1, PC, XBXS","Sep 28, 2018","Oct 2, 2018",92,92
+1,134,64,Forza Horizon 4,Forza Horizon 3,"XB1, PC, XBXS","Sep 28, 2018","Sep 27, 2016",92,91
+1,134,226,Forza Horizon 4,Forza Horizon 2,"XB1, XBXS","Sep 28, 2018","Sep 29, 2014",92,88
+1,141,43,Final Fantasy VII Rebirth,Final Fantasy VII Rebirth,"PS5, PC","Feb 29, 2024","Feb 29, 2024",92,92
+1,142,2430,Rock Band,Rock Band 4,"PS4, XB1, XBXS, PS5","Nov 20, 2007","Oct 6, 2015",92,78
+1,143,67,Super Mario Bros. Wonder,Super Mario Bros. Wonder,Switch,"Oct 20, 2023","Oct 20, 2023",92,91
+1,145,60,Bloodborne,Bloodborne,"PS4, PS5","Mar 24, 2015","Mar 24, 2015",92,91
+1,151,48,Celeste,Celeste,"PS4, XB1, PC, Switch, XBXS, PS5","Jan 25, 2018","Jan 25, 2018",92,92
+1,153,36,Forza Horizon 5,Forza Horizon 5,"PC, XB1, XBXS","Nov 5, 2021","Nov 9, 2021",92,92
+1,153,42,Forza Horizon 5,Forza Horizon 4,"XB1, PC, XBXS","Nov 5, 2021","Oct 2, 2018",92,92
+1,153,64,Forza Horizon 5,Forza Horizon 3,"XB1, PC, XBXS","Nov 5, 2021","Sep 27, 2016",92,91
+1,153,226,Forza Horizon 5,Forza Horizon 2,"XB1, XBXS","Nov 5, 2021","Sep 29, 2014",92,88
+1,158,250,Final Fantasy XII,Final Fantasy XVI,"PS5, PC","Oct 31, 2006","Jun 22, 2023",92,88
+1,158,1463,Final Fantasy XII,Final Fantasy VII,"PS4, PS5, Switch, PC, XBXS, XB1","Oct 31, 2006","Jul 4, 2013",92,81
+1,158,1514,Final Fantasy XII,Final Fantasy IX,"PS4, PS5, Switch, XB1, PC","Oct 31, 2006","Apr 14, 2016",92,81
+1,158,1524,Final Fantasy XII,Final Fantasy XV,"PS4, XB1, PC, Stadia, XBXS, PS5","Oct 31, 2006","Nov 29, 2016",92,81
+1,159,27,The Witcher 3: Wild Hunt,The Witcher 3: Wild Hunt,"PS4, XB1, PC, XBXS, PS5, Switch","May 19, 2015","May 19, 2015",92,93
+1,165,174,Forza Motorsport 3,Forza Motorsport 6,"XB1, XBXS, PC","Oct 27, 2009","Sep 14, 2015",92,88
+1,165,480,Forza Motorsport 3,Forza Motorsport 7,"XB1, PC, XBXS","Oct 27, 2009","Oct 3, 2017",92,85
+1,165,790,Forza Motorsport 3,Forza Motorsport,"PC, XBXS","Oct 27, 2009","Oct 10, 2023",92,84
+1,165,1705,Forza Motorsport 3,Forza Motorsport 5,"XB1, XBXS","Oct 27, 2009","Nov 22, 2013",92,80
+1,167,53,Street Fighter 6,Street Fighter 6,"PC, XBXS, PS5, PS4","Jun 2, 2023","Jun 1, 2023",92,92
+1,168,19,Undertale,Undertale,"PS4, PC, Vita, Switch, PS5, XB1","Sep 15, 2015","Sep 15, 2015",92,93
+1,175,250,Final Fantasy X,Final Fantasy XVI,"PS5, PC","Dec 17, 2001","Jun 22, 2023",92,88
+1,175,1514,Final Fantasy X,Final Fantasy IX,"PS4, PS5, Switch, XB1, PC","Dec 17, 2001","Apr 14, 2016",92,81
+1,175,1524,Final Fantasy X,Final Fantasy XV,"PS4, XB1, PC, Stadia, XBXS, PS5","Dec 17, 2001","Nov 29, 2016",92,81
+1,178,55,Divinity: Original Sin II - Definitive Edition,Divinity: Original Sin 2 - Definitive Edition,"PS4, XB1, PC, Switch, XBXS, PS5","Aug 31, 2018","Aug 30, 2018",92,91
+1,182,250,Final Fantasy VII,Final Fantasy XVI,"PS5, PC","Sep 7, 1997","Jun 22, 2023",92,88
+1,182,1463,Final Fantasy VII,Final Fantasy VII,"PS4, PS5, Switch, PC, XBXS, XB1","Sep 7, 1997","Jul 4, 2013",92,81
+1,182,1514,Final Fantasy VII,Final Fantasy IX,"PS4, PS5, Switch, XB1, PC","Sep 7, 1997","Apr 14, 2016",92,81
+1,182,1524,Final Fantasy VII,Final Fantasy XV,"PS4, XB1, PC, Stadia, XBXS, PS5","Sep 7, 1997","Nov 29, 2016",92,81
+1,184,29,Final Fantasy XIV: Endwalker,Final Fantasy XIV: Endwalker,"PC, PS5, PS4","Dec 7, 2021","Dec 7, 2021",92,93
+1,185,18,Journey,Journey,"PS4, PS5, PC","Mar 13, 2012","Jul 21, 2015",92,93
+1,188,2430,Rock Band 2,Rock Band 4,"PS4, XB1, XBXS, PS5","Sep 14, 2008","Oct 6, 2015",92,78
+1,189,51,Mario Kart 8 Deluxe,Mario Kart 8 Deluxe,Switch,"Apr 28, 2017","Apr 28, 2017",92,92
+1,192,208,Out of the Park Baseball 17,Out of the Park Baseball 15,PC,"Mar 22, 2016","Apr 21, 2014",92,88
+1,192,238,Out of the Park Baseball 17,Out of the Park Baseball 16,PC,"Mar 22, 2016","Mar 23, 2015",92,88
+1,192,274,Out of the Park Baseball 17,Out of the Park Baseball 17,PC,"Mar 22, 2016","Mar 22, 2016",92,87
+1,194,32,The Witcher 3: Wild Hunt - Blood and Wine,The Witcher 3: Wild Hunt - Blood and Wine,"PS4, XB1, PC, XBXS, PS5","May 30, 2016","May 30, 2016",92,92
+1,195,250,Final Fantasy VI,Final Fantasy XVI,"PS5, PC","Feb 5, 2007","Jun 22, 2023",92,88
+1,195,1463,Final Fantasy VI,Final Fantasy VII,"PS4, PS5, Switch, PC, XBXS, XB1","Feb 5, 2007","Jul 4, 2013",92,81
+1,195,1514,Final Fantasy VI,Final Fantasy IX,"PS4, PS5, Switch, XB1, PC","Feb 5, 2007","Apr 14, 2016",92,81
+1,195,1524,Final Fantasy VI,Final Fantasy XV,"PS4, XB1, PC, Stadia, XBXS, PS5","Feb 5, 2007","Nov 29, 2016",92,81
+1,196,74,Rayman Legends,Rayman Legends,"PS4, XB1, Wii-U, PC, XBXS, PS5, Switch","Sep 3, 2013","Aug 30, 2013",92,90
+1,197,69,UFO 50,UFO 50,PC,"Sep 18, 2024","Sep 18, 2024",91,91
+1,199,45,Against the Storm,Against The Storm,PC,"Dec 8, 2023","Dec 8, 2023",91,92
+1,202,2006,LittleBigPlanet 2,LittleBigPlanet 3,"PS4, PS5","Jan 18, 2011","Nov 18, 2014",91,79
+1,203,47,Microsoft Flight Simulator,Microsoft Flight Simulator,"PC, XBXS","Aug 18, 2020","Aug 18, 2020",91,92
+1,205,164,Slay The Princess - The Pristine Cut,Slay the Princess - The Pristine Cut,"PC, Switch, PS5, XBXS, PS4, XB1","Oct 24, 2024","Oct 24, 2024",91,89
+1,208,318,I Was a Teenage Exocolonist,I Was a Teenage Exocolonist,"PC, Switch, PS5, PS4, PS5","Aug 25, 2022","Aug 25, 2022",91,87
+1,209,3,Baldur's Gate,Baldur's Gate 3,"PC, PS5, XBXS","Dec 21, 1998","Aug 3, 2023",91,96
+1,212,71,Overwatch,Overwatch,"PS4, XB1, PC, XBXS, PS5, Switch","May 23, 2016","May 24, 2016",91,90
+1,213,66,Bayonetta 2,Bayonetta 2,"Wii-U, Switch","Oct 24, 2014","Oct 24, 2014",91,91
+1,213,145,Bayonetta 2,Bayonetta 1+2,Switch,"Oct 24, 2014","Feb 16, 2018",91,89
+1,213,491,Bayonetta 2,Bayonetta,"Wii-U, PC, Switch, XB1, PS4","Oct 24, 2014","Oct 24, 2014",91,85
+1,213,621,Bayonetta 2,Bayonetta 3,Switch,"Oct 24, 2014","Oct 28, 2022",91,85
+1,222,44,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,"Switch, XBXS, PS5, PS4, XB1, PC","Sep 27, 2019","Sep 27, 2019",91,92
+1,226,36,Forza Horizon 3,Forza Horizon 5,"PC, XB1, XBXS","Sep 23, 2016","Nov 9, 2021",91,92
+1,226,42,Forza Horizon 3,Forza Horizon 4,"XB1, PC, XBXS","Sep 23, 2016","Oct 2, 2018",91,92
+1,226,64,Forza Horizon 3,Forza Horizon 3,"XB1, PC, XBXS","Sep 23, 2016","Sep 27, 2016",91,91
+1,226,226,Forza Horizon 3,Forza Horizon 2,"XB1, XBXS","Sep 23, 2016","Sep 29, 2014",91,88
+1,234,1441,World of Warcraft: The Burning Crusade,World of Warcraft: The Burning Crusade Classic,PC,"Jan 16, 2007","Jun 1, 2021",91,81
+1,235,469,MLB 10: The Show,MLB 19: The Show,"PS4, PS5","Mar 2, 2010","Mar 26, 2019",91,86
+1,235,512,MLB 10: The Show,MLB 16: The Show,"PS4, PS5","Mar 2, 2010","Mar 29, 2016",91,85
+1,235,517,MLB 10: The Show,MLB 17: The Show,"PS4, PS5","Mar 2, 2010","Mar 28, 2017",91,85
+1,235,1074,MLB 10: The Show,MLB 14: The Show,"PS4, PS5","Mar 2, 2010","May 6, 2014",91,82
+1,235,1112,MLB 10: The Show,MLB 18: The Show,"PS4, PS5","Mar 2, 2010","Mar 27, 2018",91,82
+1,235,1698,MLB 10: The Show,MLB 15: The Show,"PS4, PS5","Mar 2, 2010","Mar 31, 2015",91,80
+1,236,49,Shadow of the Colossus,Shadow of the Colossus,"PS4, PS5","Feb 6, 2018","Feb 6, 2018",91,92
+1,241,138,Tony Hawk's Pro Skater 2,Tony Hawk's Pro Skater 1 + 2,"XB1, PS4, PC, XBXS, PS5","Oct 25, 2000","Sep 4, 2020",91,89
+1,247,174,Forza Motorsport 4,Forza Motorsport 6,"XB1, XBXS, PC","Oct 11, 2011","Sep 14, 2015",91,88
+1,247,480,Forza Motorsport 4,Forza Motorsport 7,"XB1, PC, XBXS","Oct 11, 2011","Oct 3, 2017",91,85
+1,247,790,Forza Motorsport 4,Forza Motorsport,"PC, XBXS","Oct 11, 2011","Oct 10, 2023",91,84
+1,247,1705,Forza Motorsport 4,Forza Motorsport 5,"XB1, XBXS","Oct 11, 2011","Nov 22, 2013",91,80
+1,248,37,Resident Evil,Resident Evil 2,"PS4, XB1, PC, XBXS, PS5, Switch","Mar 30, 1996","Jan 25, 2019",91,92
+1,248,1084,Resident Evil,Resident Evil 4,"XB1, PS4, XBXS, PS5","Mar 30, 1996","Aug 30, 2016",91,82
+1,248,1939,Resident Evil,Resident Evil 3,"PS4, PC, XB1, XBXS, PS5, Switch","Mar 30, 1996","Apr 3, 2020",91,80
+1,249,82,Crusader Kings III,Crusader Kings III,PC,"Sep 1, 2020","Sep 1, 2020",91,90
+1,250,296,Battlefield 2,Battlefield 1,"PS4, XB1, PC, XBXS, PS5","Jun 21, 2005","Oct 21, 2016",91,87
+1,250,2071,Battlefield 2,Battlefield V,"XB1, PC, PS4, XBXS, PS5","Jun 21, 2005","Nov 20, 2018",91,79
+1,250,2147,Battlefield 2,Battlefield 4,"PS4, XB1, PC, XBXS, PS5","Jun 21, 2005","Oct 29, 2013",91,79
+1,253,619,Gears of War 3,Gears of War 4,"XB1, PC, XBXS","Sep 20, 2011","Oct 11, 2016",91,85
+1,260,123,Animal Well,Animal Well,"PS5, Switch, PC","May 9, 2024","May 9, 2024",91,89
+1,261,46,Disco Elysium,Disco Elysium,"PC, PS5, PS4, XB1, XBXS","Oct 15, 2019","Oct 15, 2019",91,92
+1,263,80,The Legend of Zelda: A Link Between Worlds,The Legend of Zelda: A Link Between Worlds,3DS,"Nov 22, 2013","Nov 22, 2013",91,90
+1,264,56,NieR: Automata - Game of the YoRHa Edition,NieR: Automata Game of the YoRHa Edition,"PS4, PC, PS5","Feb 26, 2019","Feb 26, 2019",91,91
+1,266,54,Caves of Qud,Caves of Qud,PC,"Dec 5, 2024","Dec 5, 2024",91,92
+1,267,37,Resident Evil 2,Resident Evil 2,"PS4, XB1, PC, XBXS, PS5, Switch","Jan 25, 2019","Jan 25, 2019",91,92
+1,267,1084,Resident Evil 2,Resident Evil 4,"XB1, PS4, XBXS, PS5","Jan 25, 2019","Aug 30, 2016",91,82
+1,267,1939,Resident Evil 2,Resident Evil 3,"PS4, PC, XB1, XBXS, PS5, Switch","Jan 25, 2019","Apr 3, 2020",91,80
+1,268,63,Satisfactory,Satisfactory,PC,"Sep 10, 2024","Sep 11, 2024",91,91
+1,269,91,Dark Souls II,Dark Souls III,"PS4, XB1, PC, XBXS, PS5","Mar 11, 2014","Apr 12, 2016",91,90
+1,269,202,Dark Souls II,Dark Souls II,"PC, PS4, XB1","Mar 11, 2014","Mar 11, 2014",91,88
+1,270,143,Shovel Knight: Treasure Trove,Shovel Knight: Treasure Trove,Switch,"Mar 3, 2017","Mar 3, 2017",91,89
+1,276,52,Balatro,Balatro,"XBXS, PS5, Switch, PC, XB1, PS4","Feb 20, 2024","Feb 20, 2024",90,92
+1,278,81,Animal Crossing: New Horizons,Animal Crossing: New Horizons,Switch,"Mar 20, 2020","Mar 20, 2020",90,90
+1,280,83,Final Fantasy XIV: Shadowbringers,Final Fantasy XIV: Shadowbringers,"PS4, PC, PS5","Jul 2, 2019","Jul 2, 2019",90,90
+1,282,66,Bayonetta,Bayonetta 2,"Wii-U, Switch","Jan 5, 2010","Oct 24, 2014",90,91
+1,282,491,Bayonetta,Bayonetta,"Wii-U, PC, Switch, XB1, PS4","Jan 5, 2010","Oct 24, 2014",90,85
+1,282,621,Bayonetta,Bayonetta 3,Switch,"Jan 5, 2010","Oct 28, 2022",90,85
+1,283,113,Diablo III: Ultimate Evil Edition,Diablo III: Ultimate Evil Edition,"PS4, XB1, XBXS, PS5","Aug 19, 2014","Aug 18, 2014",90,89
+1,286,632,World of Goo,World of Goo,Switch,"Oct 12, 2008","Mar 16, 2017",90,85
+1,286,1091,World of Goo,World of Goo 2,"Switch, PC","Oct 12, 2008","Aug 2, 2024",90,82
+1,288,58,Slay the Princess,Slay the Princess,PC,"Oct 23, 2023","Oct 20, 2023",90,91
+1,296,1284,Factorio,Factorio,"PC, Switch","Aug 14, 2020","Aug 14, 2020",90,82
+1,301,198,Marvel's Spider-Man 2,Marvel's Spider-Man 2,"PS5, PC","Oct 20, 2023","Oct 20, 2023",90,88
+1,301,209,Marvel's Spider-Man 2,Marvel's Spider-Man,"PS4, PS5, PC","Oct 20, 2023","Sep 7, 2018",90,88
+1,307,73,Jack Jeanne,Jack Jeanne,Switch,"Jun 15, 2023","Jun 15, 2023",90,90
+1,309,469,MLB 11: The Show,MLB 19: The Show,"PS4, PS5","Mar 8, 2011","Mar 26, 2019",90,86
+1,309,512,MLB 11: The Show,MLB 16: The Show,"PS4, PS5","Mar 8, 2011","Mar 29, 2016",90,85
+1,309,517,MLB 11: The Show,MLB 17: The Show,"PS4, PS5","Mar 8, 2011","Mar 28, 2017",90,85
+1,309,1074,MLB 11: The Show,MLB 14: The Show,"PS4, PS5","Mar 8, 2011","May 6, 2014",90,82
+1,309,1112,MLB 11: The Show,MLB 18: The Show,"PS4, PS5","Mar 8, 2011","Mar 27, 2018",90,82
+1,309,1698,MLB 11: The Show,MLB 15: The Show,"PS4, PS5","Mar 8, 2011","Mar 31, 2015",90,80
+1,310,50,NieR: Automata - Become as Gods Edition,NieR: Automata Become as Gods Edition,"XB1, XBXS","Jun 26, 2018","Jun 26, 2018",90,92
+1,317,166,Stephen's Sausage Roll,Stephen's Sausage Roll,PC,"Apr 18, 2016","Apr 18, 2016",90,89
+1,322,96,Hollow Knight,Hollow Knight,"PC, Switch, PS4, XB1, XBXS, PS5","Jun 12, 2018","Feb 24, 2017",90,90
+1,323,469,MLB 09: The Show,MLB 19: The Show,"PS4, PS5","Mar 3, 2009","Mar 26, 2019",90,86
+1,325,70,Ori and the Will of the Wisps,Ori and the Will of the Wisps,"XB1, PC, XBXS, Switch","Mar 11, 2020","Mar 11, 2020",90,90
+1,327,117,Sid Meier's Civilization III,Sid Meier's Civilization VI,"PC, PS4, XB1, Switch","Oct 30, 2001","Oct 21, 2016",90,89
+1,327,1332,Sid Meier's Civilization III,Sid Meier's Civilization VII,"PS5, PS4, XBXS, XB1, Switch, PC","Oct 30, 2001","Feb 11, 2025",90,81
+1,330,101,The Last of Us Part II Remastered,The Last of Us Part II Remastered,PS5,"Jan 19, 2024","Jan 19, 2024",90,90
+1,334,100,Chained Echoes,Chained Echoes,"Switch, PS5, XBXS, XB1, PS4, PC","Dec 8, 2022","Dec 8, 2022",90,90
+1,335,829,Super Meat Boy,Super Meat Boy,"PS4, PC, Switch, PS5","Oct 20, 2010","Nov 30, 2010",90,83
+1,337,2376,Pikmin 2,Pikmin 2,Switch,"Aug 30, 2004","Jun 21, 2023",90,78
+1,339,275,Okami HD,Okami HD,"PC, PS4, XB1, XBXS, PS5","Oct 30, 2012","Dec 12, 2017",90,87
+1,341,117,Sid Meier's Civilization V,Sid Meier's Civilization VI,"PC, PS4, XB1, Switch","Sep 21, 2010","Oct 21, 2016",90,89
+1,341,1332,Sid Meier's Civilization V,Sid Meier's Civilization VII,"PS5, PS4, XBXS, XB1, Switch, PC","Sep 21, 2010","Feb 11, 2025",90,81
+1,343,135,Mario Kart 8 DLC Pack 2,Mario Kart 8 DLC Pack 2,Wii-U,"Apr 23, 2015","Apr 23, 2015",90,89
+1,343,285,Mario Kart 8 DLC Pack 2,Mario Kart 8 DLC Pack 1,Wii-U,"Apr 23, 2015","Nov 13, 2014",90,87
+1,345,92,The Stanley Parable: Ultra Deluxe,The Stanley Parable: Ultra Deluxe,"XBXS, PS5, XB1, PS4, Switch, PC","Apr 27, 2022","Apr 27, 2022",90,90
+1,347,94,Monster Hunter: World,Monster Hunter World,"PS4, XB1, PC, XBXS, PS5","Jan 26, 2018","Jan 26, 2018",90,90
+1,349,65,Dota 2,Dota 2,PC,"Jul 9, 2013","Jul 9, 2013",90,91
+1,352,174,Forza Motorsport 2,Forza Motorsport 6,"XB1, XBXS, PC","May 29, 2007","Sep 14, 2015",90,88
+1,352,480,Forza Motorsport 2,Forza Motorsport 7,"XB1, PC, XBXS","May 29, 2007","Oct 3, 2017",90,85
+1,352,790,Forza Motorsport 2,Forza Motorsport,"PC, XBXS","May 29, 2007","Oct 10, 2023",90,84
+1,352,1705,Forza Motorsport 2,Forza Motorsport 5,"XB1, XBXS","May 29, 2007","Nov 22, 2013",90,80
+1,356,195,Into the Breach,Into The Breach,"PC, PS4, Switch","Feb 27, 2018","Feb 27, 2018",90,88
+1,357,79,Tekken 8,Tekken 8,"PC, PS5, XBXS","Jan 26, 2024","Jan 25, 2024",90,90
+1,358,263,Chicory: A Colorful Tale,Chicory: A Colorful Tale,"PS5, PS4, PC, Switch, XB1, XBXS","Jun 10, 2021","Jun 10, 2021",90,87
+1,359,86,Sekiro: Shadows Die Twice,Sekiro: Shadows Die Twice,"PS4, XB1, PC, XBXS, PS5","Mar 22, 2019","Mar 22, 2019",90,90
+1,364,250,Final Fantasy VIII,Final Fantasy XVI,"PS5, PC","Sep 7, 1999","Jun 22, 2023",90,88
+1,364,1463,Final Fantasy VIII,Final Fantasy VII,"PS4, PS5, Switch, PC, XBXS, XB1","Sep 7, 1999","Jul 4, 2013",90,81
+1,365,149,Astro Bot Rescue Mission,Astro Bot Rescue Mission,"PSVR, PS4","Oct 2, 2018","Oct 2, 2018",90,89
+1,370,116,The Witcher 3: Wild Hunt - Hearts of Stone,The Witcher 3: Wild Hunt - Hearts of Stone,"PS4, XB1, PC, XBXS, PS5","Oct 13, 2015","Oct 12, 2015",89,89
+1,374,424,Borderlands 2,Borderlands 2,"PC, PS4, XB1, Switch","Sep 18, 2012","Sep 17, 2012",89,86
+1,374,1587,Borderlands 2,Borderlands 3,"XB1, PC, PS4, Stadia, XBXS, PS5, Switch","Sep 18, 2012","Sep 13, 2019",89,81
+1,376,112,Neon White,Neon White,"Switch, PC, PS4, PS5, XB1, XBXS","Jun 16, 2022","Jun 15, 2022",89,89
+1,377,146,Xenoblade Chronicles: Definitive Edition,Xenoblade Chronicles: Definitive Edition,Switch,"May 29, 2020","May 29, 2020",89,89
+1,380,590,Dragon Quest VIII: Journey of the Cursed King,Dragon Quest VIII: Journey of the Cursed King,3DS,"Nov 15, 2005","Jan 20, 2017",89,85
+1,382,90,The Legend of Zelda: Majora's Mask 3D,The Legend of Zelda: Majora's Mask 3D,3DS,"Feb 13, 2015","Feb 13, 2015",89,90
+1,389,89,Monster Hunter: World - Iceborne,Monster Hunter World: Iceborne,"PS4, XB1, PC, XBXS, PS5","Sep 6, 2019","Sep 6, 2019",89,90
+1,390,140,Dead Cells,Dead Cells,"PS4, XB1, PC, Switch, XBXS, PS5","Aug 7, 2018","Aug 7, 2018",89,89
+1,392,38,Demon's Souls (2009),Demon's Souls (2020),PS5,"Oct 6, 2009","Nov 12, 2020",89,92
+1,393,118,Pillars of Eternity,Pillars of Eternity,"PS4, XB1, PC, XBXS, PS5, Switch","Mar 26, 2015","Mar 26, 2015",89,89
+1,396,227,Rez Infinite,Rez Infinite,"PS4, PC, PS5","Oct 13, 2016","Oct 13, 2016",89,88
+1,400,57,Pizza Tower,Pizza Tower,"PC, Switch","Jan 26, 2023","Jan 26, 2023",89,91
+1,402,616,Thank Goodness You're Here!,Thank Goodness You're Here,"PC, PS5, Switch, PS4","Aug 1, 2024","Aug 1, 2024",89,85
+1,407,305,Titanfall 2,Titanfall 2,"PS4, XB1, PC, XBXS, PS5","Oct 28, 2016","Oct 28, 2016",89,87
+1,407,533,Titanfall 2,Titanfall,"XB1, PC, XBXS","Oct 28, 2016","Mar 11, 2014",89,85
+1,408,91,Dark Souls III,Dark Souls III,"PS4, XB1, PC, XBXS, PS5","Apr 12, 2016","Apr 12, 2016",89,90
+1,408,202,Dark Souls III,Dark Souls II,"PC, PS4, XB1","Apr 12, 2016","Mar 11, 2014",89,88
+1,413,2209,NBA 2K3,NBA 2K23,"PS5, Switch, XBXS, XB1, PS4, PC","Oct 8, 2002","Sep 9, 2022",89,79
+1,415,204,Xenoblade Chronicles 3,Xenoblade Chronicles 3,Switch,"Jul 29, 2022","Jul 29, 2022",89,88
+1,415,459,Xenoblade Chronicles 3,Xenoblade Chronicles 3D,3DS,"Jul 29, 2022","Apr 10, 2015",89,86
+1,415,635,Xenoblade Chronicles 3,Xenoblade Chronicles X,Wii-U,"Jul 29, 2022","Dec 4, 2015",89,84
+1,415,972,Xenoblade Chronicles 3,Xenoblade Chronicles 2,Switch,"Jul 29, 2022","Dec 1, 2017",89,83
+1,417,104,Super Mario 3D World + Bowser's Fury,Super Mario 3D World + Bowser's Fury,Switch,"Feb 12, 2021","Feb 12, 2021",89,89
+1,422,817,Kynseed,Kynseed,PC,"Dec 6, 2022","Dec 6, 2022",89,84
+1,427,133,Cyberpunk 2077: Phantom Liberty,Cyberpunk 2077: Phantom Liberty,"PC, PS5, XBXS","Sep 26, 2023","Sep 26, 2023",89,89
+1,428,97,Tetris Effect,Tetris Effect,"PS4, PS5, PC","Nov 9, 2018","Nov 9, 2018",89,90
+1,429,249,Fez,Fez,"PS4, PC, PS5, Switch","Apr 13, 2012","Apr 13, 2012",89,88
+1,431,241,Cave Story,Cave Story+,"PC, Switch","Mar 22, 2010","Nov 22, 2011",89,88
+1,434,379,Atari 50: The Anniversary Celebration,Atari 50: The Anniversary Celebration,"XBXS, XB1, PS5, PS4, Switch, PC","Nov 11, 2022","Nov 11, 2022",89,86
+1,437,1078,Max Payne,Max Payne 3,PC,"Jul 23, 2001","May 31, 2012",89,82
+1,438,452,Final Fantasy VII Remake Intergrade,Final Fantasy VII Remake Intergrade,"PS5, PC, PS4","Jun 10, 2021","Apr 10, 2020",89,86
+1,440,208,Out of the Park Baseball 15,Out of the Park Baseball 15,PC,"Apr 21, 2014","Apr 21, 2014",89,88
+1,440,238,Out of the Park Baseball 15,Out of the Park Baseball 16,PC,"Apr 21, 2014","Mar 23, 2015",89,88
+1,440,274,Out of the Park Baseball 15,Out of the Park Baseball 17,PC,"Apr 21, 2014","Mar 22, 2016",89,87
+1,441,646,Streets of Rage 2,Streets of Rage 4,"Switch, PC, XB1, PS4","Jul 23, 2015","Apr 30, 2020",89,84
+1,442,201,Hollow Knight: Voidheart Edition,Hollow Knight: Voidheart Edition,"PS4, XB1, XBXS, PS5","Sep 25, 2018","Sep 25, 2018",89,88
+1,443,169,Fire Emblem: Three Houses,Fire Emblem: Three Houses,Switch,"Jul 26, 2019","Jul 26, 2019",89,89
+1,445,214,NieR: Automata - The End of YoRHa Edition,Nier: Automata - The End of YoRHa Edition,Switch,"Oct 6, 2022","Oct 6, 2022",89,88
+1,448,62,Destiny 2: The Final Shape,Destiny 2: The Final Shape,"PC, PS5, PS4, XB1, XBXS","Jun 4, 2024","Jun 4, 2024",89,91
+1,451,155,Horizon Forbidden West: Complete Edition,Horizon Forbidden West Complete Edition,"PS5, PC","Mar 21, 2024","Oct 6, 2023",89,89
+1,452,406,Nuclear Throne,Nuclear Throne,"PS4, PC, PS5, Switch, XB1","Dec 5, 2015","Dec 5, 2015",89,86
+1,454,99,Like a Dragon: Infinite Wealth,Like A Dragon: Infinite Wealth,"PC, PS5, PS4, XBXS, XB1","Jan 26, 2024","Jan 26, 2024",89,90
+1,455,206,Cuphead in the Delicious Last Course,Cuphead: The Delicious Last Course,"PS4, PC, XBXS, PS5, Switch","Jun 30, 2022","Jun 30, 2022",89,88
+1,456,136,Lone Echo,Lone Echo,Quest,"Jul 20, 2017","Jul 20, 2017",89,89
+1,459,1569,Apex Legends,Apex Legends,"PS4, XB1, PC, XBXS, PS5, Switch","Feb 4, 2019","Feb 4, 2019",89,81
+1,465,84,NORCO,NORCO,"PC, XB1, PS4, PS5","Mar 24, 2022","Mar 24, 2022",89,90
+1,468,296,Battlefield 3,Battlefield 1,"PS4, XB1, PC, XBXS, PS5","Oct 25, 2011","Oct 21, 2016",89,87
+1,468,2071,Battlefield 3,Battlefield V,"XB1, PC, PS4, XBXS, PS5","Oct 25, 2011","Nov 20, 2018",89,79
+1,468,2147,Battlefield 3,Battlefield 4,"PS4, XB1, PC, XBXS, PS5","Oct 25, 2011","Oct 29, 2013",89,79
+1,469,217,Synth Riders,Synth Riders,"Vive, Quest, PC, PS4, PS5","Jul 27, 2021","Jul 12, 2018",89,88
+1,471,75,Dreams,Dreams,"PS4, PS5","Feb 14, 2020","Feb 14, 2020",89,90
+1,476,283,Gran Turismo 4,Gran Turismo 7,"PS5, PS4","Feb 22, 2005","Mar 4, 2022",89,87
+1,479,106,Return of the Obra Dinn,Return of the Obra Dinn,"PC, PS4, XB1, Switch, XBXS, PS5","Oct 18, 2018","Oct 18, 2018",89,89
+1,484,138,Tony Hawk's Pro Skater 1 + 2,Tony Hawk's Pro Skater 1 + 2,"XB1, PS4, PC, XBXS, PS5","Sep 4, 2020","Sep 4, 2020",89,89
+1,488,93,Castlevania Dominus Collection,Castlevania Dominus Collection,"PC, Switch, PS5, XBXS","Aug 27, 2024","Aug 27, 2024",89,90
+1,492,2209,NBA 2K2,NBA 2K23,"PS5, Switch, XBXS, XB1, PS4, PC","Jan 12, 2002","Sep 9, 2022",89,79
+1,495,114,Disco Elysium: The Final Cut,Disco Elysium: The Final Cut,"Switch, PS5, PC, XBXS, XB1, PS4, Stadia","Mar 30, 2021","Jan 1, 2021",89,89
+1,496,109,Horizon Zero Dawn,Horizon Zero Dawn,"PS4, PS5, PC","Feb 28, 2017","Feb 28, 2017",89,89
+1,497,95,Stardew Valley,Stardew Valley,"PS4, XB1, PC, Switch, XBXS, PS5","Feb 26, 2016","Feb 26, 2016",89,90
+1,498,218,Devil May Cry 5: Special Edition,Devil May Cry 5: Special Edition,"XBXS, PS5","Nov 12, 2020","Nov 10, 2020",89,88
+1,498,649,Devil May Cry 5: Special Edition,Devil May Cry 3: Special Edition,Switch,"Nov 12, 2020","Feb 20, 2020",89,84
+1,499,26,The Last of Us Part I,The Last of Us Part II,"PS4, PS5","Sep 2, 2022","Jun 19, 2020",89,93
+1,499,1227,The Last of Us Part I,The Last of Us Part I,"PS5, PC, PS4","Sep 2, 2022","Jun 14, 2013",89,82
+1,506,59,Asgard's Wrath,Asgard's Wrath 2,Quest,"Oct 10, 2019","Dec 15, 2023",88,91
+1,506,211,Asgard's Wrath,Asgard's Wrath,Quest,"Oct 10, 2019","Oct 9, 2019",88,88
+1,508,312,A Short Hike,A Short Hike,"PC, PS4, Switch, XB1","Aug 18, 2020","Apr 5, 2019",88,87
+1,509,199,XCOM 2: War of the Chosen,XCOM 2: War of the Chosen,"XB1, PC, PS4, XBXS, PS5","Aug 29, 2017","Aug 29, 2017",88,88
+1,510,144,DUSK,DUSK,"PC, Switch","Dec 10, 2018","Oct 31, 2017",88,89
+1,518,1596,Call of Duty: Modern Warfare 3,Call of Duty: Modern Warfare,"PS4, XB1, PC, XBXS, PS5","Nov 8, 2011","Oct 25, 2019",88,81
+1,519,171,What Remains of Edith Finch,What Remains of Edith Finch,"PS4, XB1, PC, XBXS, PS5, Switch","Apr 25, 2017","Apr 25, 2017",88,89
+1,522,125,Tetris Effect: Connected,Tetris Effect: Connected,"XB1, PC, XBXS","Nov 10, 2020","Nov 10, 2020",88,89
+1,523,311,Dishonored,Dishonored 2,"PS4, XB1, PC, XBXS, PS5","Oct 9, 2012","Nov 11, 2016",88,87
+1,526,293,Cocoon,Cocoon,"XBXS, PS5, PC, XB1, PS4, Switch","Sep 29, 2023","Sep 29, 2023",88,87
+1,527,221,Lorelei and the Laser Eyes,Lorelei and the Laser Eyes,"Switch, PC","May 16, 2024","May 16, 2024",88,88
+1,532,196,Mario Kart 8,Mario Kart 8,Wii-U,"May 30, 2014","May 30, 2014",88,88
+1,533,161,Super Mario Maker,Super Mario Maker,"Wii-U, 3DS","Sep 11, 2015","Sep 11, 2015",88,89
+1,533,205,Super Mario Maker,Super Mario Maker 2,Switch,"Sep 11, 2015","Jun 28, 2019",88,88
+1,536,162,Psychonauts,Psychonauts 2,"PC, XB1, XBXS, PS4","Apr 20, 2005","Aug 25, 2021",88,89
+1,536,172,Psychonauts,Psychonauts,"XBXS, PC, XB1, PS4","Apr 20, 2005","Apr 19, 2005",88,89
+1,537,220,The Binding of Isaac: Rebirth,The Binding of Isaac: Afterbirth,PC,"Nov 4, 2014","Oct 30, 2015",88,88
+1,537,323,The Binding of Isaac: Rebirth,The Binding of Isaac: Rebirth,"PS4, XB1, Wii-U, PC, XBXS, PS5, Switch","Nov 4, 2014","Nov 4, 2014",88,87
+1,537,1117,The Binding of Isaac: Rebirth,The Binding of Isaac: Afterbirth+,"PC, Switch","Nov 4, 2014","Jan 3, 2017",88,82
+1,540,1659,Kerbal Space Program,Kerbal Space Program,"PS4, XB1, Wii-U, PC, XBXS, PS5","Jun 24, 2011","Apr 26, 2015",88,80
+1,546,175,Ori and the Blind Forest: Definitive Edition,Ori and the Blind Forest: Definitive Edition,"XB1, PC, Switch, XBXS","Mar 11, 2016","Mar 11, 2016",88,88
+1,547,361,Streets of Rage 4: Mr. X Nightmare,Streets of Rage 4: Mr. X Nightmare,"XBXS, PS5, Switch, PC, PS4, XB1","Jul 15, 2021","Jul 15, 2021",88,86
+1,548,107,NieR: Automata,Nier: Automata,"PS4, PC, PS5, XB1, Switch","Mar 7, 2017","Mar 7, 2017",88,89
+1,550,354,Rise of the Tomb Raider: 20 Year Celebration,Rise of the Tomb Raider: 20 Year Celebration,"PS4, XB1, PC, Stadia, XBXS, PS5","Oct 11, 2016","Oct 11, 2016",88,87
+1,557,503,Assassin's Creed IV: Black Flag,Assassin's Creed IV: Black Flag,"PS4, XB1, Wii-U, PC, XBXS, PS5","Oct 29, 2013","Oct 29, 2013",88,85
+1,560,294,Dead Cells: Return to Castlevania,Dead Cells: Return to Castlevania,"XB1, PS4, PC, Switch","Mar 6, 2023","Mar 6, 2023",88,87
+1,561,192,Ratchet & Clank: Rift Apart,Ratchet & Clank: Rift Apart,"PS5, PC","Jun 11, 2021","Jun 11, 2021",88,88
+1,563,115,Rogue Legacy 2,Rogue Legacy 2,"XBXS, XB1, PC, Switch, PS4, PS5","Apr 28, 2022","Apr 28, 2022",88,89
+1,563,677,Rogue Legacy 2,Rogue Legacy,"PS4, XB1, PC, Vita, Switch, XBXS, PS5","Apr 28, 2022","Jun 27, 2013",88,84
+1,567,248,NBA 2K17,NBA 2K17,"PS4, XB1, PC, XBXS, PS5","Sep 16, 2016","Sep 16, 2016",88,88
+1,569,1184,The World Ends with You,NEO: The World Ends with You,"PS4, Switch","Apr 22, 2008","Jul 27, 2021",88,82
+1,570,886,Torchlight II,Torchlight II,"PC, Switch, XB1, PS4, XBXS, PS5","Sep 20, 2012","Sep 20, 2012",88,83
+1,571,310,XCOM 2,XCOM 2,"PS4, XB1, PC, XBXS, PS5, Switch","Feb 4, 2016","Feb 5, 2016",88,87
+1,572,311,Dishonored 2,Dishonored 2,"PS4, XB1, PC, XBXS, PS5","Nov 10, 2016","Nov 11, 2016",88,87
+1,578,389,XCOM: Enemy Within,XCOM: Enemy Within,PC,"Nov 12, 2013","Nov 12, 2013",88,86
+1,579,194,Horizon Forbidden West,Horizon Forbidden West,"PS5, PS4, PC","Feb 18, 2022","Feb 18, 2022",88,88
+1,581,394,Ratchet & Clank,Ratchet & Clank,"PS4, PS5","Nov 4, 2002","Apr 12, 2016",88,86
+1,582,253,Divinity: Original Sin Enhanced Edition,Divinity: Original Sin - Enhanced Edition,"PS4, XB1, PC, XBXS, PS5","Oct 27, 2015","Oct 27, 2015",88,88
+1,583,425,Injustice 2: Legendary Edition,Injustice 2: Legendary Edition,"XB1, PS4, XBXS, PS5","Mar 27, 2018","Mar 27, 2018",88,86
+1,591,240,It Takes Two,It Takes Two,"PC, XB1, PS5, XBXS, PS4, Switch","Mar 26, 2021","Mar 26, 2021",88,88
+1,593,245,Deathloop,Deathloop,"PS5, PC, XBXS","Sep 14, 2021","Sep 14, 2021",88,88
+1,594,76,Ori and the Blind Forest,Ori and the Blind Forest,"XB1, PC, XBXS, Switch","Mar 11, 2015","Mar 11, 2015",88,90
+1,595,137,The Talos Principle 2,The Talos Principle 2,"PS5, PC, XBXS","Nov 2, 2023","Nov 2, 2023",88,89
+1,595,329,The Talos Principle 2,The Talos Principle,"PS4, PC, PS5, XB1, Switch","Nov 2, 2023","Dec 11, 2014",88,87
+1,596,127,Kingdom Come: Deliverance II,Kingdom Come: Deliverance II,"PC, PS5, XBXS","Feb 4, 2025","Feb 4, 2025",88,89
+1,599,936,KILL KNIGHT,KILL KNIGHT,"XBXS, PS5, XB1, Switch, PS4, PC","Oct 2, 2024","Oct 2, 2024",88,83
+1,601,290,Hearthstone: Heroes of Warcraft,Hearthstone: Heroes of Warcraft,PC,"Mar 11, 2014","Mar 11, 2014",88,87
+1,602,411,Unity of Command II,Unity of Command 2,PC,"Nov 12, 2019","Nov 12, 2019",88,86
+1,604,264,Metroid Dread,Metroid Dread,Switch,"Oct 8, 2021","Oct 8, 2021",88,87
+1,606,161,Super Mario Maker 2,Super Mario Maker,"Wii-U, 3DS","Jun 28, 2019","Sep 11, 2015",88,89
+1,606,205,Super Mario Maker 2,Super Mario Maker 2,Switch,"Jun 28, 2019","Jun 28, 2019",88,88
+1,607,78,The Crimson Diamond,The Crimson Diamond,PC,"Aug 15, 2024","Aug 15, 2024",88,90
+1,614,281,Shogun Showdown,Shogun Showdown,"PC, Switch, PS5, PS4, XB1, XBXS","Sep 5, 2024","Sep 5, 2024",88,87
+1,615,200,God of War: Ragnarok - Valhalla,God of War Ragnarok: Valhalla,"PS5, PS4","Dec 12, 2023","Dec 12, 2023",88,88
+1,617,246,Monster Hunter Rise,Monster Hunter Rise,"Switch, PC, PS5, PS4, XBXS, XB1","Mar 26, 2021","Mar 26, 2021",88,88
+1,621,785,Fire Emblem Fates: Revelation,Fire Emblem Fates: Revelation,3DS,"Mar 10, 2016","Mar 10, 2016",88,84
+1,622,117,Sid Meier's Civilization VI,Sid Meier's Civilization VI,"PC, PS4, XB1, Switch","Oct 20, 2016","Oct 21, 2016",88,89
+1,622,1332,Sid Meier's Civilization VI,Sid Meier's Civilization VII,"PS5, PS4, XBXS, XB1, Switch, PC","Oct 20, 2016","Feb 11, 2025",88,81
+1,623,296,Battlefield 1,Battlefield 1,"PS4, XB1, PC, XBXS, PS5","Oct 21, 2016","Oct 21, 2016",88,87
+1,623,2071,Battlefield 1,Battlefield V,"XB1, PC, PS4, XBXS, PS5","Oct 21, 2016","Nov 20, 2018",88,79
+1,623,2147,Battlefield 1,Battlefield 4,"PS4, XB1, PC, XBXS, PS5","Oct 21, 2016","Oct 29, 2013",88,79
+1,624,181,Paper Mario: The Thousand-Year Door,Paper Mario: The Thousand-Year Door,Switch,"May 23, 2024","May 23, 2024",88,88
+1,625,297,Starcraft II: Legacy of the Void,StarCraft II: Legacy of the Void,PC,"Nov 10, 2015","Nov 10, 2015",88,87
+1,627,327,Resident Evil 4: Separate Ways,Resident Evil 4: Separate Ways,"XBXS, PS5, PC, PS4","Sep 21, 2023","Sep 21, 2023",88,87
+1,628,273,Diablo III: Eternal Collection,Diablo III: Eternal Collection,Switch,"Nov 2, 2018","Nov 2, 2018",88,87
+1,633,233,SteamWorld Dig 2,SteamWorld Dig 2,"Switch, PC, PS4, Vita, PS5","Sep 21, 2017","Sep 21, 2017",88,88
+1,633,1150,SteamWorld Dig 2,SteamWorld Dig,"PS4, XB1, Wii-U, PC, XBXS, PS5, 3DS, Switch","Sep 21, 2017","Aug 7, 2013",88,82
+1,637,165,World of Warcraft: Legion,World of Warcraft: Legion,PC,"Aug 29, 2016","Aug 30, 2016",88,89
+1,638,157,Pillars of Eternity II: Deadfire,Pillars of Eternity II: Deadfire,"PC, PS5, PS4, XBXS, XB1","May 8, 2018","May 8, 2018",88,89
+1,640,1735,Art of Balance,Art of Balance,"PS4, PS5","Feb 15, 2010","Jun 3, 2016",88,80
+1,647,130,HYPER DEMON,HYPER DEMON,PC,"Sep 19, 2022","Sep 19, 2022",88,89
+1,648,222,Owlboy,Owlboy,"PS4, XB1, PC, Switch, XBXS, PS5","Nov 1, 2016","Nov 1, 2016",88,88
+1,651,303,MULLET MADJACK,MULLET MADJACK,PC,"May 15, 2024","May 15, 2024",88,87
+1,652,443,Night in the Woods,Night in the Woods,"PS4, PC, PS5, XB1, XBXS","Feb 21, 2017","Feb 21, 2017",88,86
+1,656,235,Nioh,Nioh,"PS4, PS5, PC","Feb 7, 2017","Feb 7, 2017",88,88
+1,660,156,Halls of Torment,Halls of Torment,PC,"Sep 24, 2024","Sep 24, 2024",88,89
+1,661,158,Mortal Kombat 11 Ultimate,Mortal Kombat 11 Ultimate,"XBXS, PS5, Switch, PC, XB1, PS4, Stadia","Nov 17, 2020","Nov 17, 2020",88,89
+1,665,789,Rocksmith 2014 Edition,Rocksmith 2014 Edition,"PS4, XB1, PC, XBXS, PS5","Oct 22, 2013","Oct 22, 2013",87,84
+1,666,148,Guacamelee! Super Turbo Championship Edition,Guacamelee! Super Turbo Championship Edition,"PS4, XB1, Wii-U, PC, XBXS, PS5, Switch","Jul 1, 2014","Jul 1, 2014",87,89
+1,668,690,Subnautica,Subnautica,"XB1, PC, PS4, XBXS, PS5, Switch","Jan 23, 2018","Jan 23, 2018",87,84
+1,669,182,Devil May Cry 5,Devil May Cry 5,"PS4, XB1, PC, XBXS, PS5","Mar 8, 2019","Mar 8, 2019",87,88
+1,671,371,Football Manager 2010,Football Manager 2022,"XBXS, XB1, PC","Nov 3, 2009","Nov 9, 2021",87,86
+1,671,436,Football Manager 2010,Football Manager 2020,"PC, Stadia","Nov 3, 2009","Nov 19, 2019",87,86
+1,671,523,Football Manager 2010,Football Manager 2021,"PC, Switch, XB1","Nov 3, 2009","Nov 10, 2020",87,85
+1,671,536,Football Manager 2010,Football Manager 2019,PC,"Nov 3, 2009","Oct 2, 2018",87,85
+1,671,832,Football Manager 2010,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Nov 3, 2009","Nov 8, 2022",87,83
+1,671,1013,Football Manager 2010,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Nov 3, 2009","Nov 6, 2023",87,83
+1,671,1145,Football Manager 2010,Football Manager 2016,PC,"Nov 3, 2009","Nov 13, 2015",87,82
+1,671,1327,Football Manager 2010,Football Manager 2017,PC,"Nov 3, 2009","Nov 4, 2016",87,81
+1,671,1669,Football Manager 2010,Football Manager 2018,PC,"Nov 3, 2009","Nov 10, 2017",87,80
+1,672,254,Final Fantasy XIV: Stormblood,Final Fantasy XIV: Stormblood,"PS4, PC, PS5","Jun 20, 2017","Jun 20, 2017",87,88
+1,673,399,Bloodborne: The Old Hunters,Bloodborne: The Old Hunters,"PS4, PS5","Nov 24, 2015","Nov 24, 2015",87,86
+1,674,515,Hitman 3,Hitman 3,"Switch, PS4, XB1, Stadia, PS5, XBXS, PC","Jan 20, 2021","Jan 20, 2021",87,85
+1,675,247,Persona 3 Reload,Persona 3 Reload,"XBXS, PS5, PC, XB1, PS4","Feb 2, 2024","Feb 2, 2024",87,88
+1,676,269,Injustice 2,Injustice 2,"PS4, XB1, XBXS, PS5, PC","May 16, 2017","May 11, 2017",87,87
+1,677,287,Ghost of Tsushima: Director's Cut,Ghost of Tsushima Director's Cut,"PS5, PS4, PC","Aug 20, 2021","Aug 20, 2021",87,87
+1,679,438,The Witness,The Witness,"PS4, XB1, PC, XBXS, PS5","Jan 26, 2016","Jan 26, 2016",87,86
+1,680,874,Mouthwashing,Mouthwashing,PC,"Sep 26, 2024","Sep 26, 2024",87,83
+1,682,295,The Nioh Collection,The Nioh Collection,PS5,"Feb 5, 2021","Feb 5, 2021",87,87
+1,683,193,Final Fantasy VII Remake,Final Fantasy VII Remake,"PS4, PS5, PC","Apr 10, 2020","Apr 10, 2020",87,88
+1,687,448,RimWorld,RimWorld,"PC, PS4, XB1","Oct 17, 2018","Oct 17, 2018",87,86
+1,694,280,Street Fighter V: Arcade Edition,Street Fighter V: Arcade Edition,"PC, PS4, PS5","Jan 16, 2018","Jan 16, 2018",87,87
+1,695,147,Sea of Stars,Sea of Stars,"PC, Switch, XBXS, PS5, XB1, PS4","Aug 29, 2023","Aug 29, 2023",87,89
+1,696,292,Astral Chain,Astral Chain,Switch,"Aug 30, 2019","Aug 30, 2019",87,87
+1,698,466,Guilty Gear -Strive-,Guilty Gear -Strive-,"PS4, PS5, XB1, PC, Switch, PS5","Jun 8, 2021","Jun 11, 2021",87,86
+1,699,284,Crypt of the NecroDancer,Crypt of the NecroDancer,"PS4, PC, PS5, Switch, XB1","Apr 23, 2015","Apr 23, 2015",87,87
+1,700,376,Tactical Breach Wizards,Tactical Breach Wizards,PC,"Aug 22, 2024","Aug 22, 2024",87,86
+1,701,170,Shin Megami Tensei V: Vengeance,Shin Megami Tensei V: Vengeance,"XBXS, PS5, Switch, PC, XB1, PS4","Jun 14, 2024","Jun 14, 2024",87,89
+1,702,223,Legends of Runeterra,Legends of Runeterra,PC,"Apr 29, 2020","Apr 30, 2020",87,88
+1,704,1667,Sins of a Solar Empire,Sins of a Solar Empire II,PC,"Feb 4, 2008","Aug 15, 2024",87,80
+1,705,741,Five Nights at Freddy's: Into the Pit,Five Nights at Freddy's: Into the Pit,"PC, Switch, PS4, PS5, XB1, XBXS","Aug 8, 2024","Nov 29, 2019",87,84
+1,713,231,Pikmin 4,Pikmin 4,Switch,"Jul 21, 2023","Jul 21, 2023",87,88
+1,715,250,Final Fantasy XVI,Final Fantasy XVI,"PS5, PC","Jun 22, 2023","Jun 22, 2023",87,88
+1,715,1463,Final Fantasy XVI,Final Fantasy VII,"PS4, PS5, Switch, PC, XBXS, XB1","Jun 22, 2023","Jul 4, 2013",87,81
+1,715,1514,Final Fantasy XVI,Final Fantasy IX,"PS4, PS5, Switch, XB1, PC","Jun 22, 2023","Apr 14, 2016",87,81
+1,715,1524,Final Fantasy XVI,Final Fantasy XV,"PS4, XB1, PC, Stadia, XBXS, PS5","Jun 22, 2023","Nov 29, 2016",87,81
+1,717,237,Uncharted: Legacy of Thieves Collection,Uncharted: Legacy of Thieves Collection,"PC, PS5","Jan 28, 2022","Jan 28, 2022",87,88
+1,719,283,Gran Turismo 7,Gran Turismo 7,"PS5, PS4","Mar 4, 2022","Mar 4, 2022",87,87
+1,723,627,The Swapper,The Swapper,"PS4, XB1, Wii-U, PC, XBXS, PS5","May 30, 2013","May 30, 2013",87,85
+1,726,446,Dragon Ball FighterZ,Dragon Ball FighterZ,"PS4, XB1, PC, XBXS, PS5, Switch","Jan 26, 2018","Jan 26, 2018",87,86
+1,727,309,The Legend of Zelda: Link's Awakening,The Legend of Zelda: Link's Awakening,Switch,"Sep 20, 2019","Sep 20, 2019",87,87
+1,729,1895,Mini Motorways,Mini Motorways,"PC, Switch","Jul 20, 2021","Sep 19, 2019",87,80
+1,730,451,Batman: Arkham Knight,Batman: Arkham Knight,"PS4, XB1, PC, XBXS, PS5","Jun 23, 2015","Jun 23, 2015",87,86
+1,733,135,Mario Kart 8 DLC Pack 1,Mario Kart 8 DLC Pack 2,Wii-U,"Nov 13, 2014","Apr 23, 2015",87,89
+1,733,285,Mario Kart 8 DLC Pack 1,Mario Kart 8 DLC Pack 1,Wii-U,"Nov 13, 2014","Nov 13, 2014",87,87
+1,735,197,Immortality,Immortality,"XBXS, PC","Aug 30, 2022","Aug 30, 2022",87,88
+1,738,198,Marvel's Spider-Man,Marvel's Spider-Man 2,"PS5, PC","Sep 7, 2018","Oct 20, 2023",87,88
+1,738,209,Marvel's Spider-Man,Marvel's Spider-Man,"PS4, PS5, PC","Sep 7, 2018","Sep 7, 2018",87,88
+1,742,181,Paper Mario: The Thousand-Year Door (2004),Paper Mario: The Thousand-Year Door,Switch,"Oct 11, 2004","May 23, 2024",87,88
+1,748,174,Forza Motorsport 6,Forza Motorsport 6,"XB1, XBXS, PC","Sep 15, 2015","Sep 14, 2015",87,88
+1,748,480,Forza Motorsport 6,Forza Motorsport 7,"XB1, PC, XBXS","Sep 15, 2015","Oct 3, 2017",87,85
+1,748,790,Forza Motorsport 6,Forza Motorsport,"PC, XBXS","Sep 15, 2015","Oct 10, 2023",87,84
+1,748,1705,Forza Motorsport 6,Forza Motorsport 5,"XB1, XBXS","Sep 15, 2015","Nov 22, 2013",87,80
+1,751,771,Call of Duty: Black Ops,Call of Duty: Black Ops 4,"PS4, XB1, PC, XBXS, PS5","Nov 9, 2010","Oct 12, 2018",87,84
+1,751,824,Call of Duty: Black Ops,Call of Duty: Black Ops 6,"PC, PS5, XBXS, XB1, PS4","Nov 9, 2010","Oct 24, 2024",87,83
+1,751,2034,Call of Duty: Black Ops,Call of Duty: Black Ops III,"PS4, XB1, PC, XBXS, PS5","Nov 9, 2010","Nov 6, 2015",87,79
+1,752,358,Fire Emblem Fates: Conquest,Fire Emblem Fates: Conquest,3DS,"Feb 19, 2016","Feb 19, 2016",87,86
+1,753,802,TowerFall Ascension,TowerFall Ascension,"PS4, PC, PS5","Mar 11, 2014","Mar 11, 2014",87,84
+1,754,346,Tearaway,Tearaway,Vita,"Nov 22, 2013","Nov 22, 2013",87,87
+1,756,395,Theatrhythm Final Bar Line,Theatrhythm Final Bar Line,"Switch, PS4","Feb 16, 2023","Feb 16, 2023",87,86
+1,758,469,MLB 13: The Show,MLB 19: The Show,"PS4, PS5","Mar 5, 2013","Mar 26, 2019",87,86
+1,758,512,MLB 13: The Show,MLB 16: The Show,"PS4, PS5","Mar 5, 2013","Mar 29, 2016",87,85
+1,758,517,MLB 13: The Show,MLB 17: The Show,"PS4, PS5","Mar 5, 2013","Mar 28, 2017",87,85
+1,758,1074,MLB 13: The Show,MLB 14: The Show,"PS4, PS5","Mar 5, 2013","May 6, 2014",87,82
+1,758,1112,MLB 13: The Show,MLB 18: The Show,"PS4, PS5","Mar 5, 2013","Mar 27, 2018",87,82
+1,758,1698,MLB 13: The Show,MLB 15: The Show,"PS4, PS5","Mar 5, 2013","Mar 31, 2015",87,80
+1,759,162,Psychonauts 2,Psychonauts 2,"PC, XB1, XBXS, PS4","Aug 25, 2021","Aug 25, 2021",87,89
+1,759,172,Psychonauts 2,Psychonauts,"XBXS, PC, XB1, PS4","Aug 25, 2021","Apr 19, 2005",87,89
+1,766,1675,Raw Data,Raw Data,"Vive, Quest, PSVR","Oct 2, 2017","Oct 5, 2017",87,80
+1,768,422,Astral Ascent,Astral Ascent,"PS5, PS4, Switch, PC","Nov 14, 2023","Nov 14, 2023",87,86
+1,769,306,Diablo III: Reaper of Souls,Diablo III: Reaper of Souls,PC,"Mar 25, 2014","Mar 25, 2014",87,87
+1,771,949,Pro Evolution Soccer 2016,Pro Evolution Soccer 2017,"PS4, XB1, PC, XBXS, PS5","Sep 15, 2015","Sep 15, 2016",87,83
+1,771,997,Pro Evolution Soccer 2016,Pro Evolution Soccer 2016,"PS4, XB1, PC, XBXS, PS5","Sep 15, 2015","Sep 15, 2015",87,83
+1,771,1216,Pro Evolution Soccer 2016,Pro Evolution Soccer 2018,"PS4, XB1, PC, XBXS, PS5","Sep 15, 2015","Sep 12, 2017",87,82
+1,771,1633,Pro Evolution Soccer 2016,Pro Evolution Soccer 2015,"PS4, XB1, PC, XBXS, PS5","Sep 15, 2015","Nov 10, 2014",87,80
+1,771,2415,Pro Evolution Soccer 2016,Pro Evolution Soccer 2019,"PS4, XB1, PC, XBXS, PS5","Sep 15, 2015","Aug 28, 2018",87,78
+1,777,484,Zero Escape: The Nonary Games,Zero Escape: The Nonary Games,"PS4, PC, Vita, PS5, XBXS, XB1","Mar 24, 2017","Mar 24, 2017",87,85
+1,778,469,MLB 12: The Show,MLB 19: The Show,"PS4, PS5","Mar 6, 2012","Mar 26, 2019",87,86
+1,778,512,MLB 12: The Show,MLB 16: The Show,"PS4, PS5","Mar 6, 2012","Mar 29, 2016",87,85
+1,778,517,MLB 12: The Show,MLB 17: The Show,"PS4, PS5","Mar 6, 2012","Mar 28, 2017",87,85
+1,778,1074,MLB 12: The Show,MLB 14: The Show,"PS4, PS5","Mar 6, 2012","May 6, 2014",87,82
+1,778,1112,MLB 12: The Show,MLB 18: The Show,"PS4, PS5","Mar 6, 2012","Mar 27, 2018",87,82
+1,778,1698,MLB 12: The Show,MLB 15: The Show,"PS4, PS5","Mar 6, 2012","Mar 31, 2015",87,80
+1,780,384,Final Fantasy VI Pixel Remaster,Final Fantasy VI Pixel Remaster,PC,"Feb 23, 2022","Feb 23, 2022",87,86
+1,780,513,Final Fantasy VI Pixel Remaster,Final Fantasy IV Pixel Remaster,PC,"Feb 23, 2022","Sep 8, 2021",87,85
+1,780,539,Final Fantasy VI Pixel Remaster,Final Fantasy V Pixel Remaster,PC,"Feb 23, 2022","Nov 10, 2021",87,85
+1,780,881,Final Fantasy VI Pixel Remaster,Final Fantasy Pixel Remaster,"PC, Switch, PS4","Feb 23, 2022","Jul 28, 2021",87,83
+1,780,1170,Final Fantasy VI Pixel Remaster,Final Fantasy III Pixel Remaster,PC,"Feb 23, 2022","Jul 28, 2021",87,82
+1,780,1540,Final Fantasy VI Pixel Remaster,Final Fantasy II Pixel Remaster,PC,"Feb 23, 2022","Jul 28, 2021",87,81
+1,781,270,Mass Effect Legendary Edition,Mass Effect Legendary Edition,"PS4, PC, XBXS, PS5, XB1","May 14, 2021","May 14, 2021",87,87
+1,782,328,Wolfenstein II: The New Colossus,Wolfenstein 2: The New Colossus,"PS4, XB1, PC, XBXS, PS5, Switch","Oct 27, 2017","Oct 27, 2017",87,87
+1,784,178,Odin Sphere Leifthrasir,Odin Sphere Leifthrasir,"PS4, Vita, PS5","Jun 7, 2016","Jun 7, 2016",87,88
+1,786,415,Grindstone,Grindstone,Switch,"Dec 15, 2020","Dec 15, 2020",87,86
+1,787,17,Divinity: Original Sin,Divinity: Original Sin 2,"PC, Switch, PS4, XB1","Jun 30, 2014","Sep 14, 2017",87,93
+1,787,524,Divinity: Original Sin,Divinity: Original Sin,"PC, PS4, XB1","Jun 30, 2014","Jun 30, 2014",87,85
+1,788,316,Unavowed,Unavowed,PC,"Aug 8, 2018","Aug 8, 2018",87,87
+1,795,261,Return to Monkey Island,Return to Monkey Island,"Switch, PC, PS5, XB1, XBXS","Sep 19, 2022","Sep 19, 2022",87,87
+1,797,208,Out of the Park Baseball 4,Out of the Park Baseball 15,PC,"Feb 28, 2002","Apr 21, 2014",87,88
+1,797,238,Out of the Park Baseball 4,Out of the Park Baseball 16,PC,"Feb 28, 2002","Mar 23, 2015",87,88
+1,797,274,Out of the Park Baseball 4,Out of the Park Baseball 17,PC,"Feb 28, 2002","Mar 22, 2016",87,87
+1,799,531,Forza Horizon 3: Blizzard Mountain,Forza Horizon 3 - Blizzard Mountain,"XB1, PC, XBXS","Dec 13, 2016","Dec 13, 2016",87,85
+1,801,324,Spelunky,Spelunky,"Switch, PC, PS4, PS5, Vita, XB1","Jul 4, 2012","Jul 4, 2012",87,87
+1,802,259,Minishoot' Adventures,Minishoot' Adventures,PC,"Apr 2, 2024","Apr 2, 2024",87,88
+1,804,676,The Making of Karateka,The Making of Karateka,"PC, Switch, PS4, PS5, XB1, XBXS","Aug 29, 2023","Aug 29, 2023",87,84
+1,805,350,Dark Souls II: Scholar of the First Sin,Dark Souls II: Scholar of the First Sin,"PS4, XB1, PC, XBXS, PS5","Apr 7, 2015","Apr 1, 2015",87,87
+1,807,272,flower,flower,"PS4, PS5","Feb 12, 2009","Nov 15, 2013",87,87
+1,809,177,Sonic Mania Plus,Sonic Mania Plus,"PS4, XB1, Switch, XBXS, PS5","Jul 17, 2018","Jul 17, 2018",87,88
+1,810,691,NBA 2K16,NBA 2K16,"PS4, XB1, PC, XBXS, PS5","Sep 25, 2015","Sep 29, 2015",87,84
+1,812,487,Sunless Skies,Sunless Skies,"PC, Switch, PS4, XB1","Jan 31, 2019","Jan 31, 2019",87,85
+1,816,282,Tales of Arise,Tales of Arise,"PS5, PC, XBXS, XB1, PS4","Sep 10, 2021","Sep 10, 2021",87,87
+1,817,230,Spelunky 2,Spelunky 2,"PC, PS4, PS5, Switch, XB1, XBXS","Sep 15, 2020","Sep 15, 2020",87,88
+1,818,150,Hi-Fi Rush,Hi-Fi Rush,"XBXS, PC, PS5","Jan 25, 2023","Jan 25, 2023",87,89
+1,819,441,Marvel vs. Capcom Fighting Collection: Arcade Classics,Marvel vs. Capcom Fighting Collection: Arcade Classics,"PS5, PS4, Switch, PC","Sep 12, 2024","Sep 12, 2024",87,86
+1,822,672,Forza Horizon 3: Hot Wheels,Forza Horizon 5: Hot Wheels,"XBXS, XB1, PC","May 9, 2017","Jul 19, 2022",87,84
+1,823,271,Marvel's Spider-Man Remastered,Marvel's Spider-Man: Remastered,"PS5, PC","Aug 12, 2022","Nov 12, 2020",87,87
+1,824,743,ANTONBLAST,ANTONBLAST,"Switch, PC","Dec 3, 2024","Dec 3, 2024",87,84
+1,826,402,World of Warcraft: Warlords of Draenor,World of Warcraft: Warlords of Draenor,PC,"Nov 13, 2014","Nov 13, 2014",87,86
+1,827,121,Turbo Overkill,Turbo Overkill,PC,"Jul 18, 2023","Jul 18, 2023",87,89
+1,828,356,Halo Infinite,Halo Infinite,"PC, XB1, XBXS","Nov 15, 2021","Dec 8, 2021",87,86
+1,833,678,Kingdom Hearts II,Kingdom Hearts III,"PS4, XB1, XBXS, PS5, Switch, PC","Mar 28, 2006","Jan 25, 2019",87,84
+1,834,2242,MotoGP 2,MotoGP 22,"XBXS, PS5, Switch, PS4, XB1, PC","May 21, 2003","Apr 21, 2022",87,79
+1,838,1178,Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock,Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock,"PC, XBXS, PS5, Switch, PS4, XB1, 3DS","Aug 31, 2023","Aug 31, 2023",87,82
+1,841,267,Fallout 4,Fallout 4,"PS4, XB1, PC, XBXS, PS5","Nov 10, 2015","Nov 10, 2015",87,87
+1,844,139,Tales From The Borderlands: Episode 5 - The Vault of the Traveler,Tales from the Borderlands: Episode Five - The Vault of the Traveler,"PS4, XB1, PC, XBXS, PS5","Oct 20, 2015","Oct 20, 2015",86,89
+1,846,552,Gone Home,Gone Home,"PS4, XB1, PC, XBXS, PS5, Switch","Aug 15, 2013","Aug 15, 2013",86,85
+1,848,1115,The Last Friend,The Last Friend,PC,"Apr 7, 2022","Dec 31, 2019",86,82
+1,849,120,Bustafellows,Bustafellows,"PC, Switch","Jul 30, 2021","Jul 30, 2021",86,89
+1,852,461,Uncharted: The Nathan Drake Collection,Uncharted: The Nathan Drake Collection,"PS4, PS5","Oct 9, 2015","Oct 9, 2015",86,86
+1,854,603,The Great Ace Attorney Chronicles,The Great Ace Attorney Chronicles,"PS4, Switch, PC","Jul 27, 2021","Jul 26, 2021",86,85
+1,857,322,Neva,Neva,"Switch, XBXS, PS5, PC","Oct 15, 2024","Oct 15, 2024",86,87
+1,859,276,Silent Hill,Silent Hill 2,"PS5, PC","Feb 24, 1999","Oct 8, 2024",86,87
+1,865,1195,Minds Beneath Us,Minds Beneath Us,PC,"Jul 31, 2024","Jul 31, 2024",86,82
+1,866,371,Football Manager 2013,Football Manager 2022,"XBXS, XB1, PC","Nov 1, 2012","Nov 9, 2021",86,86
+1,866,436,Football Manager 2013,Football Manager 2020,"PC, Stadia","Nov 1, 2012","Nov 19, 2019",86,86
+1,866,523,Football Manager 2013,Football Manager 2021,"PC, Switch, XB1","Nov 1, 2012","Nov 10, 2020",86,85
+1,866,536,Football Manager 2013,Football Manager 2019,PC,"Nov 1, 2012","Oct 2, 2018",86,85
+1,866,832,Football Manager 2013,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Nov 1, 2012","Nov 8, 2022",86,83
+1,866,1013,Football Manager 2013,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Nov 1, 2012","Nov 6, 2023",86,83
+1,866,1145,Football Manager 2013,Football Manager 2016,PC,"Nov 1, 2012","Nov 13, 2015",86,82
+1,866,1327,Football Manager 2013,Football Manager 2017,PC,"Nov 1, 2012","Nov 4, 2016",86,81
+1,866,1669,Football Manager 2013,Football Manager 2018,PC,"Nov 1, 2012","Nov 10, 2017",86,80
+1,867,208,Out of the Park Baseball 14,Out of the Park Baseball 15,PC,"Apr 15, 2013","Apr 21, 2014",86,88
+1,867,238,Out of the Park Baseball 14,Out of the Park Baseball 16,PC,"Apr 15, 2013","Mar 23, 2015",86,88
+1,867,274,Out of the Park Baseball 14,Out of the Park Baseball 17,PC,"Apr 15, 2013","Mar 22, 2016",86,87
+1,868,187,Warhammer 40K: Rogue Trader - Void Shadows,"Warhammer 40,000: Rogue Trader - Void Shadows","XBXS, PS5, PC","Sep 24, 2024","Sep 24, 2024",86,88
+1,869,219,Overboard!,Overboard!,"Switch, PC","Jun 2, 2021","Jun 2, 2021",86,88
+1,872,388,F1 2017,F1 2017,"PS4, XB1, PC, XBXS, PS5","Aug 25, 2017","Aug 25, 2017",86,86
+1,873,1015,Astebreed,Astebreed,"PS4, PC, PS5, Switch","May 30, 2014","Dec 31, 2013",86,83
+1,874,212,Unicorn Overlord,Unicorn Overlord,"XBXS, PS5, PS4, Switch","Mar 8, 2024","Mar 8, 2024",86,88
+1,876,225,Cuphead,Cuphead,"XB1, PC, Switch, PS4, XBXS, PS5","Sep 29, 2017","Sep 29, 2017",86,88
+1,877,530,Velocity 2X,Velocity 2X,"PS4, XB1, PC, XBXS, PS5, Switch","Sep 2, 2014","Sep 2, 2014",86,85
+1,878,511,Valkyria Chronicles,Valkyria Chronicles,PC,"Nov 4, 2008","Nov 11, 2014",86,85
+1,878,695,Valkyria Chronicles,Valkyria Chronicles 4,"PS4, XB1, PC, Switch, XBXS, PS5","Nov 4, 2008","Sep 25, 2018",86,84
+1,879,476,Killer Instinct Season 3,Killer Instinct: Season 3,"XB1, PC, XBXS","Mar 29, 2016","Mar 29, 2016",86,86
+1,880,423,The Messenger,The Messenger,"PC, Switch","Aug 30, 2018","Aug 30, 2018",86,86
+1,883,124,Kentucky Route Zero,Kentucky Route Zero,"PC, PS4, Switch, XB1","Feb 22, 2013","Jan 7, 2013",86,89
+1,884,203,Diablo IV,Diablo IV,"PS5, PS4, PC, XBXS, XB1","Jun 6, 2023","Jun 6, 2023",86,88
+1,887,188,Vampire Survivors,Vampire Survivors,"PC, Switch, PS4, PS5, XB1, XBXS","Oct 20, 2022","Dec 17, 2021",86,88
+1,888,260,F1 2020,F1 2020,"PC, XB1, PS4, XBXS, PS5","Jul 6, 2020","Jul 10, 2020",86,87
+1,889,393,Monster Hunter Rise: Sunbreak,Monster Hunter Rise: Sunbreak,"PC, Switch","Jun 30, 2022","Jun 29, 2022",86,86
+1,891,465,Monster Boy and the Cursed Kingdom,Monster Boy and the Cursed Kingdom,"PS4, XB1, Switch, XBXS, PS5, PC","Dec 4, 2018","Dec 4, 2018",86,86
+1,899,357,Monster Hunter 4 Ultimate,Monster Hunter 4 Ultimate,3DS,"Feb 13, 2015","Feb 13, 2015",86,86
+1,902,630,Dragon Quest Builders 2,Dragon Quest Builders 2,"Switch, PS4, PC, PS5, XB1","Jul 12, 2019","Jul 12, 2019",86,85
+1,902,835,Dragon Quest Builders 2,Dragon Quest Builders,"PS4, PS5, PC, Switch","Jul 12, 2019","Oct 11, 2016",86,83
+1,904,396,Steins;Gate Elite,Steins;Gate Elite,"PS4, PC, Switch, PS5","Feb 19, 2019","Feb 19, 2019",86,86
+1,908,229,Destiny 2: The Witch Queen,Destiny 2: The Witch Queen,"PC, XBXS, PS5, PS4, XB1","Feb 22, 2022","Feb 22, 2022",86,88
+1,909,305,Titanfall,Titanfall 2,"PS4, XB1, PC, XBXS, PS5","Mar 11, 2014","Oct 28, 2016",86,87
+1,909,533,Titanfall,Titanfall,"XB1, PC, XBXS","Mar 11, 2014","Mar 11, 2014",86,85
+1,910,585,Tomb Raider,Tomb Raider,"PS4, XB1, Stadia, XBXS, PS5, PC","Mar 5, 2013","Mar 5, 2013",86,85
+1,911,360,Picross 3D: Round 2,Picross 3D Round 2,3DS,"Sep 1, 2016","Sep 1, 2016",86,86
+1,914,59,Asgard's Wrath 2,Asgard's Wrath 2,Quest,"Dec 15, 2023","Dec 15, 2023",86,91
+1,914,211,Asgard's Wrath 2,Asgard's Wrath,Quest,"Dec 15, 2023","Oct 9, 2019",86,88
+1,917,372,Ni no Kuni: Wrath of the White Witch Remastered,Ni no Kuni: Wrath of the White Witch Remastered,"PC, PS4, Switch, PS5, XB1, XBXS","Sep 20, 2019","Sep 20, 2019",86,86
+1,922,276,Silent Hill 2,Silent Hill 2,"PS5, PC","Oct 8, 2024","Oct 8, 2024",86,87
+1,924,1320,Panzer Corps 2,Panzer Corps 2,PC,"Mar 19, 2020","Mar 19, 2020",86,81
+1,925,609,Her Story,Her Story,PC,"Jun 24, 2015","Jun 24, 2015",86,85
+1,929,163,Radiant Silvergun,Radiant Silvergun,Switch,"Sep 14, 2011","Sep 13, 2022",86,89
+1,931,326,Prince of Persia: The Lost Crown,Prince of Persia: The Lost Crown,"Switch, PS5, XB1, PS4, PC, XBXS","Jan 18, 2024","Jan 18, 2024",86,87
+1,932,403,Pentiment,Pentiment,"PC, XBXS, XB1, PS5, Switch, PS4","Nov 15, 2022","Nov 15, 2022",86,86
+1,933,66,Bayonetta 3,Bayonetta 2,"Wii-U, Switch","Oct 28, 2022","Oct 24, 2014",86,91
+1,933,491,Bayonetta 3,Bayonetta,"Wii-U, PC, Switch, XB1, PS4","Oct 28, 2022","Oct 24, 2014",86,85
+1,933,621,Bayonetta 3,Bayonetta 3,Switch,"Oct 28, 2022","Oct 28, 2022",86,85
+1,935,428,Riven,Riven,"PC, Quest","Jun 25, 2024","Jun 25, 2024",86,86
+1,937,244,Spin Rhythm XD,Spin Rhythm XD,"PC, Switch, PS4, PS5","Jul 9, 2024","Oct 22, 2019",86,88
+1,938,1453,Lonely Mountains: Snow Riders,Lonely Mountains: Snow Riders,"XBXS, PC","Jan 21, 2025","Jan 21, 2025",86,81
+1,939,2447,Star Wars: Knights of the Old Republic II - The Sith Lords,Star Wars: Knights of the Old Republic II - The Sith Lords,"Switch, PC","Dec 6, 2004","Feb 8, 2005",86,78
+1,948,545,Final Fantasy XII: The Zodiac Age,Final Fantasy XII: The Zodiac Age,"PS4, PS5, Switch","Jul 11, 2017","Jul 11, 2017",86,85
+1,950,315,Homeworld Remastered Collection,Homeworld Remastered Collection,PC,"Feb 25, 2015","Feb 25, 2015",86,87
+1,951,492,Star Wars Pinball,Star Wars Pinball,"PS4, XB1, PC, Switch, XBXS, PS5","Sep 13, 2019","Sep 26, 2017",86,85
+1,951,1285,Star Wars Pinball,Star Wars Pinball VR,"PC, PSVR","Sep 13, 2019","Apr 29, 2021",86,82
+1,959,502,Nioh 2: The Complete Edition,Nioh 2 - The Complete Edition,PC,"Feb 5, 2021","Feb 5, 2021",86,85
+1,962,179,Grapple Dogs: Cosmic Canines,Grapple Dogs: Cosmic Canines,"PC, Switch, XBXS","Sep 12, 2024","Sep 11, 2024",86,88
+1,963,577,Star Ocean: The Second Story R,Star Ocean: The Second Story R,"PS5, PS4, Switch, PC","Nov 2, 2023","Nov 2, 2023",86,85
+1,965,855,HROT,HROT,PC,"May 16, 2023","May 17, 2023",86,83
+1,974,122,Keep Driving,Keep Driving,PC,"Feb 6, 2025","Feb 6, 2025",86,89
+1,975,236,Bastion,Bastion,"PS4, XB1, PC, XBXS, PS5","Jul 20, 2011","Aug 16, 2011",86,88
+1,976,826,Devotion,Devotion,PC,"Feb 19, 2019","Feb 19, 2019",86,83
+1,977,308,Sonic Mania,Sonic Mania,"PS4, XB1, PC, Switch, XBXS, PS5","Aug 15, 2017","Aug 15, 2017",86,87
+1,981,173,Arco,Arco,"PC, Switch","Aug 15, 2024","Aug 15, 2024",86,89
+1,997,516,Desperados III,Desperados III,"PC, XB1, PS4, XBXS, PS5","Jun 16, 2020","Jun 16, 2020",86,85
+1,999,526,Pony Island,Pony Island,PC,"Jan 4, 2016","Jan 4, 2016",86,85
+1,1000,2425,MLB The Show 19,MLB The Show 21,"XB1, XBXS, PS5, PS4","Mar 26, 2019","Apr 16, 2021",86,78
+1,1003,1078,Max Payne 3,Max Payne 3,PC,"May 15, 2012","May 31, 2012",86,82
+1,1006,445,Resident Evil 7: biohazard,Resident Evil 7 Biohazard,"PS4, XB1, PC, XBXS, PS5, Switch","Jan 24, 2017","Jan 24, 2017",86,86
+1,1008,369,Rise of the Tomb Raider,Rise of the Tomb Raider,"PS4, XB1, XBXS, PS5, PC, Stadia","Nov 10, 2015","Nov 10, 2015",86,86
+1,1008,419,Rise of the Tomb Raider,Rise of the Tomb Raider (PC),PC,"Nov 10, 2015","Jan 28, 2016",86,86
+1,1009,1187,Chants of Sennaar,Chants of Sennaar,"PC, Switch, PS4, XB1","Sep 5, 2023","Sep 5, 2023",86,82
+1,1012,36,Forza Horizon 2,Forza Horizon 5,"PC, XB1, XBXS","Sep 30, 2014","Nov 9, 2021",86,92
+1,1012,42,Forza Horizon 2,Forza Horizon 4,"XB1, PC, XBXS","Sep 30, 2014","Oct 2, 2018",86,92
+1,1012,64,Forza Horizon 2,Forza Horizon 3,"XB1, PC, XBXS","Sep 30, 2014","Sep 27, 2016",86,91
+1,1012,226,Forza Horizon 2,Forza Horizon 2,"XB1, XBXS","Sep 30, 2014","Sep 29, 2014",86,88
+1,1013,864,Monster Train,Monster Train,"PC, Switch, XB1","May 21, 2020","May 21, 2020",86,83
+1,1018,420,Beat Saber,Beat Saber,"Vive, Quest, PSVR, PC, PS4, PS5","Nov 20, 2018","Nov 20, 2018",86,86
+1,1019,433,SteamWorld Heist,SteamWorld Heist,"PS4, XB1, Wii-U, PC, 3DS, Vita, XBXS, PS5, Switch","Dec 10, 2015","Dec 10, 2015",86,86
+1,1019,1144,SteamWorld Heist,SteamWorld Heist II,"XBXS, PS5, Switch, PC, XB1, PS4","Dec 10, 2015","Aug 8, 2024",86,82
+1,1022,696,Wildermyth,Wildermyth,"PC, Switch, PS4, PS5, XB1, XBXS","Jun 15, 2021","Jun 15, 2021",86,84
+1,1023,508,Final Fantasy XIV: Heavensward,Final Fantasy XIV: Heavensward,"PS4, PC, PS5","Jun 23, 2015","Jun 23, 2015",86,85
+1,1024,540,Luigi's Mansion 3,Luigi's Mansion 3,Switch,"Oct 31, 2019","Oct 31, 2019",86,85
+1,1027,380,Final Fantasy XIV Online: A Realm Reborn,Final Fantasy XIV Online: A Realm Reborn,"PS4, PC, PS5","Apr 14, 2014","Aug 26, 2013",86,86
+1,1030,277,Dragon's Dogma 2,Dragon's Dogma 2,"PC, PS5, XBXS","Mar 22, 2024","Mar 22, 2024",86,87
+1,1031,514,Armored Core VI: Fires of Rubicon,Armored Core VI: Fires of Rubicon,"PC, PS5, XBXS, XB1","Aug 25, 2023","Aug 24, 2023",86,85
+1,1033,191,Dragon Quest XI: Echoes of an Elusive Age,Dragon Quest XI: Echoes of an Elusive Age,"PS4, PC, PS5","Sep 4, 2018","Sep 4, 2018",86,88
+1,1035,348,Indiana Jones and the Great Circle,Indiana Jones and the Great Circle,"PS5, XBXS, PC","Dec 9, 2024","Dec 9, 2024",86,87
+1,1036,636,Destiny: The Taken King,Destiny: The Taken King,"PS4, XB1, XBXS, PS5","Sep 15, 2015","Sep 15, 2015",86,84
+1,1037,683,Heroes of the Storm,Heroes of the Storm,PC,"Jun 2, 2015","Jun 2, 2015",86,84
+1,1040,1039,Code:Realize - Guardian of Rebirth,Code: Realize ~Guardian of Rebirth~,"Switch, Vita","Oct 20, 2015","Oct 20, 2015",86,83
+1,1041,291,Path of Exile,Path of Exile 2,"PS5, XBXS, PC","Oct 23, 2013","Dec 6, 2024",86,87
+1,1042,404,Returnal,Returnal,PS5,"Apr 30, 2021","Apr 30, 2021",86,86
+1,1043,159,Braid Anniversary Edition,Braid: Anniversary Edition,"XBXS, PS5, Switch, PC, XB1, PS4","May 14, 2024","May 16, 2024",86,89
+1,1045,647,OlliOlli2: Welcome to Olliwood,OlliOlli2: Welcome to Olliwood,"PS4, PC, PS5, Switch, XB1","Mar 3, 2015","Mar 3, 2015",86,84
+1,1046,561,Assault Android Cactus+,Assault Android Cactus+,Switch,"Mar 8, 2019","Mar 8, 2019",86,85
+1,1046,959,Assault Android Cactus+,Assault Android Cactus,"PS4, Wii-U, PC, PS5, Switch, XB1","Mar 8, 2019","Sep 23, 2015",86,83
+1,1047,174,Forza Motorsport 7,Forza Motorsport 6,"XB1, XBXS, PC","Sep 29, 2017","Sep 14, 2015",86,88
+1,1047,480,Forza Motorsport 7,Forza Motorsport 7,"XB1, PC, XBXS","Sep 29, 2017","Oct 3, 2017",86,85
+1,1047,790,Forza Motorsport 7,Forza Motorsport,"PC, XBXS","Sep 29, 2017","Oct 10, 2023",86,84
+1,1047,1705,Forza Motorsport 7,Forza Motorsport 5,"XB1, XBXS","Sep 29, 2017","Nov 22, 2013",86,80
+1,1048,704,Sumire,Sumire,"Switch, PC","May 27, 2021","May 26, 2021",86,84
+1,1049,595,ENDER LILIES: Quietus of the Knights,ENDER LILIES: Quietus of the Knights,"PC, Switch, XB1, XBXS, PS4","Jun 22, 2021","Jan 21, 2021",86,85
+1,1050,371,Football Manager 2019,Football Manager 2022,"XBXS, XB1, PC","Nov 2, 2018","Nov 9, 2021",86,86
+1,1050,436,Football Manager 2019,Football Manager 2020,"PC, Stadia","Nov 2, 2018","Nov 19, 2019",86,86
+1,1050,523,Football Manager 2019,Football Manager 2021,"PC, Switch, XB1","Nov 2, 2018","Nov 10, 2020",86,85
+1,1050,536,Football Manager 2019,Football Manager 2019,PC,"Nov 2, 2018","Oct 2, 2018",86,85
+1,1050,832,Football Manager 2019,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Nov 2, 2018","Nov 8, 2022",86,83
+1,1050,1013,Football Manager 2019,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Nov 2, 2018","Nov 6, 2023",86,83
+1,1050,1145,Football Manager 2019,Football Manager 2016,PC,"Nov 2, 2018","Nov 13, 2015",86,82
+1,1050,1327,Football Manager 2019,Football Manager 2017,PC,"Nov 2, 2018","Nov 4, 2016",86,81
+1,1050,1669,Football Manager 2019,Football Manager 2018,PC,"Nov 2, 2018","Nov 10, 2017",86,80
+1,1054,450,Humanity,Humanity,"PC, PS4, PS5, PSVR, XB1, XBXS","May 16, 2023","May 16, 2023",86,86
+1,1055,494,Day of the Tentacle Remastered,Day of the Tentacle Remastered,"PS4, PC, Vita, XB1, XBXS, PS5","Mar 21, 2016","Mar 22, 2016",86,85
+1,1057,204,Xenoblade Chronicles,Xenoblade Chronicles 3,Switch,"Apr 10, 2015","Jul 29, 2022",86,88
+1,1057,459,Xenoblade Chronicles,Xenoblade Chronicles 3D,3DS,"Apr 10, 2015","Apr 10, 2015",86,86
+1,1057,635,Xenoblade Chronicles,Xenoblade Chronicles X,Wii-U,"Apr 10, 2015","Dec 4, 2015",86,84
+1,1057,972,Xenoblade Chronicles,Xenoblade Chronicles 2,Switch,"Apr 10, 2015","Dec 1, 2017",86,83
+1,1058,534,Fire Emblem Fates: Birthright,Fire Emblem Fates: Birthright,3DS,"Feb 19, 2016","Feb 19, 2016",86,85
+1,1059,588,The Legend of Zelda: Twilight Princess HD,The Legend of Zelda: Twilight Princess HD,Wii-U,"Mar 4, 2016","Mar 4, 2016",86,85
+1,1061,1657,Mini Metro,Mini Metro,"PC, Switch, PS4","Aug 30, 2018","Aug 11, 2014",86,80
+1,1063,686,Resogun: Heroes,Resogun: Heroes,"PS4, PS5","Jun 24, 2014","Jun 24, 2014",86,84
+1,1064,398,Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda,Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda,Switch,"Jun 13, 2019","Jun 13, 2019",85,86
+1,1065,497,Monster Hunter Generations,Monster Hunter Generations,3DS,"Jul 15, 2016","Jul 15, 2016",85,85
+1,1066,496,The Legend of Zelda: Echoes of Wisdom,The Legend of Zelda: Echoes of Wisdom,Switch,"Sep 26, 2024","Sep 26, 2024",85,85
+1,1069,368,Inscryption,Inscryption,"PC, PS5, PS4","Oct 19, 2021","Aug 30, 2020",85,86
+1,1070,400,Risk of Rain 2,Risk of Rain 2,"PS4, XB1, PC, Switch, XBXS, PS5","Aug 11, 2020","Aug 30, 2019",85,86
+1,1072,481,Mario + Rabbids Sparks of Hope,Mario + Rabbids: Sparks of Hope,Switch,"Oct 20, 2022","Oct 20, 2022",85,85
+1,1074,137,The Talos Principle,The Talos Principle 2,"PS5, PC, XBXS","Dec 11, 2014","Nov 2, 2023",85,89
+1,1074,329,The Talos Principle,The Talos Principle,"PS4, PC, PS5, XB1, Switch","Dec 11, 2014","Dec 11, 2014",85,87
+1,1075,926,Cities: Skylines,Cities: Skylines,"PS4, XB1, PC, XBXS, PS5, Switch","Mar 10, 2015","Mar 10, 2015",85,83
+1,1076,550,DiRT Rally,DiRT Rally,"PS4, XB1, PC, XBXS, PS5","Apr 5, 2016","Dec 7, 2015",85,85
+1,1079,499,Citizen Sleeper 2: Starward Vector,Citizen Sleeper 2: Starward Vector,"PS5, Switch, XBXS, PC","Jan 31, 2025","Jan 31, 2025",85,85
+1,1080,365,Metroid: Samus Returns,Metroid: Samus Returns,3DS,"Sep 15, 2017","Sep 15, 2017",85,86
+1,1081,610,World of Warcraft: The War Within,World of Warcraft: The War Within,PC,"Aug 26, 2024","Aug 26, 2024",85,85
+1,1085,948,Buckshot Roulette,Buckshot Roulette,PC,"Dec 28, 2023","Apr 4, 2024",85,83
+1,1086,2170,Kingdom Two Crowns,Kingdom Two Crowns,"PS4, XB1, PC, Switch, XBXS, PS5","Dec 11, 2018","Dec 11, 2018",85,79
+1,1087,525,Deep Rock Galactic,Deep Rock Galactic,"PC, XB1, XBXS, PS5, PS4","May 13, 2020","May 13, 2020",85,85
+1,1090,673,Closer the Distance,Closer the Distance,"PS5, XBXS, PC, PS4, XB1","Aug 2, 2024","Aug 2, 2024",85,84
+1,1093,429,Wasteland 3,Wasteland 3,"PS4, PC, XB1, XBXS, PS5","Aug 28, 2020","Aug 28, 2020",85,86
+1,1093,1462,Wasteland 3,Wasteland 2,"PC, XB1, Switch, PS4","Aug 28, 2020","Sep 19, 2014",85,81
+1,1094,748,Legend of Grimrock II,Legend of Grimrock II,PC,"Oct 15, 2014","Oct 15, 2014",85,84
+1,1100,234,Dragon Age: Inquisition,Dragon Age: Inquisition,"PS4, XB1, PC, XBXS, PS5","Nov 18, 2014","Nov 18, 2014",85,88
+1,1103,1696,Among Us,Among Us,"PC, Switch, PS4, PS5, XB1, XBXS","Nov 16, 2018","Jun 5, 2018",85,80
+1,1104,1112,MLB 08: The Show,MLB 18: The Show,"PS4, PS5","Mar 4, 2008","Mar 27, 2018",85,82
+1,1106,370,13 Sentinels: Aegis Rim,13 Sentinels Aegis Rim,"PS4, PS5","Sep 22, 2020","Sep 22, 2020",85,86
+1,1107,1008,The Outer Worlds,The Outer Worlds,"PC, PS4, XB1, XBXS, PS5, Switch","Oct 25, 2019","Oct 25, 2019",85,83
+1,1108,634,Horizon Zero Dawn Remastered,Horizon Zero Dawn Remastered,"PS5, PC","Oct 31, 2024","Oct 31, 2024",85,84
+1,1112,1086,Blaster Master Zero II,Blaster Master Zero 2,Switch,"Mar 20, 2019","Mar 20, 2019",85,82
+1,1112,2088,Blaster Master Zero II,Blaster Master Zero,"Switch, 3DS, PC, PS4, XB1","Mar 20, 2019","Mar 9, 2017",85,79
+1,1112,2475,Blaster Master Zero II,Blaster Master Zero III,"Switch, PS5, XBXS, XB1, PS4, PC","Mar 20, 2019","Jul 29, 2021",85,78
+1,1121,520,Pillars of Eternity: Complete Edition,Pillars of Eternity: Complete Edition,"XB1, PS4, Switch, PC, XBXS, PS5","Aug 29, 2017","Aug 29, 2017",85,85
+1,1122,640,Bravely Default,Bravely Default,3DS,"Feb 7, 2014","Feb 7, 2014",85,84
+1,1123,708,Star Wars Jedi: Survivor,Star Wars Jedi: Survivor,"PS5, PC, XBXS","Apr 28, 2023","Apr 28, 2023",85,84
+1,1127,105,Paradigm,Paradigm,PC,"Apr 5, 2017","Apr 5, 2017",85,89
+1,1129,567,Bug Fables: The Everlasting Sapling,Bug Fables: The Everlasting Sapling,"PC, XB1, PS4, Switch, XBXS, PS5","May 28, 2020","Nov 21, 2019",85,85
+1,1131,1514,Final Fantasy X-2,Final Fantasy IX,"PS4, PS5, Switch, XB1, PC","Nov 18, 2003","Apr 14, 2016",85,81
+1,1131,1524,Final Fantasy X-2,Final Fantasy XV,"PS4, XB1, PC, Stadia, XBXS, PS5","Nov 18, 2003","Nov 29, 2016",85,81
+1,1132,587,Battlerite,Battlerite,PC,"Nov 8, 2017","Nov 8, 2017",85,85
+1,1134,910,Madden NFL 10,Madden NFL 16,"PS4, XB1, XBXS, PS5","Aug 14, 2009","Aug 25, 2015",85,83
+1,1134,979,Madden NFL 10,Madden NFL 17,"PS4, XB1, XBXS, PS5","Aug 14, 2009","Aug 23, 2016",85,83
+1,1134,1278,Madden NFL 10,Madden NFL 18,"PS4, XB1, XBXS, PS5","Aug 14, 2009","Aug 25, 2017",85,82
+1,1134,1485,Madden NFL 10,Madden NFL 15,"PS4, XB1, XBXS, PS5","Aug 14, 2009","Aug 26, 2014",85,81
+1,1134,2004,Madden NFL 10,Madden NFL 19,"XB1, PC, PS4, XBXS, PS5","Aug 14, 2009","Aug 10, 2018",85,79
+1,1140,364,Teenage Mutant Ninja Turtles: Shredder's Revenge,Teenage Mutant Ninja Turtles: Shredder's Revenge,"XBXS, PS5, XB1, Switch, PS4, PC","Jun 16, 2022","Jun 16, 2022",85,86
+1,1150,208,Out of the Park Baseball 13,Out of the Park Baseball 15,PC,"Apr 9, 2012","Apr 21, 2014",85,88
+1,1150,238,Out of the Park Baseball 13,Out of the Park Baseball 16,PC,"Apr 9, 2012","Mar 23, 2015",85,88
+1,1150,274,Out of the Park Baseball 13,Out of the Park Baseball 17,PC,"Apr 9, 2012","Mar 22, 2016",85,87
+1,1151,1405,Nioh: Bloodshed's End,Nioh: Bloodshed's End,"PS4, PS5","Sep 26, 2017","Sep 26, 2017",85,81
+1,1152,2104,Final Fantasy XV: Royal Edition,Final Fantasy XV: Royal Edition,"XB1, PS4, XBXS, PS5","Mar 6, 2018","Mar 6, 2018",85,79
+1,1153,208,Out of the Park Baseball 13,Out of the Park Baseball 15,PC,"Apr 9, 2012","Apr 21, 2014",85,88
+1,1153,238,Out of the Park Baseball 13,Out of the Park Baseball 16,PC,"Apr 9, 2012","Mar 23, 2015",85,88
+1,1153,274,Out of the Park Baseball 13,Out of the Park Baseball 17,PC,"Apr 9, 2012","Mar 22, 2016",85,87
+1,1156,349,Rocket League,Rocket League,"PS4, XB1, PC, Switch, XBXS, PS5","Jul 7, 2015","Jul 6, 2015",85,87
+1,1161,537,Control: Ultimate Edition,Control: Ultimate Edition,"PC, PS4, XB1, XBXS, PS5, Switch","Feb 2, 2021","Aug 27, 2020",85,85
+1,1162,795,SoulCalibur IV,SoulCalibur VI,"PS4, XB1, PC, XBXS, PS5","Jul 29, 2008","Oct 18, 2018",85,84
+1,1163,767,The Forgotten City,The Forgotten City,"PC, Switch, PS4, PS5, XB1, XBXS","Jul 28, 2021","Sep 23, 2020",85,84
+1,1165,475,Frostpunk 2,Frostpunk,"PC, XB1, PS4, PS5","Sep 17, 2024","Apr 24, 2018",85,86
+1,1165,490,Frostpunk 2,Frostpunk 2,PC,"Sep 17, 2024","Sep 20, 2024",85,85
+1,1166,518,Marvel's Spider-Man: Miles Morales,Marvel's Spider-Man: Miles Morales,"PS5, PS4, PC","Nov 12, 2020","Nov 12, 2020",85,85
+1,1167,220,The Binding of Isaac: Afterbirth,The Binding of Isaac: Afterbirth,PC,"Oct 30, 2015","Oct 30, 2015",85,88
+1,1167,323,The Binding of Isaac: Afterbirth,The Binding of Isaac: Rebirth,"PS4, XB1, Wii-U, PC, XBXS, PS5, Switch","Oct 30, 2015","Nov 4, 2014",85,87
+1,1167,1117,The Binding of Isaac: Afterbirth,The Binding of Isaac: Afterbirth+,"PC, Switch","Oct 30, 2015","Jan 3, 2017",85,82
+1,1171,36,Forza Horizon,Forza Horizon 5,"PC, XB1, XBXS","Oct 23, 2012","Nov 9, 2021",85,92
+1,1171,42,Forza Horizon,Forza Horizon 4,"XB1, PC, XBXS","Oct 23, 2012","Oct 2, 2018",85,92
+1,1171,64,Forza Horizon,Forza Horizon 3,"XB1, PC, XBXS","Oct 23, 2012","Sep 27, 2016",85,91
+1,1171,226,Forza Horizon,Forza Horizon 2,"XB1, XBXS","Oct 23, 2012","Sep 29, 2014",85,88
+1,1175,176,Solium Infernum,Solium Infernum,PC,"Feb 22, 2024","Feb 22, 2024",85,88
+1,1177,925,The Roottrees are Dead,The Roottrees Are Dead,PC,"Jan 15, 2025","Jan 15, 2025",85,83
+1,1178,371,Football Manager 2011,Football Manager 2022,"XBXS, XB1, PC","Nov 4, 2010","Nov 9, 2021",85,86
+1,1178,436,Football Manager 2011,Football Manager 2020,"PC, Stadia","Nov 4, 2010","Nov 19, 2019",85,86
+1,1178,523,Football Manager 2011,Football Manager 2021,"PC, Switch, XB1","Nov 4, 2010","Nov 10, 2020",85,85
+1,1178,536,Football Manager 2011,Football Manager 2019,PC,"Nov 4, 2010","Oct 2, 2018",85,85
+1,1178,832,Football Manager 2011,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Nov 4, 2010","Nov 8, 2022",85,83
+1,1178,1013,Football Manager 2011,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Nov 4, 2010","Nov 6, 2023",85,83
+1,1178,1145,Football Manager 2011,Football Manager 2016,PC,"Nov 4, 2010","Nov 13, 2015",85,82
+1,1178,1327,Football Manager 2011,Football Manager 2017,PC,"Nov 4, 2010","Nov 4, 2016",85,81
+1,1178,1669,Football Manager 2011,Football Manager 2018,PC,"Nov 4, 2010","Nov 10, 2017",85,80
+1,1181,543,South Park: The Stick of Truth,South Park: The Stick of Truth,"PC, XB1, PS4, Switch","Mar 4, 2014","Mar 4, 2014",85,85
+1,1182,632,World of Goo 2,World of Goo,Switch,"Aug 2, 2024","Mar 16, 2017",85,85
+1,1182,1091,World of Goo 2,World of Goo 2,"Switch, PC","Aug 2, 2024","Aug 2, 2024",85,82
+1,1187,220,The Binding of Isaac: Afterbirth +,The Binding of Isaac: Afterbirth,PC,"Mar 17, 2017","Oct 30, 2015",85,88
+1,1187,1117,The Binding of Isaac: Afterbirth +,The Binding of Isaac: Afterbirth+,"PC, Switch","Mar 17, 2017","Jan 3, 2017",85,82
+1,1188,474,Tunic,Tunic,"PC, XBXS, XB1, PS4, PS5, Switch","Mar 16, 2022","Mar 16, 2022",85,86
+1,1189,901,Shadow Tactics: Blades of the Shogun,Shadow Tactics: Blades of the Shogun,"PS4, XB1, PC, XBXS, PS5","Dec 6, 2016","Dec 6, 2016",85,83
+1,1195,962,In Stars And Time,In Stars and Time,"PC, PS4, PS5, Switch","Nov 20, 2023","Nov 20, 2023",85,83
+1,1197,784,Jusant,Jusant,"XBXS, PS5, PC","Oct 31, 2023","Oct 31, 2023",85,84
+1,1198,746,Wargroove 2,Wargroove 2,"PC, Switch","Oct 5, 2023","Oct 5, 2023",85,84
+1,1198,894,Wargroove 2,Wargroove,"XB1, PC, Switch, XBXS, PS4","Oct 5, 2023","Feb 1, 2019",85,83
+1,1200,960,Final Fantasy X / X-2 HD Remaster,Final Fantasy X / X-2 HD Remaster,"PS4, PC, PS5, Switch, Vita, XB1","Mar 18, 2014","Mar 18, 2014",85,83
+1,1201,746,Wargroove 2,Wargroove 2,"PC, Switch","Oct 5, 2023","Oct 5, 2023",85,84
+1,1201,894,Wargroove 2,Wargroove,"XB1, PC, Switch, XBXS, PS4","Oct 5, 2023","Feb 1, 2019",85,83
+1,1204,784,Jusant,Jusant,"XBXS, PS5, PC","Oct 31, 2023","Oct 31, 2023",85,84
+1,1205,453,The Cosmic Wheel Sisterhood,The Cosmic Wheel Sisterhood,"PC, Switch","Aug 16, 2023","Aug 16, 2023",85,86
+1,1206,962,In Stars And Time,In Stars and Time,"PC, PS4, PS5, Switch","Nov 20, 2023","Nov 20, 2023",85,83
+1,1209,793,Ys VIII: Lacrimosa of DANA,Ys VIII: Lacrimosa of DANA,"PC, PS4, Vita, Switch, PS5","Sep 12, 2017","Sep 12, 2017",85,84
+1,1211,578,Nioh 2,Nioh 2,"PS4, PS5, PC","Mar 13, 2020","Mar 13, 2020",85,85
+1,1214,528,The Witcher 3: Wild Hunt - Complete Edition,The Witcher 3: Wild Hunt - Complete Edition (Switch),Switch,"Oct 15, 2019","Oct 15, 2019",85,85
+1,1218,529,Octopath Traveler II,Octopath Traveler II,"PC, PS5, Switch, PS4, PS5","Feb 24, 2023","Feb 24, 2023",85,85
+1,1218,697,Octopath Traveler II,Octopath Traveler,"Switch, XB1, PC","Feb 24, 2023","Jul 13, 2018",85,84
+1,1220,557,Galactic Civilizations III: Crusade,Galactic Civilizations III: Crusade,PC,"May 4, 2017","May 4, 2017",85,85
+1,1221,1237,The Wolf Among Us: Episode 1 - Faith,The Wolf Among Us: Episode 1 - Faith,"PS4, XB1, PC, XBXS, PS5","Oct 11, 2013","Oct 11, 2013",85,82
+1,1222,250,Final Fantasy IV,Final Fantasy XVI,"PS5, PC","Dec 12, 2005","Jun 22, 2023",85,88
+1,1222,1463,Final Fantasy IV,Final Fantasy VII,"PS4, PS5, Switch, PC, XBXS, XB1","Dec 12, 2005","Jul 4, 2013",85,81
+1,1222,1514,Final Fantasy IV,Final Fantasy IX,"PS4, PS5, Switch, XB1, PC","Dec 12, 2005","Apr 14, 2016",85,81
+1,1222,1524,Final Fantasy IV,Final Fantasy XV,"PS4, XB1, PC, Stadia, XBXS, PS5","Dec 12, 2005","Nov 29, 2016",85,81
+1,1224,239,Robo Recall,Robo Recall,"Quest, PC","Mar 1, 2017","Mar 1, 2017",85,88
+1,1225,598,Dungeons of Dreadrock 2 - The Dead King's Secret,Dungeons of Dreadrock 2 - The Dead King's Secret,"Switch, PC","Nov 28, 2024","Nov 28, 2024",85,85
+1,1228,371,Football Manager 2022,Football Manager 2022,"XBXS, XB1, PC","Nov 9, 2021","Nov 9, 2021",85,86
+1,1228,436,Football Manager 2022,Football Manager 2020,"PC, Stadia","Nov 9, 2021","Nov 19, 2019",85,86
+1,1228,523,Football Manager 2022,Football Manager 2021,"PC, Switch, XB1","Nov 9, 2021","Nov 10, 2020",85,85
+1,1228,536,Football Manager 2022,Football Manager 2019,PC,"Nov 9, 2021","Oct 2, 2018",85,85
+1,1228,832,Football Manager 2022,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Nov 9, 2021","Nov 8, 2022",85,83
+1,1228,1013,Football Manager 2022,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Nov 9, 2021","Nov 6, 2023",85,83
+1,1228,1145,Football Manager 2022,Football Manager 2016,PC,"Nov 9, 2021","Nov 13, 2015",85,82
+1,1228,1327,Football Manager 2022,Football Manager 2017,PC,"Nov 9, 2021","Nov 4, 2016",85,81
+1,1228,1669,Football Manager 2022,Football Manager 2018,PC,"Nov 9, 2021","Nov 10, 2017",85,80
+1,1233,1107,Torn Away,Torn Away,PC,"Sep 29, 2023","Sep 29, 2023",85,82
+1,1234,458,Batman: Arkham Shadow,Batman: Arkham Shadow,Quest,"Oct 22, 2024","Oct 22, 2024",85,86
+1,1236,672,Forza Horizon 5: Hot Wheels,Forza Horizon 5: Hot Wheels,"XBXS, XB1, PC","Jul 19, 2022","Jul 19, 2022",85,84
+1,1237,359,Yakuza 0,Yakuza 0,"PS4, PC, PS5, XB1","Jan 24, 2017","Jan 24, 2017",85,86
+1,1239,2389,Dead Rising,Dead Rising 3,"PS4, XB1, XBXS, PS5, PC","Aug 8, 2006","Nov 21, 2013",85,78
+1,1240,2425,MLB The Show 17,MLB The Show 21,"XB1, XBXS, PS5, PS4","Mar 28, 2017","Apr 16, 2021",85,78
+1,1241,215,Death's Door,Death's Door,"XB1, PC, XBXS, PS4, PS5, Switch","Jul 20, 2021","Jul 20, 2021",85,88
+1,1242,775,Destiny 2,Destiny 2,"PS4, XB1, PC, XBXS, PS5","Sep 6, 2017","Sep 6, 2017",85,84
+1,1244,196,Mario Kart 7,Mario Kart 8,Wii-U,"Dec 4, 2011","May 30, 2014",85,88
+1,1246,307,Halo: The Master Chief Collection,Halo: The Master Chief Collection,"XB1, XBXS, PC","Nov 11, 2014","Nov 11, 2014",85,87
+1,1249,320,Doki Doki Literature Club Plus!,Doki Doki Literature Club Plus!,"Switch, PC, XB1, PS4, PS5, XBXS","Jun 30, 2021","Jun 30, 2021",85,87
+1,1250,561,Assault Android Cactus,Assault Android Cactus+,Switch,"Mar 8, 2016","Mar 8, 2019",85,85
+1,1250,959,Assault Android Cactus,Assault Android Cactus,"PS4, Wii-U, PC, PS5, Switch, XB1","Mar 8, 2016","Sep 23, 2015",85,83
+1,1251,581,Pikmin 3 Deluxe,Pikmin 3 Deluxe,Switch,"Oct 30, 2020","Oct 30, 2020",85,85
+1,1253,250,Final Fantasy XI,Final Fantasy XVI,"PS5, PC","Mar 23, 2004","Jun 22, 2023",85,88
+1,1253,1463,Final Fantasy XI,Final Fantasy VII,"PS4, PS5, Switch, PC, XBXS, XB1","Mar 23, 2004","Jul 4, 2013",85,81
+1,1253,1514,Final Fantasy XI,Final Fantasy IX,"PS4, PS5, Switch, XB1, PC","Mar 23, 2004","Apr 14, 2016",85,81
+1,1253,1524,Final Fantasy XI,Final Fantasy XV,"PS4, XB1, PC, Stadia, XBXS, PS5","Mar 23, 2004","Nov 29, 2016",85,81
+1,1254,1059,Super Mega Baseball,Super Mega Baseball 2,"PS4, XB1, PC, XBXS, PS5","Dec 16, 2014","May 1, 2018",85,82
+1,1254,1294,Super Mega Baseball,Super Mega Baseball 3,"XB1, PS4, Switch, PC, XBXS, PS5","Dec 16, 2014","May 13, 2020",85,82
+1,1254,1534,Super Mega Baseball,Super Mega Baseball 4,"PS5, XB1, XBXS, Switch, PS4, PC","Dec 16, 2014","Jun 2, 2023",85,81
+1,1254,1707,Super Mega Baseball,Super Mega Baseball,"PS4, PS5","Dec 16, 2014","Dec 16, 2014",85,80
+1,1255,1136,Full Metal Furies,Full Metal Furies,"XB1, PC, XBXS, Switch","Jan 17, 2018","Jan 17, 2018",85,82
+1,1261,1278,Madden NFL 08,Madden NFL 18,"PS4, XB1, XBXS, PS5","Aug 14, 2007","Aug 25, 2017",85,82
+1,1262,115,Rogue Legacy,Rogue Legacy 2,"XBXS, XB1, PC, Switch, PS4, PS5","Jun 27, 2013","Apr 28, 2022",85,89
+1,1262,677,Rogue Legacy,Rogue Legacy,"PS4, XB1, PC, Vita, Switch, XBXS, PS5","Jun 27, 2013","Jun 27, 2013",85,84
+1,1263,351,BattleBlock Theater,BattleBlock Theater,"PC, XB1","Apr 3, 2013","Apr 3, 2014",85,87
+1,1266,190,Ikaruga,Ikaruga,Switch,"Apr 15, 2003","May 29, 2018",85,88
+1,1267,442,Yakuza Kiwami 2,Yakuza Kiwami 2,"PS4, PS5, XB1, PC","Aug 28, 2018","Aug 28, 2018",85,86
+1,1267,1430,Yakuza Kiwami 2,Yakuza Kiwami,"PS4, PC, PS5, Switch, XB1","Aug 28, 2018","Aug 29, 2017",85,81
+1,1268,242,The Rise of the Golden Idol,The Case of the Golden Idol,"PC, Switch","Nov 12, 2024","Oct 13, 2022",85,88
+1,1268,593,The Rise of the Golden Idol,The Rise of the Golden Idol,"XBXS, PS5, XB1, Switch, PS4, PC","Nov 12, 2024","Nov 12, 2024",85,85
+1,1269,1298,Heroes of Hammerwatch - Ultimate Edition,Heroes of Hammerwatch - Ultimate Edition,"XB1, Switch, XBXS","Jul 29, 2020","Jul 30, 2020",85,82
+1,1271,600,West of Loathing,West of Loathing,"PC, Switch","May 31, 2018","Aug 10, 2017",85,85
+1,1273,371,Football Manager 2014,Football Manager 2022,"XBXS, XB1, PC","Oct 30, 2013","Nov 9, 2021",85,86
+1,1273,436,Football Manager 2014,Football Manager 2020,"PC, Stadia","Oct 30, 2013","Nov 19, 2019",85,86
+1,1273,523,Football Manager 2014,Football Manager 2021,"PC, Switch, XB1","Oct 30, 2013","Nov 10, 2020",85,85
+1,1273,536,Football Manager 2014,Football Manager 2019,PC,"Oct 30, 2013","Oct 2, 2018",85,85
+1,1273,832,Football Manager 2014,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Oct 30, 2013","Nov 8, 2022",85,83
+1,1273,1013,Football Manager 2014,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Oct 30, 2013","Nov 6, 2023",85,83
+1,1273,1145,Football Manager 2014,Football Manager 2016,PC,"Oct 30, 2013","Nov 13, 2015",85,82
+1,1273,1327,Football Manager 2014,Football Manager 2017,PC,"Oct 30, 2013","Nov 4, 2016",85,81
+1,1273,1669,Football Manager 2014,Football Manager 2018,PC,"Oct 30, 2013","Nov 10, 2017",85,80
+1,1278,953,System Shock: Enhanced Edition,System Shock: Enhanced Edition,PC,"Sep 22, 2015","Sep 22, 2015",85,83
+1,1281,542,Wipeout: Omega Collection,Wipeout: Omega Collection,"PS4, PS5","Jun 6, 2017","Jun 6, 2017",85,85
+1,1282,583,A Space For The Unbound,A Space for the Unbound,"PC, Switch, PS5, XBXS, PS4, XB1","Jan 19, 2023","Jan 19, 2023",85,85
+1,1283,353,Mortal Kombat XL,Mortal Kombat XL,"PS4, XB1, XBXS, PS5","Mar 1, 2016","Mar 1, 2016",85,87
+1,1283,769,Mortal Kombat XL,Mortal Kombat 1,"PC, PS5, XBXS, Switch","Mar 1, 2016","Sep 19, 2023",85,84
+1,1283,794,Mortal Kombat XL,Mortal Kombat X,"PS4, XB1, PC, XBXS, PS5","Mar 1, 2016","Apr 13, 2015",85,84
+1,1284,2076,Tangle Tower,Tangle Tower,"PC, Switch, PS5, PS4, XBXS, XB1","Oct 22, 2019","Sep 19, 2019",85,79
+1,1285,1549,Worldless,Worldless,"PC, Switch, PS5, XBXS, XB1, PS4","Nov 20, 2023","Nov 20, 2023",85,81
+1,1290,2425,MLB The Show 16,MLB The Show 21,"XB1, XBXS, PS5, PS4","Mar 29, 2016","Apr 16, 2021",85,78
+1,1291,511,Valkyria Chronicles 4,Valkyria Chronicles,PC,"Sep 25, 2018","Nov 11, 2014",85,85
+1,1291,695,Valkyria Chronicles 4,Valkyria Chronicles 4,"PS4, XB1, PC, Switch, XBXS, PS5","Sep 25, 2018","Sep 25, 2018",85,84
+1,1292,371,Football Manager 2021,Football Manager 2022,"XBXS, XB1, PC","Nov 24, 2020","Nov 9, 2021",85,86
+1,1292,436,Football Manager 2021,Football Manager 2020,"PC, Stadia","Nov 24, 2020","Nov 19, 2019",85,86
+1,1292,523,Football Manager 2021,Football Manager 2021,"PC, Switch, XB1","Nov 24, 2020","Nov 10, 2020",85,85
+1,1292,536,Football Manager 2021,Football Manager 2019,PC,"Nov 24, 2020","Oct 2, 2018",85,85
+1,1292,832,Football Manager 2021,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Nov 24, 2020","Nov 8, 2022",85,83
+1,1292,1013,Football Manager 2021,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Nov 24, 2020","Nov 6, 2023",85,83
+1,1292,1145,Football Manager 2021,Football Manager 2016,PC,"Nov 24, 2020","Nov 13, 2015",85,82
+1,1292,1327,Football Manager 2021,Football Manager 2017,PC,"Nov 24, 2020","Nov 4, 2016",85,81
+1,1292,1669,Football Manager 2021,Football Manager 2018,PC,"Nov 24, 2020","Nov 10, 2017",85,80
+1,1294,538,Kirby and the Forgotten Land,Kirby and the Forgotten Land,Switch,"Mar 25, 2022","Mar 25, 2022",85,85
+1,1295,2462,NeuroVoider,NeuroVoider,"PS4, XB1, PC, XBXS, PS5, Switch","Sep 7, 2017","Aug 31, 2016",85,78
+1,1296,715,Mutant Mudds Collection,Mutant Mudds Collection,Switch,"Dec 14, 2017","Dec 14, 2017",85,84
+1,1299,631,Thronebreaker: The Witcher Tales,Thronebreaker: The Witcher Tales,"PS4, XB1, PC, XBXS, PS5","Nov 9, 2018","Oct 23, 2018",85,85
+1,1301,773,Far Cry 4,Far Cry 4,"PS4, XB1, PC, XBXS, PS5","Nov 18, 2014","Nov 18, 2014",85,84
+1,1302,544,Shadow Gambit: The Cursed Crew,Shadow Gambit: The Cursed Crew,"XBXS, PS5, PC, PS4","Aug 17, 2023","Aug 17, 2023",85,85
+1,1304,772,Ace Attorney Investigations Collection,Ace Attorney Investigations Collection,"Switch, PS4, XB1, PC","Sep 6, 2024","Sep 6, 2024",85,84
+1,1312,1995,Chime Sharp,Chime Sharp,"PS4, XB1, PC, XBXS, PS5","Jul 19, 2016","Jul 19, 2016",85,79
+1,1314,1585,Tetris Forever,Tetris Forever,"XBXS, PS5, PC, Switch, PS4, XB1","Nov 12, 2024","Nov 12, 2024",85,81
+1,1315,483,Moss,Moss,"PSVR, PS4, PC, PS5","Feb 27, 2018","Feb 27, 2018",85,85
+1,1318,455,Death Stranding: Director's Cut,Death Stranding Director's Cut,PS5,"Sep 24, 2021","Sep 24, 2021",85,86
+1,1320,276,Silent Hill 3,Silent Hill 2,"PS5, PC","Aug 5, 2003","Oct 8, 2024",85,87
+1,1321,613,Outer Wilds,Outer Wilds,"PC, XB1, PS4, XBXS, PS5","May 28, 2019","May 30, 2019",85,85
+1,1323,378,Starcraft Remastered,StarCraft Remastered,PC,"Aug 14, 2017","Aug 14, 2017",85,86
+1,1324,788,Planescape: Torment - Enhanced Edition,Planescape: Torment Enhanced Edition,PC,"Apr 11, 2017","Apr 11, 2017",85,84
+1,1325,671,Pyre,Pyre,"PS4, PC, PS5","Jul 25, 2017","Jul 25, 2017",85,84
+1,1326,1148,Manifold Garden,Manifold Garden,"PC, Switch, PS4, PS5, XBXS, XB1","Oct 18, 2019","Oct 24, 2019",85,82
+1,1329,747,DiRT 4,DiRT 4,"PS4, XB1, PC, XBXS, PS5","Jun 6, 2017","Jun 6, 2017",85,84
+1,1333,628,Mario + Rabbids: Kingdom Battle,Mario + Rabbids: Kingdom Battle,Switch,"Aug 29, 2017","Aug 29, 2017",85,85
+1,1335,611,Crash Bandicoot 4: It's About Time,Crash Bandicoot 4: It's About Time,"XB1, PS4, XBXS, PS5, Switch, PC","Oct 2, 2020","Oct 2, 2020",85,85
+1,1339,541,Disgaea 4 Complete+,Disgaea 4 Complete+,"PS4, Switch, PS5","Oct 29, 2019","Oct 29, 2019",85,85
+1,1339,637,Disgaea 4 Complete+,Disgaea 5 Complete,Switch,"Oct 29, 2019","May 23, 2017",85,84
+1,1339,2444,Disgaea 4 Complete+,Disgaea 1 Complete,"PS4, Switch, PS5","Oct 29, 2019","Oct 9, 2018",85,78
+1,1342,618,428: Shibuya Scramble,428: Shibuya Scramble,"PS4, PC, PS5","Sep 4, 2018","Sep 4, 2018",85,85
+1,1346,168,1000xRESIST,1000xRESIST,"Switch, PC","May 9, 2024","May 9, 2024",84,89
+1,1347,1323,Apollo Justice: Ace Attorney Trilogy,Apollo Justice: Ace Attorney Trilogy,"PC, Switch, PS4, XB1","Jan 25, 2024","Jan 25, 2024",84,81
+1,1349,313,Ni no Kuni II: Revenant Kingdom,Ni no Kuni 2: Revenant Kingdom,"PS4, PC, PS5, Switch, XBXS, XB1","Mar 23, 2018","Mar 23, 2018",84,87
+1,1350,675,Tactics Ogre: Reborn,Tactics Ogre: Reborn,"PS5, Switch, PS4, PC","Nov 11, 2022","Nov 11, 2022",84,84
+1,1351,556,Statik,Statik,PSVR,"Apr 24, 2017","Apr 24, 2017",84,85
+1,1352,397,Keep Talking and Nobody Explodes,Keep Talking and Nobody Explodes,"PC, PS4, Switch, XB1","Aug 16, 2018","Oct 8, 2015",84,86
+1,1353,871,Shantae: Half-Genie Hero - Ultimate Edition,Shantae: Half-Genie Hero - Ultimate Edition,"PS4, XB1, PC, XBXS, PS5","May 8, 2018","May 8, 2018",84,83
+1,1354,470,Valkyria Chronicles Remastered,Valkyria Chronicles Remastered,"PS4, PS5","May 17, 2016","May 17, 2016",84,86
+1,1355,867,F1 2018,F1 2018,"PS4, XB1, PC, XBXS, PS5","Aug 24, 2018","Aug 24, 2018",84,83
+1,1361,2125,Persona 4 Arena Ultimax,Persona 4 Arena Ultimax,"PS4, PC, Switch","Sep 30, 2014","Mar 17, 2022",84,79
+1,1363,460,Rare Replay,Rare Replay,"XB1, XBXS","Aug 4, 2015","Aug 4, 2015",84,86
+1,1364,1328,Lonely Mountains: Downhill,Lonely Mountains: Downhill,"PC, XB1, PS4, Switch, XBXS, PS5","May 7, 2020","Oct 23, 2019",84,81
+1,1368,462,OlliOlli World,OlliOlli World,"XBXS, PS5, XB1, PS4, Switch, PC","Feb 8, 2022","Feb 8, 2022",84,86
+1,1372,547,Middle-earth: Shadow of Mordor,Middle-earth: Shadow of Mordor,"PS4, XB1, PC, XBXS, PS5","Sep 30, 2014","Sep 29, 2014",84,85
+1,1375,325,OlliOlli World: VOID Riders,OlliOlli World: VOID Riders,"XBXS, PS5, PS4, XB1, PC, Switch","Jun 15, 2022","Jun 15, 2022",84,87
+1,1378,482,Shin Megami Tensei V,Shin Megami Tensei V,Switch,"Nov 12, 2021","Nov 12, 2021",84,85
+1,1381,797,If Found...,If Found...,PC,"May 19, 2020","May 19, 2020",84,84
+1,1382,828,Horizon Zero Dawn: Complete Edition,Horizon Zero Dawn Complete Edition,"PS4, PC, PS5","Aug 7, 2020","Dec 5, 2017",84,83
+1,1383,2312,PlanetSide 2,PlanetSide 2,"PS4, PC, PS5","Nov 20, 2012","Nov 20, 2012",84,78
+1,1384,638,Planet Coaster,Planet Coaster,"PC, PS4, PS5, XB1, XBXS","Nov 17, 2016","Nov 17, 2016",84,84
+1,1385,401,Shovel Knight: Specter of Torment,Shovel Knight: Specter of Torment,"Switch, 3DS, PS4, XB1, Wii-U, PC, Vita, XBXS, PS5","Mar 3, 2017","Mar 3, 2017",84,86
+1,1387,882,Guilty Gear Xrd -SIGN-,Guilty Gear Xrd -SIGN-,"PS4, PC, PS5","Dec 16, 2014","Dec 16, 2014",84,83
+1,1390,498,F1 2021,F1 2021,"PC, PS5, XB1, PS5, PS4","Jul 15, 2021","Jul 16, 2021",84,85
+1,1394,870,FIFA 17,FIFA 17,"PS4, XB1, PC, XBXS, PS5","Sep 27, 2016","Sep 27, 2016",84,83
+1,1396,812,The Sims 4: Island Living,The Sims 4: Island Living,"PS4, XB1, PC, XBXS, PS5","Jun 21, 2019","Jul 16, 2019",84,84
+1,1397,558,Rakuen,Rakuen,PC,"May 10, 2017","May 10, 2017",84,85
+1,1400,620,BlazBlue: Central Fiction,BlazBlue: Central Fiction,"PS4, PS5","Nov 1, 2016","Nov 1, 2016",84,85
+1,1402,522,Gears 5,Gears 5,"XB1, PC, XBXS","Sep 6, 2019","Sep 10, 2019",84,85
+1,1405,242,The Case of the Golden Idol,The Case of the Golden Idol,"PC, Switch","Oct 13, 2022","Oct 13, 2022",84,88
+1,1405,593,The Case of the Golden Idol,The Rise of the Golden Idol,"XBXS, PS5, XB1, Switch, PS4, PC","Oct 13, 2022","Nov 12, 2024",84,85
+1,1408,909,Salt and Sanctuary,Salt and Sanctuary,"PS4, XB1, PC, Vita, XBXS, PS5","Mar 15, 2016","Mar 15, 2016",84,83
+1,1412,674,Dark Souls Remastered,Dark Souls Remastered,"Switch, PS4, XB1, PC, XBXS, PS5","May 25, 2018","May 25, 2018",84,84
+1,1413,665,Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island,Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island,Switch,"Feb 27, 2024","Feb 27, 2024",84,84
+1,1415,707,Tales From The Borderlands: Episode 1 - Zer0 Sum,Tales From The Borderlands: Episode One - Zer0 Sum,"PS4, XB1, PC, XBXS, PS5","Nov 25, 2014","Nov 24, 2014",84,84
+1,1416,174,Forza Motorsport,Forza Motorsport 6,"XB1, XBXS, PC","Oct 10, 2023","Sep 14, 2015",84,88
+1,1416,480,Forza Motorsport,Forza Motorsport 7,"XB1, PC, XBXS","Oct 10, 2023","Oct 3, 2017",84,85
+1,1416,790,Forza Motorsport,Forza Motorsport,"PC, XBXS","Oct 10, 2023","Oct 10, 2023",84,84
+1,1416,1705,Forza Motorsport,Forza Motorsport 5,"XB1, XBXS","Oct 10, 2023","Nov 22, 2013",84,80
+1,1418,1564,Sprint Vector,Sprint Vector,"Quest, Vive, PSVR, PC","Feb 2, 2018","Feb 8, 2018",84,81
+1,1421,660,Blasphemous 2,Blasphemous 2,"PS5, XBXS, PC, Switch, PS4","Aug 24, 2023","Aug 24, 2023",84,84
+1,1421,1972,Blasphemous 2,Blasphemous,"PC, Switch, PS4, XB1, XBXS, PS5","Aug 24, 2023","Sep 10, 2019",84,79
+1,1430,444,Rayman Legends: Definitive Edition,Rayman Legends: Definitive Edition,Switch,"Sep 12, 2017","Sep 12, 2017",84,86
+1,1431,730,Mega Man X Legacy Collection,Mega Man X Legacy Collection 1+2,"PS4, XB1, PC, Switch, XBXS, PS5","Jul 24, 2018","Jul 24, 2018",84,84
+1,1431,1308,Mega Man X Legacy Collection,Mega Man X Legacy Collection,"PS4, XB1, PC, Switch, XBXS, PS5","Jul 24, 2018","Jul 24, 2018",84,81
+1,1431,1477,Mega Man X Legacy Collection,Mega Man Zero/ZX Legacy Collection,"PC, Switch, XB1, PS4, XBXS, PS5","Jul 24, 2018","Feb 25, 2020",84,81
+1,1431,1932,Mega Man X Legacy Collection,Mega Man Legacy Collection,"PS4, XB1, PC, XBXS, PS5, Switch","Jul 24, 2018","Aug 24, 2015",84,80
+1,1433,619,Gears of War 4,Gears of War 4,"XB1, PC, XBXS","Oct 11, 2016","Oct 11, 2016",84,85
+1,1435,658,Halo 5: Guardians,Halo 5: Guardians,"XB1, XBXS","Oct 27, 2015","Oct 27, 2015",84,84
+1,1436,984,Lil Gator Game,Lil Gator Game,"PC, Switch, PS4, PS5, XB1, XBXS","Dec 14, 2022","Dec 14, 2022",84,83
+1,1438,248,NBA 2K7,NBA 2K17,"PS4, XB1, PC, XBXS, PS5","Sep 25, 2006","Sep 16, 2016",84,88
+1,1439,371,Football Manager 2012,Football Manager 2022,"XBXS, XB1, PC","Oct 20, 2011","Nov 9, 2021",84,86
+1,1439,436,Football Manager 2012,Football Manager 2020,"PC, Stadia","Oct 20, 2011","Nov 19, 2019",84,86
+1,1439,523,Football Manager 2012,Football Manager 2021,"PC, Switch, XB1","Oct 20, 2011","Nov 10, 2020",84,85
+1,1439,536,Football Manager 2012,Football Manager 2019,PC,"Oct 20, 2011","Oct 2, 2018",84,85
+1,1439,832,Football Manager 2012,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Oct 20, 2011","Nov 8, 2022",84,83
+1,1439,1013,Football Manager 2012,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Oct 20, 2011","Nov 6, 2023",84,83
+1,1439,1145,Football Manager 2012,Football Manager 2016,PC,"Oct 20, 2011","Nov 13, 2015",84,82
+1,1439,1327,Football Manager 2012,Football Manager 2017,PC,"Oct 20, 2011","Nov 4, 2016",84,81
+1,1439,1669,Football Manager 2012,Football Manager 2018,PC,"Oct 20, 2011","Nov 10, 2017",84,80
+1,1440,1519,The Elder Scrolls V: Skyrim Special Edition,The Elder Scrolls V: Skyrim - Special Edition,"PS4, XB1, PC, XBXS, PS5","Nov 17, 2017","Oct 28, 2016",84,81
+1,1441,1647,ZEN Pinball 2: South Park: Super-Sweet Pinball,ZEN Pinball 2: South Park: Super-Sweet Pinball,"PS4, PS5","Oct 14, 2014","Oct 14, 2014",84,80
+1,1443,532,Shovel Knight Pocket Dungeon,Shovel Knight Pocket Dungeon,"Switch, PS4, PC","Dec 13, 2021","Dec 13, 2021",84,85
+1,1447,387,Guacamelee!,Guacamelee! 2,"PS4, PC, PS5, XB1, Switch","Apr 9, 2013","Aug 21, 2018",84,86
+1,1448,549,Gorogoa,Gorogoa,"PS4, XB1, PC, XBXS, PS5, Switch","Dec 14, 2017","Dec 14, 2017",84,85
+1,1449,2284,No More Heroes 2: Desperate Struggle,No More Heroes 2: Desperate Struggle,Switch,"Jan 26, 2010","Oct 28, 2020",84,79
+1,1450,432,Yakuza: Like a Dragon,Yakuza: Like a Dragon,"PS4, PC, XB1, XBXS, PS5","Nov 10, 2020","Nov 10, 2020",84,86
+1,1451,1200,NBA 2K14,NBA 2K14,"PS4, XB1, PC, XBXS, PS5","Oct 1, 2013","Oct 1, 2013",84,82
+1,1452,713,Darkest Dungeon,Darkest Dungeon,"PS4, PC, Switch, Vita, XB1, XBXS, PS5","Feb 3, 2015","Jan 19, 2016",84,84
+1,1452,1558,Darkest Dungeon,Darkest Dungeon II,"PC, PS5, PS4, XBXS, XB1, Switch","Feb 3, 2015","May 8, 2023",84,81
+1,1454,213,Overcooked! All You Can Eat,Overcooked! All You Can Eat,"PS5, XBXS, PC, PS4, Switch, XB1","Nov 12, 2020","Nov 10, 2020",84,88
+1,1458,411,Unity of Command,Unity of Command 2,PC,"Nov 15, 2011","Nov 12, 2019",84,86
+1,1459,1310,Dorfromantik,Dorfromantik,"PC, Switch","Sep 29, 2022","Mar 25, 2021",84,81
+1,1465,265,Red Matter 2,Red Matter 2,"Quest, PC, Vive, PS5","Aug 18, 2022","Aug 18, 2022",84,87
+1,1467,969,Eliza,Eliza,PC,"Aug 12, 2019","Aug 12, 2019",84,83
+1,1470,510,Mushihimesama,Mushihimesama,PC,"Jun 15, 2021","Nov 5, 2015",84,85
+1,1471,907,Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey,Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey,3DS,"Jan 11, 2019","Jan 11, 2019",84,83
+1,1472,1353,Beacon Pines,Beacon Pines,"Switch, PC, XBXS, XB1","Sep 22, 2022","Sep 22, 2022",84,81
+1,1474,1295,Deus Ex: Mankind Divided,Deus Ex: Mankind Divided,"PS4, XB1, PC, XBXS, PS5","Aug 23, 2016","Aug 23, 2016",84,82
+1,1475,986,Little Goody Two Shoes,Little Goody Two Shoes,"PC, PS5, Switch","Nov 7, 2023","Oct 31, 2023",84,83
+1,1477,473,Nine Sols,Nine Sols,"PC, Switch, PS4, PS5, XB1, XBXS","May 28, 2024","May 29, 2024",84,86
+1,1480,746,Wargroove,Wargroove 2,"PC, Switch","Feb 1, 2019","Oct 5, 2023",84,84
+1,1480,894,Wargroove,Wargroove,"XB1, PC, Switch, XBXS, PS4","Feb 1, 2019","Feb 1, 2019",84,83
+1,1482,685,Thumper,Thumper,"PS4, PC, XB1, Stadia, XBXS, PS5, Switch","Oct 10, 2016","Oct 10, 2016",84,84
+1,1485,599,Axiom Verge,Axiom Verge,"PS4, XB1, Wii-U, PC, Vita, Switch, XBXS, PS5","Mar 31, 2015","Mar 30, 2015",84,85
+1,1489,1515,NBA 2K9,NBA 2K19,"PS4, XB1, PC, XBXS, PS5, Switch","Oct 7, 2008","Sep 7, 2018",84,81
+1,1491,816,MOTHERGUNSHIP: FORGE,MOTHERGUNSHIP: FORGE,"PC, Quest, Vive","Jun 16, 2022","Jun 16, 2022",84,84
+1,1494,475,Frostpunk,Frostpunk,"PC, XB1, PS4, PS5","Apr 24, 2018","Apr 24, 2018",84,86
+1,1494,490,Frostpunk,Frostpunk 2,PC,"Apr 24, 2018","Sep 20, 2024",84,85
+1,1495,371,Football Manager 2020,Football Manager 2022,"XBXS, XB1, PC","Nov 18, 2019","Nov 9, 2021",84,86
+1,1495,436,Football Manager 2020,Football Manager 2020,"PC, Stadia","Nov 18, 2019","Nov 19, 2019",84,86
+1,1495,523,Football Manager 2020,Football Manager 2021,"PC, Switch, XB1","Nov 18, 2019","Nov 10, 2020",84,85
+1,1495,536,Football Manager 2020,Football Manager 2019,PC,"Nov 18, 2019","Oct 2, 2018",84,85
+1,1495,832,Football Manager 2020,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Nov 18, 2019","Nov 8, 2022",84,83
+1,1495,1013,Football Manager 2020,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Nov 18, 2019","Nov 6, 2023",84,83
+1,1495,1145,Football Manager 2020,Football Manager 2016,PC,"Nov 18, 2019","Nov 13, 2015",84,82
+1,1495,1327,Football Manager 2020,Football Manager 2017,PC,"Nov 18, 2019","Nov 4, 2016",84,81
+1,1495,1669,Football Manager 2020,Football Manager 2018,PC,"Nov 18, 2019","Nov 10, 2017",84,80
+1,1496,646,Streets of Rage 4,Streets of Rage 4,"Switch, PC, XB1, PS4","Apr 30, 2020","Apr 30, 2020",84,84
+1,1497,408,Polybius,Polybius,"PSVR, PC, PS4","May 9, 2017","May 9, 2017",84,86
+1,1499,182,Devil May Cry 4,Devil May Cry 5,"PS4, XB1, PC, XBXS, PS5","Feb 5, 2008","Mar 8, 2019",84,88
+1,1501,546,Uncharted: The Lost Legacy,Uncharted: The Lost Legacy,"PS4, PS5, PC","Aug 22, 2017","Aug 22, 2017",84,85
+1,1503,795,SoulCalibur VI,SoulCalibur VI,"PS4, XB1, PC, XBXS, PS5","Oct 19, 2018","Oct 18, 2018",84,84
+1,1504,319,Griftlands,Griftlands,"Switch, XB1, PS4","Jun 1, 2021","Jul 11, 2019",84,87
+1,1505,751,Hyper Light Drifter,Hyper Light Drifter,"PS4, XB1, Wii-U, PC, XBXS, PS5, Switch","Mar 31, 2016","Mar 31, 2016",84,84
+1,1507,612,Dragon Quest III HD-2D Remake,Dragon Quest III HD-2D Remake,"XBXS, PS5, PC, Switch","Nov 14, 2024","Nov 14, 2024",84,85
+1,1510,1329,Gerda: A Flame in Winter,Gerda: A Flame in Winter,"PC, Switch","Sep 1, 2022","Sep 1, 2022",84,81
+1,1520,1065,Magic: The Gathering Arena,Magic: The Gathering Arena,PC,"Sep 27, 2018","Sep 26, 2019",84,82
+1,1521,2370,Gordian Quest,Gordian Quest,"PC, PS5, Switch","Jun 23, 2022","Mar 27, 2020",84,78
+1,1522,1073,Infernax,Infernax,"XBXS, PS5, XB1, PS4, Switch, PC","Feb 14, 2022","Feb 14, 2022",84,82
+1,1523,898,"Snipperclips Plus: Cut It Out, Together!","Snipperclips Plus: Cut it Out, Together!",Switch,"Nov 10, 2017","Nov 10, 2017",84,83
+1,1524,1547,Lair of the Clockwork God,Lair of the Clockwork God,"PC, Switch, XB1, XBXS, PS4, PS5","Feb 21, 2020","Feb 21, 2020",84,81
+1,1527,724,Fuga: Melodies of Steel,Fuga: Melodies of Steel 2,"PC, PS5, PS4, Switch, XB1, XBXS","Jul 29, 2021","May 11, 2023",84,84
+1,1527,1022,Fuga: Melodies of Steel,Fuga: Melodies of Steel,"PS5, XBXS, PS4, Switch, PC, XB1","Jul 29, 2021","Jul 29, 2021",84,83
+1,1528,729,Disgaea 7: Vows of the Virtueless,Disgaea 7: Vows of the Virtueless,"PC, Switch, PS5, PS4","Oct 3, 2023","Oct 3, 2023",84,84
+1,1529,742,Hogwarts Legacy,Hogwarts Legacy,"PC, PS4, PS5, XBXS, XB1, Switch","Feb 7, 2023","Feb 10, 2023",84,84
+1,1532,1046,ElecHead,ElecHead,PC,"Oct 14, 2021","Oct 14, 2021",84,83
+1,1533,656,Risk of Rain Returns,Risk of Rain Returns,"PC, Switch","Nov 8, 2023","Nov 8, 2023",84,84
+1,1534,728,The Legend of Heroes: Trails through Daybreak,The Legend of Heroes: Trails Through Daybreak,"PC, PS4, PS5, Switch","Jul 5, 2024","Jul 5, 2024",84,84
+1,1535,666,Resident Evil Village,Resident Evil Village,"PC, XB1, XBXS, PS5, PS4, Switch","May 7, 2021","May 7, 2021",84,84
+1,1537,633,Black Mesa,Black Mesa,PC,"Sep 14, 2012","Mar 5, 2020",84,85
+1,1541,1063,FRU,FRU,"XB1, XBXS","Jul 13, 2016","Jul 13, 2016",84,82
+1,1544,903,Diablo IV: Vessel of Hatred,Diablo IV: Vessel of Hatred,"PC, XB1, PS4, PS5, XBXS","Oct 8, 2024","Oct 8, 2024",84,83
+1,1546,204,Xenoblade Chronicles X,Xenoblade Chronicles 3,Switch,"Dec 4, 2015","Jul 29, 2022",84,88
+1,1546,459,Xenoblade Chronicles X,Xenoblade Chronicles 3D,3DS,"Dec 4, 2015","Apr 10, 2015",84,86
+1,1546,635,Xenoblade Chronicles X,Xenoblade Chronicles X,Wii-U,"Dec 4, 2015","Dec 4, 2015",84,84
+1,1546,972,Xenoblade Chronicles X,Xenoblade Chronicles 2,Switch,"Dec 4, 2015","Dec 1, 2017",84,83
+1,1549,488,Resogun,Resogun,"PS4, PS5","Nov 15, 2013","Nov 15, 2013",84,85
+1,1550,964,Viewfinder,Viewfinder,"PS5, PC","Jul 18, 2023","Jul 18, 2023",84,83
+1,1551,998,SOMA,SOMA,"PS4, XB1, PC, XBXS, PS5","Sep 21, 2015","Sep 22, 2015",84,83
+1,1559,283,Gran Turismo 5,Gran Turismo 7,"PS5, PS4","Nov 24, 2010","Mar 4, 2022",84,87
+1,1562,601,Broken Sword - Shadow of the Templars: Reforged,Broken Sword - Shadow of the Templars: Reforged,"XBXS, PS5, Switch, PC","Sep 19, 2024","Sep 19, 2024",84,85
+1,1564,1378,The Darkside Detective: A Fumble in the Dark,The Darkside Detective: A Fumble in the Dark,"PS5, XBXS, Stadia, XB1, PS4, Switch, PC","Apr 15, 2021","Apr 15, 2021",84,81
+1,1565,555,Danmaku Unlimited 3,Danmaku Unlimited 3,"PC, PS4, Switch","Mar 13, 2018","Mar 9, 2017",84,85
+1,1566,424,Borderlands,Borderlands 2,"PC, PS4, XB1, Switch","Oct 20, 2009","Sep 17, 2012",84,86
+1,1566,1587,Borderlands,Borderlands 3,"XB1, PC, PS4, Stadia, XBXS, PS5, Switch","Oct 20, 2009","Sep 13, 2019",84,81
+1,1569,755,Nioh: Complete Edition,Nioh: Complete Edition,PC,"Nov 7, 2017","Nov 7, 2017",84,84
+1,1570,910,Madden NFL 11,Madden NFL 16,"PS4, XB1, XBXS, PS5","Aug 10, 2010","Aug 25, 2015",84,83
+1,1570,979,Madden NFL 11,Madden NFL 17,"PS4, XB1, XBXS, PS5","Aug 10, 2010","Aug 23, 2016",84,83
+1,1570,1278,Madden NFL 11,Madden NFL 18,"PS4, XB1, XBXS, PS5","Aug 10, 2010","Aug 25, 2017",84,82
+1,1570,1485,Madden NFL 11,Madden NFL 15,"PS4, XB1, XBXS, PS5","Aug 10, 2010","Aug 26, 2014",84,81
+1,1570,2004,Madden NFL 11,Madden NFL 19,"XB1, PC, PS4, XBXS, PS5","Aug 10, 2010","Aug 10, 2018",84,79
+1,1571,597,Age of Empires II: Definitive Edition,Age of Empires II: Definitive Edition,"PC, XBXS, XB1","Nov 14, 2019","Nov 14, 2019",84,85
+1,1571,2082,Age of Empires II: Definitive Edition,Age of Empires III: Definitive Edition,PC,"Nov 14, 2019","Oct 15, 2020",84,79
+1,1573,924,Anomaly Agent,Anomaly Agent,"XBXS, Switch, PC, XB1","Jan 24, 2024","Jan 24, 2024",84,83
+1,1574,347,Spiritfarer,Spiritfarer,"Switch, PS4, PC, XB1, XBXS, PS5","Aug 18, 2020","Aug 18, 2020",84,87
+1,1576,1011,Thimbleweed Park,Thimbleweed Park,"PS4, XB1, PC, Switch, XBXS, PS5","Mar 30, 2017","Mar 30, 2017",84,83
+1,1577,463,F1 2019,F1 2019,"PS4, XB1, PC, XBXS, PS5","Jun 25, 2019","Jun 28, 2019",84,86
+1,1583,731,Baba Is You,Baba Is You,"PC, Switch","Mar 13, 2019","Mar 13, 2019",84,84
+1,1585,500,Sayonara Wild Hearts,Sayonara Wild Hearts,"PS4, PC, Switch, PS5","Sep 19, 2019","Sep 19, 2019",84,85
+1,1587,1489,Oddworld: Abe's Oddysee - New 'n' Tasty,Oddworld: Abe's Oddysee - New 'n' Tasty,"PS4, XB1, Wii-U, PC, XBXS, PS5","Jul 22, 2014","Jul 22, 2014",84,81
+1,1589,266,Patrick's Parabox,Patrick's Parabox,"PC, PS5, Switch","Mar 29, 2022","Mar 29, 2022",84,87
+1,1590,1815,Mediterranea Inferno,Mediterranea Inferno,"PC, Switch, PS5, XBXS, PS4","Aug 24, 2023","Aug 24, 2023",84,80
+1,1594,582,Lost in Play,Lost in Play,"Switch, PC, PS5, PS4","Aug 10, 2022","Aug 10, 2022",84,85
+1,1595,2161,NeverAwake,NeverAwake,"Switch, PC","Sep 28, 2022","Sep 28, 2022",84,79
+1,1596,391,FIFA 14,FIFA 14,"PS4, XB1, PC, XBXS, PS5","Sep 24, 2013","Sep 24, 2013",84,86
+1,1599,1131,Momodora: Moonlit Farewell,Momodora: Moonlit Farewell,"PC, Switch, PS5, XBXS","Jan 11, 2024","Jan 11, 2024",84,82
+1,1602,1927,Timespinner,Timespinner,"PS4, PC, Vita, PS5, Switch, XB1","Jun 4, 2019","Sep 25, 2018",84,80
+1,1605,2109,Telling Lies,Telling Lies,"PC, PS4, XB1, XBXS, PS5, Switch","Aug 23, 2019","Aug 23, 2019",84,79
+1,1606,1175,Hitman - Episode 2: Sapienza,Hitman - Episode 2: Sapienza,"PS4, XB1, PC, XBXS, PS5","Apr 26, 2016","Apr 26, 2016",84,82
+1,1607,703,BioShock: The Collection,BioShock: The Collection,"PS4, XB1, PC, XBXS, PS5, Switch","Sep 13, 2016","Sep 13, 2016",84,84
+1,1609,418,This Way Madness Lies,This Way Madness Lies,"PC, PS5, Switch","Nov 10, 2022","Nov 10, 2022",84,86
+1,1610,703,BioShock: The Collection,BioShock: The Collection,"PS4, XB1, PC, XBXS, PS5, Switch","Sep 13, 2016","Sep 13, 2016",84,84
+1,1611,440,The Wolf Among Us: Episode 5 - Cry Wolf,The Wolf Among Us: Episode 5 - Cry Wolf,"PS4, XB1, PC, XBXS, PS5","Jul 8, 2014","Jul 8, 2014",84,86
+1,1613,1280,The End Is Nigh,The End Is Nigh,PC,"Jul 12, 2017","Jul 12, 2017",84,82
+1,1615,1125,Crow Country,Crow Country,"XBXS, PS5, PC, PS4","May 9, 2024","May 9, 2024",84,82
+1,1620,1084,Resident Evil 4 HD,Resident Evil 4,"XB1, PS4, XBXS, PS5","Sep 20, 2011","Aug 30, 2016",84,82
+1,1623,1853,SpeedRunners,SpeedRunners,"PS4, XB1, PC, XBXS, PS5","Apr 19, 2016","Apr 19, 2016",84,80
+1,1624,527,Unsighted,Unsighted,"Switch, PC, PS4, XB1","Sep 30, 2021","Sep 30, 2021",84,85
+1,1626,980,FIFA 16,FIFA 16,"PS4, XB1, PC, XBXS, PS5","Sep 22, 2015","Sep 22, 2015",84,83
+1,1627,340,Retro Bowl,Retro Bowl,Switch,"Feb 10, 2022","Feb 10, 2022",84,87
+1,1628,806,FIFA 18,FIFA 18,"PS4, XB1, PC, XBXS, PS5","Sep 26, 2017","Sep 29, 2017",84,84
+1,1629,2157,Vanquish,Vanquish,PC,"Oct 19, 2010","May 25, 2017",84,79
+1,1631,694,Super Mario RPG,Super Mario RPG,Switch,"Nov 17, 2023","Nov 17, 2023",84,84
+1,1632,592,Shin Megami Tensei IV: Apocalypse,Shin Megami Tensei IV: Apocalypse,3DS,"Sep 20, 2016","Sep 20, 2016",84,85
+1,1634,371,Football Manager 2024,Football Manager 2022,"XBXS, XB1, PC","Nov 6, 2023","Nov 9, 2021",84,86
+1,1634,436,Football Manager 2024,Football Manager 2020,"PC, Stadia","Nov 6, 2023","Nov 19, 2019",84,86
+1,1634,523,Football Manager 2024,Football Manager 2021,"PC, Switch, XB1","Nov 6, 2023","Nov 10, 2020",84,85
+1,1634,536,Football Manager 2024,Football Manager 2019,PC,"Nov 6, 2023","Oct 2, 2018",84,85
+1,1634,832,Football Manager 2024,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Nov 6, 2023","Nov 8, 2022",84,83
+1,1634,1013,Football Manager 2024,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Nov 6, 2023","Nov 6, 2023",84,83
+1,1634,1145,Football Manager 2024,Football Manager 2016,PC,"Nov 6, 2023","Nov 13, 2015",84,82
+1,1634,1327,Football Manager 2024,Football Manager 2017,PC,"Nov 6, 2023","Nov 4, 2016",84,81
+1,1634,1669,Football Manager 2024,Football Manager 2018,PC,"Nov 6, 2023","Nov 10, 2017",84,80
+1,1641,355,Trine 2: Complete Story,Trine 2: Complete Story,"PS4, PC, PS5","Nov 15, 2013","Dec 7, 2011",84,87
+1,1642,1865,Ravenswatch,Ravenswatch,PC,"Sep 26, 2024","Sep 27, 2024",84,80
+1,1643,1228,Prodeus,Prodeus,"PC, Switch, PS4, PS5, XB1, XBXS","Sep 23, 2022","Nov 10, 2020",84,82
+1,1647,210,Just Shapes & Beats,Just Shapes & Beats,"PC, Switch, PS4","May 31, 2018","May 31, 2018",83,88
+1,1648,589,Assassin's Creed Origins: The Curse of the Pharaohs,Assassin's Creed Origins: The Curse of the Pharaohs,"PS4, XB1, PC, XBXS, PS5","Mar 13, 2018","Mar 13, 2018",83,85
+1,1650,1218,Berserk Boy,Berserk Boy,"Switch, PC","Mar 6, 2024","Mar 6, 2024",83,82
+1,1651,662,VA-11 Hall-A: Cyberpunk Bartender Action,VA-11 Hall-A: Cyberpunk Bartender Action,PC,"May 2, 2019","Jun 21, 2016",83,84
+1,1653,651,Two Point Hospital,Two Point Hospital,"PC, PS4, XB1, Switch, XBXS, PS5","Aug 29, 2018","Aug 28, 2018",83,84
+1,1654,1012,Lumines Remastered,Lumines Remastered,"PS4, XB1, PC, Switch, XBXS, PS5","Jun 26, 2018","Jun 26, 2018",83,83
+1,1655,877,Castlevania Advance Collection,Castlevania Advance Collection,"Switch, PC, PS4, XB1","Sep 23, 2021","Sep 23, 2021",83,83
+1,1656,808,DmC: Devil May Cry Definitive Edition,DmC: Devil May Cry Definitive Edition,"PS4, XB1, XBXS, PS5","Mar 10, 2015","Mar 10, 2015",83,84
+1,1657,949,Pro Evolution Soccer 2018,Pro Evolution Soccer 2017,"PS4, XB1, PC, XBXS, PS5","Sep 12, 2017","Sep 15, 2016",83,83
+1,1657,997,Pro Evolution Soccer 2018,Pro Evolution Soccer 2016,"PS4, XB1, PC, XBXS, PS5","Sep 12, 2017","Sep 15, 2015",83,83
+1,1657,1216,Pro Evolution Soccer 2018,Pro Evolution Soccer 2018,"PS4, XB1, PC, XBXS, PS5","Sep 12, 2017","Sep 12, 2017",83,82
+1,1657,1633,Pro Evolution Soccer 2018,Pro Evolution Soccer 2015,"PS4, XB1, PC, XBXS, PS5","Sep 12, 2017","Nov 10, 2014",83,80
+1,1657,2415,Pro Evolution Soccer 2018,Pro Evolution Soccer 2019,"PS4, XB1, PC, XBXS, PS5","Sep 12, 2017","Aug 28, 2018",83,78
+1,1658,1083,Grim Dawn,Grim Dawn,"PC, XB1","Feb 25, 2016","Feb 25, 2016",83,82
+1,1659,771,Call of Duty: Black Ops 4,Call of Duty: Black Ops 4,"PS4, XB1, PC, XBXS, PS5","Oct 12, 2018","Oct 12, 2018",83,84
+1,1659,824,Call of Duty: Black Ops 4,Call of Duty: Black Ops 6,"PC, PS5, XBXS, XB1, PS4","Oct 12, 2018","Oct 24, 2024",83,83
+1,1659,2034,Call of Duty: Black Ops 4,Call of Duty: Black Ops III,"PS4, XB1, PC, XBXS, PS5","Oct 12, 2018","Nov 6, 2015",83,79
+1,1660,1681,Fear the Spotlight,Fear The Spotlight,"PS5, Switch, PC, XBXS, XB1","Oct 22, 2024","Sep 15, 2023",83,80
+1,1663,652,Ghost of Tsushima,Ghost of Tsushima,"PS4, PS5, PC","Jul 17, 2020","Jul 17, 2020",83,84
+1,1664,1007,Tetris 99,Tetris 99,Switch,"Feb 13, 2019","Feb 14, 2019",83,83
+1,1667,37,Resident Evil 0,Resident Evil 2,"PS4, XB1, PC, XBXS, PS5, Switch","Nov 12, 2002","Jan 25, 2019",83,92
+1,1667,1084,Resident Evil 0,Resident Evil 4,"XB1, PS4, XBXS, PS5","Nov 12, 2002","Aug 30, 2016",83,82
+1,1667,1939,Resident Evil 0,Resident Evil 3,"PS4, PC, XB1, XBXS, PS5, Switch","Nov 12, 2002","Apr 3, 2020",83,80
+1,1673,1628,Hakuoki: Kyoto Winds,Hakuoki: Kyoto Winds,"Vita, PC","May 16, 2017","May 16, 2017",83,80
+1,1676,661,The Yakuza Remastered Collection,Yakuza Remastered Collection,"PS4, PS5, PC, XB1","Aug 20, 2019","Aug 20, 2019",83,84
+1,1677,698,Astro's Playroom,Astro's Playroom,PS5,"Nov 12, 2020","Nov 12, 2020",83,84
+1,1678,2156,Laika: Aged Through Blood,Laika: Aged Through Blood,"PC, PS4, PS5, XB1, XBXS","Oct 19, 2023","Oct 19, 2023",83,79
+1,1679,1019,Persona 5 Strikers,Persona 5 Strikers,"PS4, Switch, PC","Feb 19, 2021","Feb 23, 2021",83,83
+1,1680,387,Guacamelee! 2,Guacamelee! 2,"PS4, PC, PS5, XB1, Switch","Aug 21, 2018","Aug 21, 2018",83,86
+1,1683,384,Final Fantasy IV Pixel Remaster,Final Fantasy VI Pixel Remaster,PC,"Sep 8, 2021","Feb 23, 2022",83,86
+1,1683,513,Final Fantasy IV Pixel Remaster,Final Fantasy IV Pixel Remaster,PC,"Sep 8, 2021","Sep 8, 2021",83,85
+1,1683,539,Final Fantasy IV Pixel Remaster,Final Fantasy V Pixel Remaster,PC,"Sep 8, 2021","Nov 10, 2021",83,85
+1,1683,881,Final Fantasy IV Pixel Remaster,Final Fantasy Pixel Remaster,"PC, Switch, PS4","Sep 8, 2021","Jul 28, 2021",83,83
+1,1683,1170,Final Fantasy IV Pixel Remaster,Final Fantasy III Pixel Remaster,PC,"Sep 8, 2021","Jul 28, 2021",83,82
+1,1683,1540,Final Fantasy IV Pixel Remaster,Final Fantasy II Pixel Remaster,PC,"Sep 8, 2021","Jul 28, 2021",83,81
+1,1684,486,Metro Exodus: Enhanced Edition,Metro Exodus Enhanced Edition,PC,"Jun 18, 2021","May 6, 2021",83,85
+1,1685,1501,Forgive Me Father 2,Forgive Me Father 2,PC,"Oct 24, 2024","Oct 24, 2024",83,81
+1,1687,868,Bloodstained: Ritual of the Night,Bloodstained: Ritual of the Night,"PC, PS4, XB1, Switch, XBXS, PS5","Jun 18, 2019","Jun 18, 2019",83,83
+1,1690,1191,Guild Wars 2: Path of Fire,Guild Wars 2: Path of Fire,PC,"Sep 22, 2017","Sep 22, 2017",83,82
+1,1692,1331,EA Sports College Football 25,EA Sports College Football 25,"PS5, XBXS","Jul 19, 2024","Jul 19, 2024",83,81
+1,1693,1042,No More Heroes,No More Heroes,Switch,"Jan 22, 2008","Oct 28, 2020",83,83
+1,1694,482,Shin Megami Tensei IV,Shin Megami Tensei V,Switch,"Jul 16, 2013","Nov 12, 2021",83,85
+1,1697,945,Galactic Civilizations,Galactic Civilizations III,PC,"Mar 26, 2003","May 14, 2015",83,83
+1,1703,426,Ghost Trick: Phantom Detective,Ghost Trick: Phantom Detective,"XBXS, PS5, XB1, Switch, PS4, PC","Jan 11, 2011","Jun 30, 2023",83,86
+1,1704,827,Crash Team Racing: Nitro-Fueled,Crash Team Racing: Nitro-Fueled,"PS4, XB1, Switch, XBXS, PS5","Jun 21, 2019","Jun 21, 2019",83,83
+1,1707,1291,Age of Wonders 4,Age of Wonders 4,"PC, XBXS, PS5","May 2, 2023","May 2, 2023",83,82
+1,1709,594,Persona Q: Shadow of the Labyrinth,Persona Q: Shadow of the Labyrinth,3DS,"Nov 25, 2014","Nov 25, 2014",83,85
+1,1713,678,Kingdom Hearts III,Kingdom Hearts III,"PS4, XB1, XBXS, PS5, Switch, PC","Jan 29, 2019","Jan 25, 2019",83,84
+1,1715,278,Steins;Gate,Steins;Gate,"PC, Vita, PS4","Aug 25, 2015","Aug 26, 2010",83,87
+1,1715,819,Steins;Gate,Steins;Gate 0,"PS4, Vita, PS5, Switch, XB1, PC","Aug 25, 2015","Nov 29, 2016",83,83
+1,1717,37,Resident Evil 5,Resident Evil 2,"PS4, XB1, PC, XBXS, PS5, Switch","Mar 13, 2009","Jan 25, 2019",83,92
+1,1717,1084,Resident Evil 5,Resident Evil 4,"XB1, PS4, XBXS, PS5","Mar 13, 2009","Aug 30, 2016",83,82
+1,1717,1939,Resident Evil 5,Resident Evil 3,"PS4, PC, XB1, XBXS, PS5, Switch","Mar 13, 2009","Apr 3, 2020",83,80
+1,1720,861,Splatoon 3,Splatoon 2,Switch,"Sep 9, 2022","Jul 21, 2017",83,83
+1,1720,982,Splatoon 3,Splatoon 3,Switch,"Sep 9, 2022","Sep 9, 2022",83,83
+1,1721,771,Call of Duty: Black Ops II,Call of Duty: Black Ops 4,"PS4, XB1, PC, XBXS, PS5","Nov 13, 2012","Oct 12, 2018",83,84
+1,1721,824,Call of Duty: Black Ops II,Call of Duty: Black Ops 6,"PC, PS5, XBXS, XB1, PS4","Nov 13, 2012","Oct 24, 2024",83,83
+1,1721,2034,Call of Duty: Black Ops II,Call of Duty: Black Ops III,"PS4, XB1, PC, XBXS, PS5","Nov 13, 2012","Nov 6, 2015",83,79
+1,1722,2038,Bleed 2,Bleed 2,"PS4, XB1, PC, XBXS, PS5","Feb 8, 2017","Feb 8, 2017",83,79
+1,1724,1085,Parkitect,Parkitect,PC,"Nov 29, 2018","Dec 31, 2017",83,82
+1,1725,1392,Resident Evil HD Remaster,Resident Evil HD Remaster,"PS4, XB1, PC, XBXS, PS5","Jan 20, 2015","Jan 20, 2015",83,81
+1,1726,580,This War of Mine,This War of Mine,"PC, Switch, PS4, XB1","Nov 14, 2014","Nov 14, 2014",83,85
+1,1727,1028,Devil Daggers,Devil Daggers,PC,"Feb 18, 2016","Feb 18, 2016",83,83
+1,1728,644,Strange Horticulture,Strange Horticulture,"PC, Switch, XBXS, XB1","Jan 21, 2022","Jan 21, 2022",83,84
+1,1735,803,The Blackwell Epiphany,The Blackwell Epiphany,PC,"Apr 24, 2014","Apr 24, 2014",83,84
+1,1737,653,One Finger Death Punch 2,One Finger Death Punch 2,"PC, PS4, Switch, XB1","Apr 15, 2019","Apr 15, 2019",83,84
+1,1738,208,Out of the Park Baseball 10,Out of the Park Baseball 15,PC,"Jun 2, 2009","Apr 21, 2014",83,88
+1,1738,238,Out of the Park Baseball 10,Out of the Park Baseball 16,PC,"Jun 2, 2009","Mar 23, 2015",83,88
+1,1738,274,Out of the Park Baseball 10,Out of the Park Baseball 17,PC,"Jun 2, 2009","Mar 22, 2016",83,87
+1,1739,1031,Retro City Rampage DX,Retro City Rampage DX,"Switch, PC, PS4, 3DS, Vita","Feb 6, 2014","Feb 6, 2014",83,83
+1,1744,456,Cassette Beasts,Cassette Beasts,"PC, Switch, XBXS, XB1","Apr 26, 2023","Apr 26, 2023",83,86
+1,1747,1018,Call of Duty: Modern Warfare Remastered,Call of Duty 4: Modern Warfare Remastered,"XB1, PS4, PC, XBXS, PS5","Oct 5, 2016","Oct 5, 2016",83,83
+1,1748,734,MLB The Show 20,MLB The Show 20,"PS4, PS5","Mar 13, 2020","Mar 17, 2020",83,84
+1,1748,1520,MLB The Show 20,MLB The Show 23,"PS4, Switch, PS5, XBXS, XB1, PC","Mar 13, 2020","Mar 28, 2023",83,81
+1,1748,1645,MLB The Show 20,MLB The Show 24,"PS5, Switch, XBXS, XB1, PS4","Mar 13, 2020","Mar 19, 2024",83,80
+1,1748,2425,MLB The Show 20,MLB The Show 21,"XB1, XBXS, PS5, PS4","Mar 13, 2020","Apr 16, 2021",83,78
+1,1749,900,Hearts of Iron II,Hearts of Iron IV,PC,"Jan 4, 2005","Jun 6, 2016",83,83
+1,1750,897,Ring Fit Adventure,Ring Fit Adventure,Switch,"Oct 18, 2019","Oct 18, 2019",83,83
+1,1751,952,NieR Replicant ver.1.22474487139...,NieR Replicant ver.1.22474487139,"PC, XB1, PS4","Apr 22, 2021","Apr 23, 2021",83,83
+1,1753,250,Final Fantasy XIII,Final Fantasy XVI,"PS5, PC","Mar 9, 2010","Jun 22, 2023",83,88
+1,1753,1463,Final Fantasy XIII,Final Fantasy VII,"PS4, PS5, Switch, PC, XBXS, XB1","Mar 9, 2010","Jul 4, 2013",83,81
+1,1756,798,ZEN Pinball 2: Portal Pinball,Zen Pinball 2: Portal Pinball,"PS4, PS5","May 26, 2015","May 26, 2015",83,84
+1,1758,1279,Project CARS,Project CARS 2,"XB1, PC, PS4, XBXS, PS5","May 6, 2015","Sep 22, 2017",83,82
+1,1758,1617,Project CARS,Project CARS,"PS4, XB1, PC, XBXS, PS5","May 6, 2015","May 6, 2015",83,80
+1,1761,447,Total War: WARHAMMER II - Curse of the Vampire Coast,Total War: WARHAMMER II - Curse of the Vampire Coast,PC,"Nov 8, 2018","Nov 8, 2018",83,86
+1,1762,823,Two Point Campus,Two Point Campus,"Switch, PC, XBXS, PS5, XB1, PS4","Aug 9, 2022","Aug 9, 2022",83,83
+1,1764,893,Age of Empires,Age of Empires IV,PC,"Sep 30, 1997","Oct 28, 2021",83,83
+1,1765,614,Danganronpa Decadence,Danganronpa Decadence,Switch,"Dec 3, 2021","Dec 3, 2021",83,85
+1,1766,733,Duck Game,Duck Game,"PS4, PC, Switch, PS5","May 1, 2019","Jun 4, 2015",83,84
+1,1769,933,Unpacking,Unpacking,"XBXS, Switch, PC, PS4, PS5, XB1","Nov 2, 2021","Nov 2, 2021",83,83
+1,1770,1147,Pocket Card Jockey,Pocket Card Jockey,"3DS, Switch","May 5, 2016","May 5, 2016",83,82
+1,1771,630,Dragon Quest Builders,Dragon Quest Builders 2,"Switch, PS4, PC, PS5, XB1","Oct 11, 2016","Jul 12, 2019",83,85
+1,1771,835,Dragon Quest Builders,Dragon Quest Builders,"PS4, PS5, PC, Switch","Oct 11, 2016","Oct 11, 2016",83,83
+1,1773,472,Transistor,Transistor,"PS4, PC, PS5, Switch","May 20, 2014","May 19, 2014",83,86
+1,1776,861,Splatoon 2,Splatoon 2,Switch,"Jul 21, 2017","Jul 21, 2017",83,83
+1,1776,982,Splatoon 2,Splatoon 3,Switch,"Jul 21, 2017","Sep 9, 2022",83,83
+1,1777,985,Sorry We're Closed,"Sorry, We're Closed",PC,"Nov 14, 2024","Nov 14, 2024",83,83
+1,1779,805,Stray,Stray,"PS5, PS4, PC, XB1","Jul 19, 2022","Jul 19, 2022",83,84
+1,1782,650,Yakuza 6: The Song of Life,Yakuza 6: The Song of Life,"PS4, PS5, XB1, PC","Apr 17, 2018","Apr 17, 2018",83,84
+1,1784,2004,Madden NFL 09,Madden NFL 19,"XB1, PC, PS4, XBXS, PS5","Aug 12, 2008","Aug 10, 2018",83,79
+1,1785,512,MLB 06: The Show,MLB 16: The Show,"PS4, PS5","Feb 28, 2006","Mar 29, 2016",83,85
+1,1787,940,Age of Mythology: Retold,Age of Mythology: Retold,"PC, XBXS","Sep 4, 2024","Sep 4, 2024",83,83
+1,1788,1929,Dead Rising Deluxe Remaster,Dead Rising Deluxe Remaster,"XBXS, PS5, PC","Sep 19, 2024","Sep 19, 2024",83,80
+1,1790,2367,Picross DS,Picross S7,Switch,"Jul 30, 2007","Jan 10, 2022",83,78
+1,1798,1270,TEVI,TEVI,"PC, Switch, PS4, PS5, XB1, XBXS","Nov 30, 2023","Nov 30, 2023",83,82
+1,1799,873,Labyrinth of Galleria: The Moon Society,Labyrinth of Galleria: The Moon Society,"PS5, Switch, PC, PS4","Feb 14, 2023","Feb 14, 2023",83,83
+1,1800,639,Shovel Knight: King of Cards,Shovel Knight: King of Cards,"PC, Switch, 3DS, PS4, XB1","Dec 10, 2019","Dec 10, 2019",83,84
+1,1805,920,Orcs Must Die! 2,Orcs Must Die!,PC,"Jul 30, 2012","Oct 11, 2011",83,83
+1,1806,946,Metro Redux,Metro Redux,"PS4, XB1, PC, XBXS, PS5, Switch","Aug 26, 2014","Aug 26, 2014",83,83
+1,1807,529,Octopath Traveler,Octopath Traveler II,"PC, PS5, Switch, PS4, PS5","Jul 12, 2018","Feb 24, 2023",83,85
+1,1807,697,Octopath Traveler,Octopath Traveler,"Switch, XB1, PC","Jul 12, 2018","Jul 13, 2018",83,84
+1,1808,934,Triangle Strategy,Triangle Strategy,"Switch, PC","Mar 4, 2022","Mar 4, 2022",83,83
+1,1809,1006,BYE-BYE BOXBOY!,BYE-BYE BOXBOY!,3DS,"Apr 12, 2017","Mar 23, 2017",83,83
+1,1815,1477,Mega Man Zero / ZX Legacy Collection,Mega Man Zero/ZX Legacy Collection,"PC, Switch, XB1, PS4, XBXS, PS5","Feb 25, 2020","Feb 25, 2020",83,81
+1,1818,1232,The Plucky Squire,The Plucky Squire,"PC, PS5, Switch, XBXS","Sep 17, 2024","Sep 17, 2024",83,82
+1,1819,623,Betrayal At Club Low,Betrayal At Club Low,PC,"Sep 9, 2022","Sep 16, 2022",83,85
+1,1821,1055,30 Birds,30 Birds,PC,"Nov 27, 2024","Nov 28, 2024",83,83
+1,1822,1704,The Riftbreaker,The Riftbreaker,"XBXS, PS5, PS4, XB1, PC","Oct 14, 2021","Oct 14, 2021",83,80
+1,1827,489,Starfield,Starfield,"PC, XBXS","Sep 6, 2023","Sep 6, 2023",83,85
+1,1828,1930,OlliOlli: Switch Stance,OlliOlli: Switch Stance,Switch,"Feb 14, 2019","Feb 14, 2019",83,80
+1,1834,605,Moss: Book II,Moss: Book II,"PSVR, Quest, PC","Mar 31, 2022","Mar 31, 2022",83,85
+1,1835,622,Cupid Parasite,Cupid Parasite,Switch,"Nov 2, 2021","Nov 2, 2021",83,85
+1,1842,449,No Man's Sky Beyond,No Man's Sky - Beyond,"PS4, XB1, PC, XBXS, PS5","Aug 14, 2019","Aug 14, 2019",83,86
+1,1843,863,Hardspace: Shipbreaker,Hardspace: Shipbreaker,"PC, PS5, XBXS","May 24, 2022","Jun 16, 2020",83,83
+1,1846,427,GRIS,GRIS,"PC, Switch, PS4, PS5, XBXS, XB1","Dec 13, 2018","Dec 13, 2018",83,86
+1,1847,1888,UnderMine,UnderMine,"XB1, PC, XBXS, Switch","Feb 11, 2021","Aug 20, 2019",83,80
+1,1849,1059,Super Mega Baseball 3,Super Mega Baseball 2,"PS4, XB1, PC, XBXS, PS5","May 13, 2020","May 1, 2018",83,82
+1,1849,1294,Super Mega Baseball 3,Super Mega Baseball 3,"XB1, PS4, Switch, PC, XBXS, PS5","May 13, 2020","May 13, 2020",83,82
+1,1849,1534,Super Mega Baseball 3,Super Mega Baseball 4,"PS5, XB1, XBXS, Switch, PS4, PC","May 13, 2020","Jun 2, 2023",83,81
+1,1849,1707,Super Mega Baseball 3,Super Mega Baseball,"PS4, PS5","May 13, 2020","Dec 16, 2014",83,80
+1,1850,1479,The Sexy Brutale,The Sexy Brutale,"PS4, XB1, PC, XBXS, PS5, Switch","Apr 11, 2017","Apr 11, 2017",83,81
+1,1851,782,V Rising,V Rising,PC,"May 8, 2024","May 17, 2022",83,84
+1,1853,1305,FIFA 19,FIFA 19,"PS4, XB1, PC, XBXS, PS5, Switch","Sep 25, 2018","Sep 25, 2018",83,81
+1,1854,1860,Prison Architect,Prison Architect,"PS4, XB1, PC, XBXS, PS5, Switch","Oct 6, 2015","Oct 6, 2015",83,80
+1,1856,353,Mortal Kombat X,Mortal Kombat XL,"PS4, XB1, XBXS, PS5","Apr 14, 2015","Mar 1, 2016",83,87
+1,1856,769,Mortal Kombat X,Mortal Kombat 1,"PC, PS5, XBXS, Switch","Apr 14, 2015","Sep 19, 2023",83,84
+1,1856,794,Mortal Kombat X,Mortal Kombat X,"PS4, XB1, PC, XBXS, PS5","Apr 14, 2015","Apr 13, 2015",83,84
+1,1856,1023,Mortal Kombat X,Mortal Kombat 11,"PS4, Switch, XB1, PC, Stadia, XBXS, PS5","Apr 14, 2015","Apr 23, 2019",83,83
+1,1866,1655,NBA 2K15,NBA 2K15,"PS4, XB1, PC, XBXS, PS5","Oct 7, 2014","Oct 6, 2014",83,80
+1,1867,810,Danganronpa 1-2 Reload,Danganronpa 1-2 Reload,"PS4, PS5, PC","Mar 14, 2017","Oct 10, 2013",83,84
+1,1869,204,Xenoblade Chronicles 2,Xenoblade Chronicles 3,Switch,"Dec 1, 2017","Jul 29, 2022",83,88
+1,1869,459,Xenoblade Chronicles 2,Xenoblade Chronicles 3D,3DS,"Dec 1, 2017","Apr 10, 2015",83,86
+1,1869,635,Xenoblade Chronicles 2,Xenoblade Chronicles X,Wii-U,"Dec 1, 2017","Dec 4, 2015",83,84
+1,1869,972,Xenoblade Chronicles 2,Xenoblade Chronicles 2,Switch,"Dec 1, 2017","Dec 1, 2017",83,83
+1,1870,1970,World of Warcraft: Shadowlands,World of Warcraft: Shadowlands,PC,"Nov 23, 2020","Nov 23, 2020",83,80
+1,1871,910,Madden NFL 16,Madden NFL 16,"PS4, XB1, XBXS, PS5","Aug 25, 2015","Aug 25, 2015",83,83
+1,1871,979,Madden NFL 16,Madden NFL 17,"PS4, XB1, XBXS, PS5","Aug 25, 2015","Aug 23, 2016",83,83
+1,1871,1278,Madden NFL 16,Madden NFL 18,"PS4, XB1, XBXS, PS5","Aug 25, 2015","Aug 25, 2017",83,82
+1,1871,1485,Madden NFL 16,Madden NFL 15,"PS4, XB1, XBXS, PS5","Aug 25, 2015","Aug 26, 2014",83,81
+1,1871,2004,Madden NFL 16,Madden NFL 19,"XB1, PC, PS4, XBXS, PS5","Aug 25, 2015","Aug 10, 2018",83,79
+1,1873,1356,Advance Wars 1 + 2: Re-Boot Camp,Advance Wars 1+2: Re-Boot Camp,Switch,"Apr 21, 2023","Apr 21, 2023",83,81
+1,1874,837,Shadow Tactics: Blades of the Shogun - Aiko's Choice,Shadow Tactics: Blades of the Shogun - Aiko's Choice,PC,"Dec 6, 2021","Dec 6, 2021",83,83
+1,1876,1525,Gravity Rush,Gravity Rush 2,"PS4, PS5","Jun 12, 2012","Jan 20, 2017",83,81
+1,1878,774,Horizon Zero Dawn: The Frozen Wilds,Horizon Zero Dawn: The Frozen Wilds,"PS4, PS5","Nov 7, 2017","Nov 7, 2017",83,84
+1,1883,921,The Last Clockwinder,The Last Clockwinder,"PC, Quest, Vive, PS5","Feb 22, 2023","Jun 2, 2022",83,83
+1,1888,820,Collection of Mana,Collection of Mana,Switch,"Jun 11, 2019","Aug 27, 2019",83,83
+1,1890,430,Path of Exile: The Fall of Oriath,Path of Exile: The Fall of Oriath,PC,"Aug 24, 2017","Aug 4, 2017",83,86
+1,1891,251,The Legend of Heroes: Trails in the Sky the 3rd,The Legend of Heroes: Trails in the Sky,PC,"May 3, 2017","Jul 29, 2014",83,88
+1,1891,464,The Legend of Heroes: Trails in the Sky the 3rd,The Legend of Heroes: Trails in the Sky the 3rd,PC,"May 3, 2017","May 2, 2017",83,86
+1,1893,1108,SANABI,SANABI,"Switch, PC","Nov 9, 2023","Nov 9, 2023",83,82
+1,1895,224,Pistol Whip,Pistol Whip,"Vive, Quest, PC, PS4, PS5","Nov 7, 2019","Nov 7, 2019",83,88
+1,1896,974,Hypnospace Outlaw,Hypnospace Outlaw,"PC, Switch, XB1, PS4","Mar 12, 2019","Mar 12, 2019",83,83
+1,1901,250,Final Fantasy V,Final Fantasy XVI,"PS5, PC","Nov 6, 2006","Jun 22, 2023",83,88
+1,1901,1463,Final Fantasy V,Final Fantasy VII,"PS4, PS5, Switch, PC, XBXS, XB1","Nov 6, 2006","Jul 4, 2013",83,81
+1,1901,1514,Final Fantasy V,Final Fantasy IX,"PS4, PS5, Switch, XB1, PC","Nov 6, 2006","Apr 14, 2016",83,81
+1,1901,1524,Final Fantasy V,Final Fantasy XV,"PS4, XB1, PC, Stadia, XBXS, PS5","Nov 6, 2006","Nov 29, 2016",83,81
+1,1902,1598,Overcooked! 2: Surf 'n' Turf,Overcooked 2 - Surf 'n' Turf,"PS4, XB1, PC, Switch, XBXS, PS5","Oct 3, 2018","Oct 3, 2018",83,81
+1,1903,1135,Disc Room,Disc Room,"PC, Switch","Oct 22, 2020","Oct 23, 2020",83,82
+1,1907,1351,Pathfinder: Wrath of the Righteous,Pathfinder: Wrath of the Righteous,"PC, XB1, XBXS, Switch, PS4","Sep 2, 2021","Sep 2, 2021",83,81
+1,1908,813,Pokemon Legends: Arceus,Pokémon Legends: Arceus,Switch,"Jan 28, 2022","Jan 28, 2022",83,84
+1,1910,128,Alan Wake,Alan Wake 2,"PS5, XBXS, PC","May 18, 2010","Oct 27, 2023",83,89
+1,1911,771,Call of Duty: Black Ops 6,Call of Duty: Black Ops 4,"PS4, XB1, PC, XBXS, PS5","Oct 25, 2024","Oct 12, 2018",83,84
+1,1911,824,Call of Duty: Black Ops 6,Call of Duty: Black Ops 6,"PC, PS5, XBXS, XB1, PS4","Oct 25, 2024","Oct 24, 2024",83,83
+1,1911,2034,Call of Duty: Black Ops 6,Call of Duty: Black Ops III,"PS4, XB1, PC, XBXS, PS5","Oct 25, 2024","Nov 6, 2015",83,79
+1,1914,2286,Green Hell VR,Green Hell VR,Quest,"Jun 9, 2022","Apr 7, 2022",83,79
+1,1916,1505,VVVVVV,VVVVVV,"Switch, PC, PS4, Vita, PS5","Dec 29, 2011","Sep 7, 2010",83,81
+1,1919,353,Mortal Kombat 1,Mortal Kombat XL,"PS4, XB1, XBXS, PS5","Sep 19, 2023","Mar 1, 2016",83,87
+1,1919,769,Mortal Kombat 1,Mortal Kombat 1,"PC, PS5, XBXS, Switch","Sep 19, 2023","Sep 19, 2023",83,84
+1,1919,794,Mortal Kombat 1,Mortal Kombat X,"PS4, XB1, PC, XBXS, PS5","Sep 19, 2023","Apr 13, 2015",83,84
+1,1919,1023,Mortal Kombat 1,Mortal Kombat 11,"PS4, Switch, XB1, PC, Stadia, XBXS, PS5","Sep 19, 2023","Apr 23, 2019",83,83
+1,1920,1358,Killer Queen Black,Killer Queen Black,"PC, Switch, XB1, XBXS","Oct 11, 2019","Oct 11, 2019",83,81
+1,1922,1700,LISA: Definitive Edition,LISA: Definitive Edition,"PC, Switch, PS5, PS4, XBXS, XB1","Jul 18, 2023","Jul 18, 2023",83,80
+1,1923,2051,Broforce,Broforce,"PS4, PC, PS5, Switch, XB1","Oct 15, 2015","Oct 15, 2015",83,79
+1,1932,1066,Marvel's Midnight Suns,Marvel's Midnight Suns,"XBXS, PS5, XB1, PS4, PC, Switch","Dec 2, 2022","Dec 2, 2022",83,82
+1,1933,1067,Grounded,Grounded,"XBXS, XB1, PC, PS5, PS4, Switch","Sep 27, 2022","Sep 27, 2022",83,82
+1,1934,872,Roadwarden,Roadwarden,PC,"Sep 12, 2022","Sep 12, 2022",83,83
+1,1936,904,Steel Division: Normandy 44,Steel Division: Normandy 44,PC,"May 23, 2017","May 23, 2017",83,83
+1,1937,900,Hearts of Iron IV,Hearts of Iron IV,PC,"Jun 6, 2016","Jun 6, 2016",83,83
+1,1940,968,Skylanders Swap Force,Skylanders Swap Force,"PS4, XB1, Wii-U, XBXS, PS5, 3DS","Oct 13, 2013","Oct 13, 2013",83,83
+1,1941,955,Yoku's Island Express,Yoku's Island Express,"PS4, XB1, PC, Switch, XBXS, PS5","May 29, 2018","May 29, 2018",83,83
+1,1943,1457,Rhythm Heaven Megamix,Rhythm Heaven Megamix,3DS,"Jun 15, 2016","Jun 15, 2016",83,81
+1,1944,659,Duskers,Duskers,PC,"May 18, 2016","May 18, 2016",83,84
+1,1946,1126,Counter-Strike: Global Offensive,Counter-Strike: Global Offensive,PC,"Aug 21, 2012","Aug 21, 2012",83,82
+1,1948,2261,The Last Campfire,The Last Campfire,"Switch, PS4, PC, XB1, XBXS, PS5","Aug 27, 2020","Aug 27, 2020",83,79
+1,1949,706,Iconoclasts,Iconoclasts,"PS4, PC, Vita, PS5, Switch, XB1","Jan 23, 2018","Jan 23, 2018",83,84
+1,1951,737,Theatrhythm Final Fantasy: Curtain Call,Theatrhythm Final Fantasy: Curtain Call,3DS,"Sep 16, 2014","Sep 16, 2014",83,84
+1,1955,680,Assassin's Creed Odyssey,Assassin's Creed Odyssey,"XB1, PC, PS4, Stadia, XBXS, PS5, Switch","Oct 2, 2018","Oct 5, 2018",83,84
+1,1956,657,Donkey Kong Country: Tropical Freeze,Donkey Kong Country: Tropical Freeze,"Wii-U, Switch","Feb 21, 2014","Feb 21, 2014",83,84
+1,1957,511,Valkyria Chronicles II,Valkyria Chronicles,PC,"Aug 30, 2010","Nov 11, 2014",83,85
+1,1957,695,Valkyria Chronicles II,Valkyria Chronicles 4,"PS4, XB1, PC, Switch, XBXS, PS5","Aug 30, 2010","Sep 25, 2018",83,84
+1,1964,392,ZEN Pinball 2: The Walking Dead,ZEN Pinball 2: The Walking Dead,"PS4, Wii-U, PC, PS5","Aug 26, 2014","Aug 26, 2014",83,86
+1,1967,1494,Crown Trick,Crown Trick,"PC, PS4, Switch, XB1","Oct 16, 2020","Oct 16, 2020",83,81
+1,1968,1036,Reventure,Reventure,PC,"Oct 8, 2019","Jun 4, 2019",83,83
+1,1970,392,ZEN Pinball 2: The Walking Dead,ZEN Pinball 2: The Walking Dead,"PS4, Wii-U, PC, PS5","Aug 26, 2014","Aug 26, 2014",83,86
+1,1975,1478,Llamasoft: The Jeff Minter Story,Llamasoft: The Jeff Minter Story,"PC, Switch, PS5, XBXS, XB1, PS4","Mar 13, 2024","Mar 13, 2024",83,81
+1,1976,875,"Invisible, Inc.",Invisible Inc.,"PS4, PC, Switch, PS5","May 12, 2015","May 12, 2015",82,83
+1,1980,878,Dark Souls II: Crown of the Ivory King,Dark Souls II: Crown of the Ivory King,PC,"Sep 29, 2014","Sep 29, 2014",82,83
+1,1981,2266,Atelier Mysterious Trilogy Deluxe Pack,Atelier Mysterious Trilogy Deluxe Pack,"PS4, Switch, PC","Apr 22, 2021","Apr 21, 2021",82,79
+1,1982,804,Gears of War: Ultimate Edition,Gears of War: Ultimate Edition,"XB1, XBXS, PC","Aug 25, 2015","Aug 25, 2015",82,84
+1,1983,2191,Islets,Islets,"Switch, XBXS, XB1, PC","Aug 24, 2022","Aug 24, 2022",82,79
+1,1985,604,Command & Conquer Remastered Collection,Command & Conquer Remastered Collection,PC,"Jun 5, 2020","Jun 5, 2020",82,85
+1,1986,2493,Freedom Finger,Freedom Finger,"PC, Switch","Mar 24, 2020","Sep 27, 2019",82,78
+1,1988,1058,Helldivers 2,Helldivers,"PS4, PC, PS5","Feb 8, 2024","Mar 4, 2015",82,82
+1,1990,2148,Super Hydorah,Super Hydorah,"XB1, PC, XBXS","Sep 20, 2017","Sep 20, 2017",82,79
+1,1991,2194,Killer Frequency,Killer Frequency,"XBXS, PS5, Switch, PC, Quest, PS4, XB1","Jun 1, 2023","Jun 1, 2023",82,79
+1,1992,1287,Laser League,Laser League,"PS4, XB1, PC, XBXS, PS5","May 10, 2018","May 10, 2018",82,82
+1,1994,1773,Street Fighter V: Champion Edition,Street Fighter V: Champion Edition,"PS4, PC, PS5","Feb 14, 2020","Feb 14, 2020",82,80
+1,1996,1128,The Elder Scrolls Online: Necrom,The Elder Scrolls Online: Necrom,"PC, PS4, PS5, XBXS, XB1","Jun 5, 2023","Jun 5, 2023",82,82
+1,1998,1098,Watch Dogs 2,Watch Dogs 2,"PS4, XB1, PC, XBXS, PS5","Nov 15, 2016","Nov 15, 2016",82,82
+1,1998,2054,Watch Dogs 2,Watch Dogs,"PS4, XB1, Wii-U, PC, XBXS, PS5","Nov 15, 2016","May 26, 2014",82,79
+1,2006,1080,Chivalry 2,Chivalry 2,"PC, XB1, PS5, XBXS, PS4","Jun 8, 2021","Jun 8, 2021",82,82
+1,2008,1428,Pinball FX3,Pinball FX3,"PC, PS4, XB1, XBXS, PS5","Dec 12, 2017","Sep 26, 2017",82,81
+1,2011,927,Lost Judgment,Lost Judgment,"XBXS, PS5, XB1, PS4, PC","Sep 21, 2021","Sep 24, 2021",82,83
+1,2012,1545,L.A. Noire: The VR Case Files,L.A. Noire: The VR Case Files,"Vive, PC","Nov 14, 2017","Dec 13, 2017",82,81
+1,2015,783,The Banner Saga 2,The Banner Saga 3,"PC, PS4, XB1, Switch","Apr 19, 2016","Jul 26, 2018",82,84
+1,2015,1070,The Banner Saga 2,The Banner Saga 2,"PS4, XB1, PC, XBXS, PS5, Switch","Apr 19, 2016","Apr 19, 2016",82,82
+1,2015,1565,The Banner Saga 2,The Banner Saga,"PS4, XB1, PC, XBXS, PS5, Switch","Apr 19, 2016","Jan 14, 2014",82,81
+1,2018,301,Not For Broadcast,Not For Broadcast,"PC, PS5, PS4, XBXS, XB1","Jan 25, 2022","Dec 11, 2019",82,87
+1,2021,1279,Project CARS 2,Project CARS 2,"XB1, PC, PS4, XBXS, PS5","Sep 22, 2017","Sep 22, 2017",82,82
+1,2021,1617,Project CARS 2,Project CARS,"PS4, XB1, PC, XBXS, PS5","Sep 22, 2017","May 6, 2015",82,80
+1,2022,371,Football Manager 2018,Football Manager 2022,"XBXS, XB1, PC","Nov 9, 2017","Nov 9, 2021",82,86
+1,2022,436,Football Manager 2018,Football Manager 2020,"PC, Stadia","Nov 9, 2017","Nov 19, 2019",82,86
+1,2022,523,Football Manager 2018,Football Manager 2021,"PC, Switch, XB1","Nov 9, 2017","Nov 10, 2020",82,85
+1,2022,536,Football Manager 2018,Football Manager 2019,PC,"Nov 9, 2017","Oct 2, 2018",82,85
+1,2022,832,Football Manager 2018,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Nov 9, 2017","Nov 8, 2022",82,83
+1,2022,1013,Football Manager 2018,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Nov 9, 2017","Nov 6, 2023",82,83
+1,2022,1145,Football Manager 2018,Football Manager 2016,PC,"Nov 9, 2017","Nov 13, 2015",82,82
+1,2022,1327,Football Manager 2018,Football Manager 2017,PC,"Nov 9, 2017","Nov 4, 2016",82,81
+1,2022,1669,Football Manager 2018,Football Manager 2018,PC,"Nov 9, 2017","Nov 10, 2017",82,80
+1,2025,1116,SUPERHOT,SUPERHOT,"XB1, PC, XBXS, PS4, Switch","Feb 25, 2016","Feb 25, 2016",82,82
+1,2033,1283,Yakuza 5 Remastered,Yakuza 5 Remastered,"PS4, PS5","Feb 11, 2020","Feb 11, 2020",82,82
+1,2033,2150,Yakuza 5 Remastered,Yakuza 3 Remastered,"PS4, PS5","Feb 11, 2020","Aug 20, 2019",82,79
+1,2034,357,Monster Hunter 3 Ultimate,Monster Hunter 4 Ultimate,3DS,"Mar 19, 2013","Feb 13, 2015",82,86
+1,2035,1508,Borderlands: The Handsome Collection,Borderlands: The Handsome Collection,"PS4, XB1, XBXS, PS5, PC, Switch","Mar 24, 2015","Mar 24, 2015",82,81
+1,2036,1357,Forza Horizon 2: Storm Island,Forza Horizon 2: Storm Island,"XB1, XBXS","Dec 16, 2014","Dec 16, 2014",82,81
+1,2038,896,Tom Clancy's The Division 2,Tom Clancy's The Division 2,"PS4, XB1, PC, XBXS, PS5","Mar 12, 2019","Mar 15, 2019",82,83
+1,2038,2236,Tom Clancy's The Division 2,Tom Clancy's The Division,"PS4, XB1, PC, XBXS, PS5","Mar 12, 2019","Mar 8, 2016",82,79
+1,2040,910,Madden NFL 18,Madden NFL 16,"PS4, XB1, XBXS, PS5","Aug 22, 2017","Aug 25, 2015",82,83
+1,2040,979,Madden NFL 18,Madden NFL 17,"PS4, XB1, XBXS, PS5","Aug 22, 2017","Aug 23, 2016",82,83
+1,2040,1278,Madden NFL 18,Madden NFL 18,"PS4, XB1, XBXS, PS5","Aug 22, 2017","Aug 25, 2017",82,82
+1,2040,1485,Madden NFL 18,Madden NFL 15,"PS4, XB1, XBXS, PS5","Aug 22, 2017","Aug 26, 2014",82,81
+1,2040,2004,Madden NFL 18,Madden NFL 19,"XB1, PC, PS4, XBXS, PS5","Aug 22, 2017","Aug 10, 2018",82,79
+1,2041,801,Geometry Wars 3: Dimensions,Geometry Wars 3: Dimensions,"PS4, XB1, PC, XBXS, PS5","Nov 26, 2014","Nov 25, 2014",82,84
+1,2042,1713,Stealth Inc 2: A Game of Clones,Stealth Inc 2: A Game of Clones,"PS4, XB1, Wii-U, PC, XBXS, PS5","Oct 30, 2014","Oct 30, 2014",82,80
+1,2043,1856,Flat Heroes,Flat Heroes,"PC, Switch","Aug 2, 2018","Aug 2, 2018",82,80
+1,2044,2251,Horizon Chase Turbo,Horizon Chase Turbo,"PS4, PC, PS5, Switch, XB1","Nov 28, 2018","May 15, 2018",82,79
+1,2045,1676,Runbow,Runbow,"Wii-U, PC, PS4, Switch, XB1","Aug 27, 2015","Aug 27, 2015",82,80
+1,2046,910,Madden NFL 17,Madden NFL 16,"PS4, XB1, XBXS, PS5","Aug 23, 2016","Aug 25, 2015",82,83
+1,2046,979,Madden NFL 17,Madden NFL 17,"PS4, XB1, XBXS, PS5","Aug 23, 2016","Aug 23, 2016",82,83
+1,2046,1278,Madden NFL 17,Madden NFL 18,"PS4, XB1, XBXS, PS5","Aug 23, 2016","Aug 25, 2017",82,82
+1,2046,1485,Madden NFL 17,Madden NFL 15,"PS4, XB1, XBXS, PS5","Aug 23, 2016","Aug 26, 2014",82,81
+1,2046,2004,Madden NFL 17,Madden NFL 19,"XB1, PC, PS4, XBXS, PS5","Aug 23, 2016","Aug 10, 2018",82,79
+1,2051,740,CrossCode,CrossCode,"PC, PS4, XB1, Switch, XBXS, PS5","Jul 9, 2020","Sep 20, 2018",82,84
+1,2052,1267,F1 2016,F1 2016,"PS4, XB1, PC, XBXS, PS5","Aug 19, 2016","Aug 19, 2016",82,82
+1,2055,1101,Destiny 2: Forsaken,Destiny 2: Forsaken,"PS4, XB1, PC, XBXS, PS5","Sep 4, 2018","Sep 4, 2018",82,82
+1,2056,688,Wylde Flowers,Wylde Flowers,"Switch, PC","Sep 20, 2022","Sep 20, 2022",82,84
+1,2058,1913,Operencia: The Stolen Sun,Operencia: The Stolen Sun,"XB1, PC, XBXS, PS4, Switch","Mar 29, 2019","Mar 29, 2019",82,80
+1,2059,664,F-Zero 99,F-Zero 99,Switch,"Sep 14, 2023","Sep 14, 2023",82,84
+1,2062,1196,Lovers in a Dangerous Spacetime,Lovers in a Dangerous Spacetime,"PS4, XB1, PC, XBXS, PS5, Switch","Sep 9, 2015","Sep 9, 2015",82,82
+1,2064,1095,Yooka-Laylee and the Impossible Lair,Yooka-Laylee and the Impossible Lair,"PC, Switch, XB1, PS4, XBXS, PS5","Oct 8, 2019","Oct 8, 2019",82,82
+1,2069,663,Hotline Miami Collection,Hotline Miami Collection,"PS4, PC, Switch, PS5","Aug 19, 2019","Oct 10, 2017",82,84
+1,2071,1110,Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure,Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure,Switch,"Jun 26, 2018","Jun 26, 2018",82,82
+1,2072,727,N++,N++,"PS4, PC, PS5","Jul 28, 2015","Jul 27, 2015",82,84
+1,2075,1092,Tadpole Treble Encore,Tadpole Treble Encore,Switch,"Jan 21, 2021","Jan 21, 2021",82,82
+1,2077,949,Pro Evolution Soccer 2015,Pro Evolution Soccer 2017,"PS4, XB1, PC, XBXS, PS5","Nov 11, 2014","Sep 15, 2016",82,83
+1,2077,997,Pro Evolution Soccer 2015,Pro Evolution Soccer 2016,"PS4, XB1, PC, XBXS, PS5","Nov 11, 2014","Sep 15, 2015",82,83
+1,2077,1216,Pro Evolution Soccer 2015,Pro Evolution Soccer 2018,"PS4, XB1, PC, XBXS, PS5","Nov 11, 2014","Sep 12, 2017",82,82
+1,2077,1633,Pro Evolution Soccer 2015,Pro Evolution Soccer 2015,"PS4, XB1, PC, XBXS, PS5","Nov 11, 2014","Nov 10, 2014",82,80
+1,2077,2415,Pro Evolution Soccer 2015,Pro Evolution Soccer 2019,"PS4, XB1, PC, XBXS, PS5","Nov 11, 2014","Aug 28, 2018",82,78
+1,2079,1105,The Murder of Sonic the Hedgehog,The Murder of Sonic the Hedgehog,PC,"Mar 31, 2023","Mar 31, 2023",82,82
+1,2080,1172,Atelier Sophie 2: The Alchemist of the Mysterious Dream,Atelier Sophie 2: The Alchemist & The Mysterious Dream,"PC, Switch, PS4","Feb 25, 2022","Feb 25, 2022",82,82
+1,2083,648,Dreamscaper,Dreamscaper,"Switch, PC","Aug 5, 2021","Aug 14, 2020",82,84
+1,2084,608,F1 23,F1 23,"XBXS, PS5, PC, XB1, PS4","Jun 16, 2023","Jun 15, 2023",82,85
+1,2085,1591,Dark Souls III: The Ringed City,Dark Souls III: The Ringed City,"PS4, XB1, PC, XBXS, PS5","Mar 28, 2017","Mar 27, 2017",82,81
+1,2087,1424,Shadowverse: Champion's Battle,Shadowverse: Champion's Battle,Switch,"Aug 10, 2021","Aug 13, 2021",82,81
+1,2092,1231,Backfirewall_,Backfirewall,"XBXS, XB1, PS5, Switch, PS4, PC","Jan 30, 2023","Jan 30, 2023",82,82
+1,2096,1685,Eastward,Eastward,"Switch, PC, XB1","Sep 16, 2021","Sep 16, 2021",82,80
+1,2097,1017,I Expect You To Die,I Expect You To Die,"Quest, PSVR, PC, PS4","Dec 13, 2016","Dec 6, 2016",82,83
+1,2097,1087,I Expect You To Die,I Expect You To Die 2,"PSVR, Quest, PC","Dec 13, 2016","Aug 24, 2021",82,82
+1,2098,869,Etrian Odyssey 2 Untold: The Fafnir Knight,Etrian Odyssey 2 Untold: The Fafnir Knight,3DS,"Aug 4, 2015","Aug 4, 2015",82,83
+1,2100,1027,Hacknet,Hacknet,PC,"Aug 12, 2015","Aug 12, 2015",82,83
+1,2101,885,Coral Island,Coral Island,"PC, PS5, XBXS","Nov 14, 2023","Nov 14, 2023",82,83
+1,2103,1343,"Warhammer 40,000: Space Marine II","Warhammer 40,000: Space Marine 2","PC, PS5, XBXS","Sep 5, 2024","Sep 9, 2024",82,81
+1,2118,1484,Sairento VR,Sairento VR,"Quest, Vive, PSVR","Jul 10, 2019","Jan 19, 2018",82,81
+1,2120,961,Metro Exodus,Metro Exodus,"PC, PS4, XB1, Stadia, XBXS, PS5","Feb 15, 2019","Feb 15, 2019",82,83
+1,2121,943,The Talos Principle: Road To Gehenna,The Talos Principle: Road To Gehenna,PC,"Jul 23, 2015","Jul 23, 2015",82,83
+1,2122,1480,Stellaris: Utopia,Stellaris: Utopia,PC,"Apr 6, 2017","Apr 6, 2017",82,81
+1,2123,1456,Bloodstained: Curse of the Moon 2,Bloodstained: Curse of the Moon 2,"Switch, PC, PS4, XB1, XBXS, PS5","Jul 10, 2020","Jul 10, 2020",82,81
+1,2123,1948,Bloodstained: Curse of the Moon 2,Bloodstained: Curse of the Moon,"PS4, PC, 3DS, Vita, Switch, PS5, XB1","Jul 10, 2020","May 24, 2018",82,80
+1,2125,954,The Life and Suffering of Sir Brante,The Life and Suffering of Sir Brante,PC,"Mar 4, 2021","Mar 4, 2021",82,83
+1,2127,668,Cult of the Lamb,Cult of the Lamb,"PC, PS5, XBXS, PS4, XB1, Switch","Aug 11, 2022","Aug 11, 2022",82,84
+1,2129,1002,Children of Morta,Children of Morta,"PC, Switch, PS4, XB1, XBXS, PS5","Sep 3, 2019","Sep 3, 2019",82,83
+1,2130,931,Subnautica: Below Zero,Subnautica: Below Zero,"XBXS, PS5, Switch, PC, XB1, PS4","May 14, 2021","May 14, 2021",82,83
+1,2131,579,Huntdown,Huntdown,"PS4, XB1, PC, Switch, XBXS, PS5","May 12, 2020","May 12, 2020",82,85
+1,2133,956,Super Mario 3D All-Stars,Super Mario 3D All-Stars,Switch,"Sep 18, 2020","Sep 18, 2020",82,83
+1,2135,1537,Shantae and the Pirate's Curse,Shantae and the Pirate's Curse,"XB1, Wii-U, PC, 3DS, XBXS, PS4, PS5, Switch","Oct 23, 2014","Oct 22, 2014",82,81
+1,2138,1646,Sportsfriends,Sportsfriends,"PS4, PC, PS5","May 6, 2014","May 6, 2014",82,80
+1,2145,865,Hitman 2,Hitman 2,"PS4, XB1, PC, XBXS, PS5","Nov 9, 2018","Nov 13, 2018",82,83
+1,2146,1652,Gears 5: Hivebusters,Gears 5: Hivebusters,"XBXS, PC, XB1","Dec 15, 2020","Dec 15, 2020",82,80
+1,2149,809,Endless Legend,Endless Legend,"PC, XB1","Sep 18, 2014","Sep 18, 2014",82,84
+1,2150,1311,The Last Spell,The Last Spell,"PC, Switch, PS5, PS4","Mar 9, 2023","Mar 9, 2023",82,81
+1,2152,1780,Batbarian: Testament of the Primordials,Batbarian: Testament of the Primordials,"Switch, PC","Oct 15, 2020","Oct 15, 2020",82,80
+1,2153,783,The Banner Saga 3,The Banner Saga 3,"PC, PS4, XB1, Switch","Jul 26, 2018","Jul 26, 2018",82,84
+1,2153,1070,The Banner Saga 3,The Banner Saga 2,"PS4, XB1, PC, XBXS, PS5, Switch","Jul 26, 2018","Apr 19, 2016",82,82
+1,2153,1565,The Banner Saga 3,The Banner Saga,"PS4, XB1, PC, XBXS, PS5, Switch","Jul 26, 2018","Jan 14, 2014",82,81
+1,2154,836,A Plague Tale: Requiem,A Plague Tale: Requiem,"Switch, PC, XBXS, PS5","Oct 18, 2022","Oct 18, 2022",82,83
+1,2156,976,Tiny Terry's Turbo Trip,Tiny Terry's Turbo Trip,PC,"May 30, 2024","May 30, 2024",82,83
+1,2157,942,Death Stranding,Death Stranding,"PS4, PC, PS5, XBXS","Nov 8, 2019","Nov 8, 2019",82,83
+1,2164,1680,Creaks,Creaks,"Switch, PC, PS4, XB1","Jul 22, 2020","Jul 22, 2020",82,80
+1,2166,1571,Skullgirls: 2nd Encore,Skullgirls: 2nd Encore,"PS4, PS5, PC, Switch, XB1, XBXS","Jul 7, 2015","Jul 7, 2015",82,81
+1,2169,1635,Gunman Clive,Gunman Clive 2,"PC, 3DS","Jan 3, 2013","Jan 29, 2015",82,80
+1,2171,919,The Vale: Shadow of the Crown,The Vale: Shadow of the Crown,"PC, XB1","Aug 19, 2021","Aug 19, 2021",82,83
+1,2172,1763,Vectronom,Vectronom,"PC, Switch","May 29, 2019","May 28, 2019",82,80
+1,2174,705,The Wolf Among Us: Episode 3 - A Crooked Mile,The Wolf Among Us: Episode 3 - A Crooked Mile,"PS4, XB1, PC, XBXS, PS5","Apr 8, 2014","Apr 8, 2014",82,84
+1,2176,1867,Slime-san,Slime-san,PC,"Jun 8, 2017","Apr 7, 2017",82,80
+1,2177,753,Astalon: Tears of the Earth,Astalon: Tears of the Earth,"PS5, XBXS, XB1, Switch, PS4, PC","Jun 3, 2021","Jun 3, 2021",82,84
+1,2178,769,Mortal Kombat 11,Mortal Kombat 1,"PC, PS5, XBXS, Switch","Apr 23, 2019","Sep 19, 2023",82,84
+1,2178,794,Mortal Kombat 11,Mortal Kombat X,"PS4, XB1, PC, XBXS, PS5","Apr 23, 2019","Apr 13, 2015",82,84
+1,2178,1023,Mortal Kombat 11,Mortal Kombat 11,"PS4, Switch, XB1, PC, Stadia, XBXS, PS5","Apr 23, 2019","Apr 23, 2019",82,83
+1,2179,1395,The Sims 4: Eco Lifestyle,The Sims 4: Eco Lifestyle,"PC, PS4, XB1, XBXS, PS5","Jun 5, 2020","Jun 5, 2020",82,81
+1,2180,770,Outer Wilds: Echoes of the Eye,Outer Wilds: Echoes of the Eye,"XBXS, PS5, PC, PS4, XB1","Sep 28, 2021","Sep 28, 2021",82,84
+1,2181,949,Pro Evolution Soccer 2013,Pro Evolution Soccer 2017,"PS4, XB1, PC, XBXS, PS5","Sep 25, 2012","Sep 15, 2016",82,83
+1,2181,997,Pro Evolution Soccer 2013,Pro Evolution Soccer 2016,"PS4, XB1, PC, XBXS, PS5","Sep 25, 2012","Sep 15, 2015",82,83
+1,2181,1216,Pro Evolution Soccer 2013,Pro Evolution Soccer 2018,"PS4, XB1, PC, XBXS, PS5","Sep 25, 2012","Sep 12, 2017",82,82
+1,2181,1633,Pro Evolution Soccer 2013,Pro Evolution Soccer 2015,"PS4, XB1, PC, XBXS, PS5","Sep 25, 2012","Nov 10, 2014",82,80
+1,2181,2415,Pro Evolution Soccer 2013,Pro Evolution Soccer 2019,"PS4, XB1, PC, XBXS, PS5","Sep 25, 2012","Aug 28, 2018",82,78
+1,2190,1396,Spyro Reignited Trilogy,Spyro Reignited Trilogy,"PS4, XB1, XBXS, PS5, Switch, PC","Nov 13, 2018","Nov 13, 2018",82,81
+1,2192,1205,Horace,Horace,PC,"Oct 21, 2020","Jul 18, 2019",82,82
+1,2193,1381,Shadows Over Loathing,Shadows Over Loathing,"PC, Switch, PS4, PS5","Nov 11, 2022","Nov 11, 2022",82,81
+1,2195,748,Legend of Grimrock,Legend of Grimrock II,PC,"Apr 11, 2012","Oct 15, 2014",82,84
+1,2196,1321,Archvale,Archvale,"Switch, PC","Dec 2, 2021","Dec 2, 2021",82,81
+1,2197,754,Borderlands Legendary Collection,Borderlands Legendary Collection,"Switch, PC, PS4, XB1, XBXS, PS5","May 29, 2020","May 29, 2020",82,84
+1,2198,1931,Animal Crossing: New Horizons - Happy Home Paradise,Animal Crossing New Horizons: Happy Home Paradise,Switch,"Nov 5, 2021","Nov 5, 2021",82,80
+1,2199,218,Devil May Cry 3: Special Edition,Devil May Cry 5: Special Edition,"XBXS, PS5","Feb 20, 2020","Nov 10, 2020",82,88
+1,2199,649,Devil May Cry 3: Special Edition,Devil May Cry 3: Special Edition,Switch,"Feb 20, 2020","Feb 20, 2020",82,84
+1,2200,811,Control,Control,"PS4, XB1, PC, XBXS, PS5, Switch","Aug 27, 2019","Aug 27, 2019",82,84
+1,2201,1069,Little Nightmares II,Little Nightmares II,"PC, XBXS, PS5, XB1, PS4, Switch","Feb 11, 2021","Feb 11, 2021",82,82
+1,2201,2267,Little Nightmares II,Little Nightmares,"PS4, XB1, PC, XBXS, PS5, Switch","Feb 11, 2021","Apr 28, 2017",82,79
+1,2205,384,Final Fantasy V Pixel Remaster,Final Fantasy VI Pixel Remaster,PC,"Nov 10, 2021","Feb 23, 2022",82,86
+1,2205,513,Final Fantasy V Pixel Remaster,Final Fantasy IV Pixel Remaster,PC,"Nov 10, 2021","Sep 8, 2021",82,85
+1,2205,539,Final Fantasy V Pixel Remaster,Final Fantasy V Pixel Remaster,PC,"Nov 10, 2021","Nov 10, 2021",82,85
+1,2205,881,Final Fantasy V Pixel Remaster,Final Fantasy Pixel Remaster,"PC, Switch, PS4","Nov 10, 2021","Jul 28, 2021",82,83
+1,2205,1170,Final Fantasy V Pixel Remaster,Final Fantasy III Pixel Remaster,PC,"Nov 10, 2021","Jul 28, 2021",82,82
+1,2205,1540,Final Fantasy V Pixel Remaster,Final Fantasy II Pixel Remaster,PC,"Nov 10, 2021","Jul 28, 2021",82,81
+1,2208,1362,eFootball PES 2020,eFootball PES 2020,"PS4, XB1, PC, XBXS, PS5","Sep 10, 2019","Sep 10, 2019",82,81
+1,2209,1174,Dishonored: Death of the Outsider,Dishonored: Death of the Outsider,"PS4, XB1, PC, XBXS, PS5","Sep 15, 2017","Sep 15, 2017",82,82
+1,2212,233,SteamWorld Dig,SteamWorld Dig 2,"Switch, PC, PS4, Vita, PS5","Aug 8, 2013","Sep 21, 2017",82,88
+1,2212,1150,SteamWorld Dig,SteamWorld Dig,"PS4, XB1, Wii-U, PC, XBXS, PS5, 3DS, Switch","Aug 8, 2013","Aug 7, 2013",82,82
+1,2216,412,This War of Mine: Final Cut,This War Of Mine: Final Cut,"PC, PS5, XBXS","May 10, 2022","Nov 19, 2019",82,86
+1,2217,493,Ib,Ib,"PC, PS5, PS4, Switch","Mar 9, 2023","Apr 11, 2022",82,85
+1,2219,1574,Remnant II: The Awakened King,Remnant II - The Awakened King,"XBXS, PS5, PC","Nov 14, 2023","Nov 14, 2023",82,81
+1,2222,655,Enter the Gungeon,Enter the Gungeon,"PS4, PC, PS5, XB1","Apr 5, 2016","Apr 5, 2016",82,84
+1,2225,82,Crusader Kings II,Crusader Kings III,PC,"Feb 14, 2012","Sep 1, 2020",82,90
+1,2226,602,Art Academy: Home Studio,Art Academy: Home Studio,Wii-U,"Jun 25, 2015","Jun 25, 2015",82,85
+1,2227,1916,Tainted Grail: Conquest,Tainted Grail: Conquest,"PC, XB1, XBXS","May 27, 2021","May 27, 2021",82,80
+1,2234,941,Child of Light,Child of Light,"PS4, XB1, Wii-U, PC, XBXS, PS5, Switch","Apr 29, 2014","Apr 28, 2014",82,83
+1,2236,1302,Super Mario Party Jamboree,Super Mario Party Jamboree,Switch,"Oct 17, 2024","Oct 17, 2024",82,81
+1,2237,693,Roots of Pacha,Roots of Pacha,"PC, Switch, PS4, PS5","Apr 25, 2023","Apr 25, 2023",82,84
+1,2240,1593,The Last Guardian,The Last Guardian,"PS4, PS5","Dec 6, 2016","Dec 6, 2016",82,81
+1,2244,1071,Technobabylon,Technobabylon,PC,"May 21, 2015","May 21, 2015",82,82
+1,2245,738,World of Warcraft: Dragonflight,World of Warcraft: Dragonflight,PC,"Nov 28, 2022","Nov 28, 2022",82,84
+1,2247,1127,Tales of Graces f Remastered,Tales of Graces f Remastered,"XBXS, PS5, Switch, PC, XB1, PS4","Jan 17, 2025","Jan 16, 2025",82,82
+1,2248,951,Splatoon 2: Octo Expansion,Splatoon 2: Octo Expansion,Switch,"Jun 13, 2018","Jun 14, 2018",82,83
+1,2252,1640,Filament,Filament,PC,"Apr 23, 2020","Mar 31, 2020",82,80
+1,2253,938,Botany Manor,Botany Manor,"Switch, PC, XB1, PS4, XBXS, PS5","Apr 9, 2024","Apr 9, 2024",82,83
+1,2255,1456,Bloodstained: Curse of the Moon,Bloodstained: Curse of the Moon 2,"Switch, PC, PS4, XB1, XBXS, PS5","May 24, 2018","Jul 10, 2020",82,81
+1,2255,1948,Bloodstained: Curse of the Moon,Bloodstained: Curse of the Moon,"PS4, PC, 3DS, Vita, Switch, PS5, XB1","May 24, 2018","May 24, 2018",82,80
+1,2257,2428,Lunistice,Lunistice,"Switch, PC","Nov 10, 2022","Nov 10, 2022",82,78
+1,2258,884,Freedom Planet,Freedom Planet 2,"PC, Switch, PS4, PS5, XB1, XBXS","Aug 30, 2018","Sep 13, 2022",82,83
+1,2258,1432,Freedom Planet,Freedom Planet,"Wii-U, PC, Switch, PS4","Aug 30, 2018","Jul 21, 2014",82,81
+1,2259,2029,The Vanishing of Ethan Carter,The Vanishing of Ethan Carter,"PS4, PC, PS5, XB1, Switch","Sep 25, 2014","Sep 25, 2014",82,79
+1,2262,1290,UnMetal,UnMetal,"PS5, Switch, PC, PS4, XB1, XBXS","Sep 28, 2021","Sep 28, 2021",82,82
+1,2264,2298,Samurai Warriors 4 DX,Samurai Warriors 4,"PS4, PS5, Switch, PC","May 14, 2024","Mar 20, 2014",82,78
+1,2265,818,The Legend of Heroes: Trails of Cold Steel III,The Legend of Heroes: Trails of Cold Steel III,"PS4, Switch, PS5, PC","Oct 22, 2019","Oct 22, 2019",82,83
+1,2265,1141,The Legend of Heroes: Trails of Cold Steel III,The Legend of Heroes: Trails of Cold Steel II,Vita,"Oct 22, 2019","Sep 6, 2016",82,82
+1,2265,1338,The Legend of Heroes: Trails of Cold Steel III,The Legend of Heroes: Trails of Cold Steel IV,"PS4, PC, PS5, Switch","Oct 22, 2019","Sep 27, 2018",82,81
+1,2265,2091,The Legend of Heroes: Trails of Cold Steel III,The Legend of Heroes: Trails of Cold Steel,"Vita, PC, PS4, PS5, Switch","Oct 22, 2019","Dec 22, 2015",82,79
+1,2266,1610,Ys Origin,Ys Origin,"PS4, Vita, XB1, XBXS, PS5, Switch","Oct 1, 2020","May 31, 2012",82,80
+1,2267,1648,Duelyst,Duelyst,PC,"Aug 23, 2016","Dec 31, 2015",82,80
+1,2272,584,The Walking Dead: The Telltale Definitive Series,The Walking Dead: The Telltale Definitive Series,"PS4, XB1, PC, XBXS, PS5","Sep 10, 2019","Sep 10, 2019",82,85
+1,2273,1818,Counter-Strike 2,Counter-Strike 2,PC,"Sep 27, 2023","Sep 27, 2023",82,80
+1,2279,2425,MLB The Show 18,MLB The Show 21,"XB1, XBXS, PS5, PS4","Mar 27, 2018","Apr 16, 2021",82,78
+1,2284,734,MLB The Show 23,MLB The Show 20,"PS4, PS5","Mar 24, 2023","Mar 17, 2020",82,84
+1,2284,1520,MLB The Show 23,MLB The Show 23,"PS4, Switch, PS5, XBXS, XB1, PC","Mar 24, 2023","Mar 28, 2023",82,81
+1,2284,1645,MLB The Show 23,MLB The Show 24,"PS5, Switch, XBXS, XB1, PS4","Mar 24, 2023","Mar 19, 2024",82,80
+1,2284,2425,MLB The Show 23,MLB The Show 21,"XB1, XBXS, PS5, PS4","Mar 24, 2023","Apr 16, 2021",82,78
+1,2286,2313,Age of Wonders III - Golden Realms,Age of Wonders III - Golden Realms,PC,"Sep 18, 2014","Sep 18, 2014",82,78
+1,2287,2268,Circuit Superstars,Circuit Superstars,"PC, XB1","Oct 31, 2023","Oct 12, 2021",82,79
+1,2293,937,Warhammer: Vermintide 2,Warhammer: Vermintide 2,"PC, XBXS, XB1, PS4","Mar 8, 2018","Mar 8, 2018",82,83
+1,2296,1418,Clubhouse Games: 51 Worldwide Classics,Clubhouse Games: 51 Worldwide Classics,Switch,"Jun 5, 2020","Jun 5, 2020",82,81
+1,2297,2277,Halo Wars,Halo Wars 2,"XB1, PC, XBXS","Mar 3, 2009","Feb 21, 2017",82,79
+1,2300,626,Gnosia,Gnosia,Switch,"Mar 4, 2021","Mar 4, 2021",82,85
+1,2303,1236,Dark Souls II: Crown of the Sunken King,Dark Souls II: Crown of the Sunken King,PC,"Jul 22, 2014","Jul 22, 2014",82,82
+1,2304,1515,NBA 2K19,NBA 2K19,"PS4, XB1, PC, XBXS, PS5, Switch","Sep 7, 2018","Sep 7, 2018",82,81
+1,2306,1606,Zet Zillions,Zet Zillions,PC,"May 23, 2024","May 23, 2024",82,81
+1,2307,684,Loop Hero,Loop Hero,"PC, Switch, XB1, XBXS","Mar 4, 2021","Mar 4, 2021",82,84
+1,2308,1843,Dragon Age: The Veilguard,Dragon Age: The Veilguard,"PC, XBXS, PS5","Oct 31, 2024","Oct 31, 2024",82,80
+1,2313,485,30XX,30XX,"PC, Switch, PS4, XB1","Aug 9, 2023","Feb 17, 2021",82,85
+1,2318,768,Citizen Sleeper,Citizen Sleeper,"XBXS, XB1, Switch, PC, PS4, PS5","May 5, 2022","May 5, 2022",82,84
+1,2319,1211,Tekken 7,Tekken 7,"PS4, XB1, PC, XBXS, PS5","Jun 2, 2017","Jun 2, 2017",82,82
+1,2324,1535,Mega Man 11,Mega Man 11,"PS4, XB1, PC, Switch, XBXS, PS5","Oct 2, 2018","Oct 2, 2018",82,81
+1,2329,2258,Darkest Dungeon: The Crimson Court,Darkest Dungeon: The Crimson Court,PC,"Jun 19, 2017","Jun 19, 2017",82,79
+1,2331,1996,She Remembered Caterpillars,She Remembered Caterpillars,PC,"Jan 17, 2017","Jan 17, 2017",82,79
+1,2332,1692,Life is Strange 2: Episode 5 - Wolves,Life is Strange 2 - Episode 5 : Wolves,"PC, XB1, PS4, XBXS, PS5","Dec 3, 2019","Dec 3, 2019",82,80
+1,2333,682,Lil' Guardsman,Lil Guardsman,"XBXS, PS5, Switch, PC, XB1, PS4","Jan 23, 2024","Jan 23, 2024",82,84
+1,2335,1025,FIFA 15,FIFA 15,"PS4, XB1, PC, XBXS, PS5","Sep 23, 2014","Sep 22, 2014",82,83
+1,2338,1570,WWE 2K23,WWE 2K23,"PC, PS4, PS5, XBXS, XB1","Mar 14, 2023","Mar 17, 2023",82,81
+1,2340,702,Wandersong,Wandersong,"PC, Switch, XB1, XBXS","Sep 27, 2018","Sep 27, 2018",82,84
+1,2342,710,ZEN Pinball 2,ZEN Pinball 2,"PS4, Wii-U, PS5","Dec 24, 2013","Mar 21, 2013",82,84
+1,2344,2293,Burnout Paradise Remastered,Burnout Paradise Remastered,"XB1, PS4, PC, XBXS, PS5, Switch","Mar 16, 2018","Mar 16, 2018",82,78
+1,2345,1266,LEGO Star Wars: The Skywalker Saga,Lego Star Wars: The Skywalker Saga,"PC, XB1, PS4, XBXS, PS5, Switch","Apr 5, 2022","Apr 5, 2022",82,82
+1,2346,792,Severed,Severed,"Wii-U, 3DS, Vita, Switch","Apr 26, 2016","Apr 26, 2016",82,84
+1,2349,208,Out of the Park Baseball 9,Out of the Park Baseball 15,PC,"Jun 1, 2008","Apr 21, 2014",82,88
+1,2349,238,Out of the Park Baseball 9,Out of the Park Baseball 16,PC,"Jun 1, 2008","Mar 23, 2015",82,88
+1,2349,274,Out of the Park Baseball 9,Out of the Park Baseball 17,PC,"Jun 1, 2008","Mar 22, 2016",82,87
+1,2351,1778,Welcome to Elk,Welcome to Elk,"PC, XB1, Switch","Sep 17, 2020","Sep 17, 2020",82,80
+1,2352,732,Pixel Ripped 1995,Pixel Ripped 1995,"Quest, Vive","May 12, 2020","Apr 23, 2020",82,84
+1,2352,1869,Pixel Ripped 1995,Pixel Ripped 1989,"Quest, Vive, PSVR","May 12, 2020","Jul 31, 2018",82,80
+1,2353,1268,Cyber Shadow,Cyber Shadow,"PS4, Switch, XB1, PC, PS5, XBXS","Jan 26, 2021","Jan 26, 2021",82,82
+1,2354,822,Fell Seal: Arbiter's Mark,Fell Seal: Arbiter's Mark,"PS4, XB1, PC, XBXS, PS5, Switch","Apr 30, 2019","Apr 30, 2019",82,83
+1,2355,889,Crypt Custodian,Crypt Custodian,"XBXS, PS5, Switch, PC, PS4, XB1","Aug 27, 2024","Aug 27, 2024",82,83
+1,2356,1778,Welcome to Elk,Welcome to Elk,"PC, XB1, Switch","Sep 17, 2020","Sep 17, 2020",82,80
+1,2359,996,Broken Age: Act 1,Broken Age: Act 1,PC,"Jan 28, 2014","Jan 28, 2014",82,83
+1,2360,504,Azure Striker Gunvolt: Striker Pack,Azure Striker Gunvolt: Striker Pack,Switch,"Nov 21, 2017","Aug 31, 2017",82,85
+1,2363,1904,Wreckfest,Wreckfest,"PC, PS4, PS5, Switch, XB1, XBXS","Jun 14, 2018","Jun 14, 2018",81,80
+1,2364,1312,A Plague Tale: Innocence,A Plague Tale: Innocence,"PS4, XB1, PC, XBXS, PS5, Switch","May 14, 2019","May 14, 2019",81,81
+1,2365,1507,Horizon Forbidden West: Burning Shores,Horizon Forbidden West: Burning Shores,PS5,"Apr 19, 2023","Apr 19, 2023",81,81
+1,2368,1062,Victoria 3,Victoria 3,PC,"Oct 25, 2022","Oct 25, 2022",81,82
+1,2371,1099,Umurangi Generation,Umurangi Generation,"PC, Switch, XB1","Jun 5, 2021","May 19, 2020",81,82
+1,2373,967,Kingdom Hearts HD 2.5 ReMIX,Kingdom Hearts HD 1.5 + 2.5 ReMIX,"PS4, PS5, Switch, PC, XB1","Dec 2, 2014","Mar 9, 2017",81,83
+1,2374,1535,Mega Man 10,Mega Man 11,"PS4, XB1, PC, Switch, XBXS, PS5","Mar 1, 2010","Oct 2, 2018",81,81
+1,2375,1999,World of Warcraft Classic,World of Warcraft Classic,PC,"Aug 27, 2019","Aug 26, 2019",81,79
+1,2377,519,Starbound,Starbound,"PC, XB1","Jul 22, 2016","Dec 4, 2013",81,85
+1,2381,1455,Nidhogg,Nidhogg,"PS4, PC, PS5","Jan 13, 2014","Jan 13, 2014",81,81
+1,2382,1878,NBA 2K8,NBA 2K18,"PS4, XB1, PC, Switch, XBXS, PS5","Oct 2, 2007","Sep 15, 2017",81,80
+1,2383,296,Battlefield 4,Battlefield 1,"PS4, XB1, PC, XBXS, PS5","Oct 19, 2013","Oct 21, 2016",81,87
+1,2383,2071,Battlefield 4,Battlefield V,"XB1, PC, PS4, XBXS, PS5","Oct 19, 2013","Nov 20, 2018",81,79
+1,2383,2147,Battlefield 4,Battlefield 4,"PS4, XB1, PC, XBXS, PS5","Oct 19, 2013","Oct 29, 2013",81,79
+1,2384,1156,Yuppie Psycho,Yuppie Psycho,"PC, PS4, PS5, Switch, XB1, XBXS","Apr 25, 2019","Apr 25, 2019",81,82
+1,2385,1679,Torment: Tides of Numenera,Torment: Tides of Numenera,"PS4, XB1, PC, XBXS, PS5","Jan 26, 2016","Feb 28, 2017",81,80
+1,2386,1619,Kalimba,Kalimba,"XB1, PC, XBXS","Dec 17, 2014","Dec 17, 2014",81,80
+1,2388,2149,Atelier Arland Series Deluxe Pack,Atelier Arland series Deluxe Pack,"PS4, PC, Switch, PS5","Dec 4, 2018","Dec 4, 2018",81,79
+1,2392,413,To the Moon,To The Moon,"Switch, PC","Nov 1, 2011","Nov 1, 2011",81,86
+1,2393,910,Madden NFL 15,Madden NFL 16,"PS4, XB1, XBXS, PS5","Aug 26, 2014","Aug 25, 2015",81,83
+1,2393,979,Madden NFL 15,Madden NFL 17,"PS4, XB1, XBXS, PS5","Aug 26, 2014","Aug 23, 2016",81,83
+1,2393,1278,Madden NFL 15,Madden NFL 18,"PS4, XB1, XBXS, PS5","Aug 26, 2014","Aug 25, 2017",81,82
+1,2393,1485,Madden NFL 15,Madden NFL 15,"PS4, XB1, XBXS, PS5","Aug 26, 2014","Aug 26, 2014",81,81
+1,2393,2004,Madden NFL 15,Madden NFL 19,"XB1, PC, PS4, XBXS, PS5","Aug 26, 2014","Aug 10, 2018",81,79
+1,2395,888,Slime-san: Superslime Edition,Slime-San: Superslime Edition,"PS4, XB1, XBXS, PS5","Jun 26, 2018","Jun 26, 2018",81,83
+1,2396,492,Star Wars Pinball VR,Star Wars Pinball,"PS4, XB1, PC, Switch, XBXS, PS5","Apr 29, 2021","Sep 26, 2017",81,85
+1,2396,1285,Star Wars Pinball VR,Star Wars Pinball VR,"PC, PSVR","Apr 29, 2021","Apr 29, 2021",81,82
+1,2398,1075,Quadrilateral Cowboy,Quadrilateral Cowboy,PC,"Jul 25, 2016","Jul 25, 2016",81,82
+1,2399,796,Hellblade: Senua's Sacrifice,Hellblade: Senua's Sacrifice,"PC, PS4, XB1, XBXS, PS5, Switch","Aug 8, 2017","Aug 8, 2017",81,84
+1,2400,1402,GRIME,GRIME,"PC, Stadia, PS4, PS5, XB1, XBXS","Aug 2, 2021","Aug 2, 2021",81,81
+1,2409,1021,Danganronpa V3: Killing Harmony,Danganronpa V3: Killing Harmony,"PS4, Vita, PS5, Switch","Sep 26, 2017","Sep 26, 2017",81,83
+1,2410,1281,Shadowrun: Hong Kong,Shadowrun: Hong Kong,PC,"Aug 20, 2015","Aug 20, 2015",81,82
+1,2412,791,Kirby: Planet Robobot,Kirby: Planet Robobot,3DS,"Jun 10, 2016","Jun 10, 2016",81,84
+1,2413,1316,Live A Live,Live A Live,Switch,"Jul 22, 2022","Jul 22, 2022",81,81
+1,2416,1219,Mario & Luigi: Superstar Saga + Bowser's Minions,Mario & Luigi: Superstar Saga + Bowser's Minions,3DS,"Oct 6, 2017","Oct 6, 2017",81,82
+1,2418,2247,Guild Wars 2: End of Dragons,Guild Wars 2: End of Dragons,PC,"Feb 28, 2022","Feb 28, 2022",81,79
+1,2419,1510,Rainbow Billy: The Curse of the Leviathan,Rainbow Billy: The Curse of Leviathan,"XBXS, PS5, Switch, PC, PS4, XB1","Oct 5, 2021","Oct 5, 2021",81,81
+1,2420,1690,Vampire Therapist,Vampire Therapist,PC,"Jul 18, 2024","Jul 19, 2024",81,80
+1,2422,1269,Hitman - Episode 6: Hokkaido,Hitman - Episode 6: Hokkaido,"PS4, XB1, PC, XBXS, PS5","Oct 31, 2016","Oct 31, 2016",81,82
+1,2423,899,The Legend of Heroes: Trails to Azure,The Legend of Heroes: Trails to Azure,"PS4, Switch, PC","Mar 14, 2023","Mar 14, 2023",81,83
+1,2426,1336,Splatoon,Splatoon,Wii-U,"May 29, 2015","May 29, 2015",81,81
+1,2430,1482,Fuser,Fuser,"XB1, PS4, PS5, XBXS, Switch, PC","Nov 10, 2020","Nov 10, 2020",81,81
+1,2431,800,Super One More Jump,Super One More Jump,Switch,"Jan 25, 2018","Jan 25, 2018",81,84
+1,2432,1360,Sunless Sea,Sunless Sea,"PC, Switch, PS4, XB1","Feb 6, 2015","Jul 1, 2014",81,81
+1,2433,1390,The Walking Dead: Season Two Episode 3 - In Harm's Way,The Walking Dead: Season Two Episode 3 - In Harm's Way,PC,"May 13, 2014","May 13, 2014",81,81
+1,2435,371,Football Manager 2016,Football Manager 2022,"XBXS, XB1, PC","Nov 13, 2015","Nov 9, 2021",81,86
+1,2435,436,Football Manager 2016,Football Manager 2020,"PC, Stadia","Nov 13, 2015","Nov 19, 2019",81,86
+1,2435,523,Football Manager 2016,Football Manager 2021,"PC, Switch, XB1","Nov 13, 2015","Nov 10, 2020",81,85
+1,2435,536,Football Manager 2016,Football Manager 2019,PC,"Nov 13, 2015","Oct 2, 2018",81,85
+1,2435,832,Football Manager 2016,Football Manager 2023,"Switch, XBXS, XB1, PC, PS5, PS4","Nov 13, 2015","Nov 8, 2022",81,83
+1,2435,1013,Football Manager 2016,Football Manager 2024,"PS5, XBXS, XB1, PC, Switch, PS4","Nov 13, 2015","Nov 6, 2023",81,83
+1,2435,1145,Football Manager 2016,Football Manager 2016,PC,"Nov 13, 2015","Nov 13, 2015",81,82
+1,2435,1327,Football Manager 2016,Football Manager 2017,PC,"Nov 13, 2015","Nov 4, 2016",81,81
+1,2435,1669,Football Manager 2016,Football Manager 2018,PC,"Nov 13, 2015","Nov 10, 2017",81,80
+1,2436,944,Tearaway Unfolded,Tearaway Unfolded,"PS4, PS5","Sep 8, 2015","Sep 8, 2015",81,83
+1,2439,957,Phantom Brave,Phantom Brave,PC,"Aug 31, 2004","Jul 25, 2016",81,83
+1,2442,1113,Tokyo Mirage Sessions #FE Encore,Tokyo Mirage Sessions #FE Encore,Switch,"Jan 17, 2020","Jan 17, 2020",81,82
+1,2443,1562,The Sims 4: Discover University,The Sims 4: Discover University,"XB1, PS4, PC, XBXS, PS5","Nov 15, 2019","Nov 14, 2019",81,81
+1,2444,1658,Snufkin: Melody of Moominvalley,Snufkin: Melody of Moominvalley,"PC, Switch","Mar 7, 2024","Mar 7, 2024",81,80
+1,2446,1212,The Sims 4: Seasons,The Sims 4: Seasons,"PC, PS4, XB1","Jun 22, 2018","Jun 18, 2018",81,82
+1,2448,970,Saltsea Chronicles,Saltsea Chronicles,"Switch, PS5, PC","Oct 12, 2023","Oct 12, 2023",81,83
+1,2449,970,Saltsea Chronicles,Saltsea Chronicles,"Switch, PS5, PC","Oct 12, 2023","Oct 12, 2023",81,83
+1,2453,1871,Remnant: From the Ashes - Swamps of Corsus,Remnant: From the Ashes - Swamps of Corsus,"PC, PS4, XB1, XBXS, PS5","Apr 28, 2020","Apr 28, 2020",81,80
+1,2454,895,Downwell,Downwell,"PS4, PC, Vita, PS5, Switch","Oct 15, 2015","Oct 15, 2015",81,83
+1,2456,1079,Lone Survivor,Lone Survivor,"PC, Vita, PS4, PS5, Wii-U","Apr 23, 2012","Apr 23, 2012",81,82
+1,2458,1632,WWE 2K24,WWE 2K24,"XBXS, PS5, PC, PS4, XB1","Mar 8, 2024","Mar 8, 2024",81,80
+1,2462,929,Tails of Iron,Tails of Iron,"Switch, PC, XB1, XBXS, PS5, PS4","Sep 17, 2021","Sep 17, 2021",81,83
+1,2463,1533,Call of Duty: Advanced Warfare,Call of Duty: Advanced Warfare,"PS4, XB1, PC, XBXS, PS5","Nov 3, 2014","Nov 3, 2014",81,81
+1,2464,2164,Rising Storm 2: Vietnam,Rising Storm 2: Vietnam,PC,"May 30, 2017","May 30, 2017",81,79
+1,2467,1132,Overcooked! 2,Overcooked 2,"XB1, PC, PS4, Switch, XBXS, PS5","Aug 7, 2018","Aug 7, 2018",81,82
+1,2468,1188,Phoenix Wright: Ace Attorney Trilogy,Phoenix Wright: Ace Attorney Trilogy,"PS4, XB1, 3DS, Switch, XBXS, PS5, PC","Dec 9, 2014","Feb 7, 2012",81,82
+1,2471,1040,Jet Lancer,Jet Lancer,"Switch, PC","May 12, 2020","May 12, 2020",81,83
+1,2473,908,Granblue Fantasy Versus: Rising,Granblue Fantasy Versus: Rising,"PS5, PS4, PC","Dec 14, 2023","Dec 14, 2023",81,83
+1,2475,1040,Jet Lancer,Jet Lancer,"Switch, PC","May 12, 2020","May 12, 2020",81,83
+1,2477,2499,Stygian: Reign of the Old Ones,Stygian: Reign of the Old Ones,PC,"Sep 26, 2019","Sep 26, 2019",81,78
+1,2479,1857,Life is Strange: Episode 3 - Chaos Theory,Life is Strange: Episode 3 - Chaos Theory,"PS4, XB1, PC, XBXS, PS5","May 19, 2015","May 18, 2015",81,80
+1,2486,1306,Paradise Killer,Paradise Killer,"Switch, PC, PS4, PS5, XB1","Sep 4, 2020","Sep 4, 2020",81,81
+1,2487,692,Symphony of War: The Nephilim Saga,Symphony of War: The Nephilim Saga,PC,"Jun 10, 2022","Jun 10, 2022",81,84
+1,2499,1304,Ghostrunner,Ghostrunner,"PC, PS4, XB1, XBXS, PS5, Switch","Oct 27, 2020","Oct 27, 2020",81,81
+1,2499,1978,Ghostrunner,Ghostrunner 2,"PS5, PC, XBXS","Oct 27, 2020","Oct 26, 2023",81,79
+1,2500,930,EVERSPACE 2,EVERSPACE 2,PC,"Apr 6, 2023","Jan 18, 2021",81,83
