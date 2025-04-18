@@ -9,9 +9,9 @@ import csv
 import math
 
 
-# class Cluster:
-#     def __init__(self):
-#         self.items = []
+class Cluster:
+    def __init__(self):
+        self.states = []
 
 
 class State:
@@ -78,32 +78,53 @@ def scale_data(data):
 
 def create_distance_matrix(clusters):
     n = len(clusters)
-    dm = [[0 for _ in range(n)] for _ in range(n)]
+    dm = [[None] * n] * n
+    # print(dm)
 
     for i in range(n):
         for j in range(i + 1, n):
-            print(clusters[i])
-            dist = euclidean_distance(clusters[i].points, clusters[j].points)
-            dm[i][j] = dist
+            for i_state in clusters[i].states:
+                for j_state in clusters[j].states:
+                    # print(f"i: {i_state.name}, j: {j_state.name}")
+                    dist = euclidean_distance(i_state.points, j_state.points)
+                    dm[i][j] = dist
+    # print(dm)
     return dm
 
 
 def min_pairwise_distance(cluster_a, cluster_b):
     min_dist = math.inf
-    for item_a in cluster_a.items:
-        for item_b in cluster_b.items:
-            dist = euclidean_distance(item_a.points, item_b.points)
+    for a_state in cluster_a.states:
+        for b_state in cluster_b.states:
+            dist = euclidean_distance(a_state.points, b_state.points)
             if dist < min_dist:
                 min_dist = dist
     return min_dist
 
 
 def max_pairwise_distance(cluster_a, cluster_b):
-    pass
+    max_dist = -math.inf
+    for a_state in cluster_a.states:
+        for b_state in cluster_b.states:
+            dist = euclidean_distance(a_state.points, b_state.points)
+            if dist > max_dist:
+                max_dist = dist
+    return max_dist
 
 
 def avg_pairwise_distance(cluster_a, cluster_b):
-    pass
+    total = 0
+    count = 0
+    for a_state in cluster_a.states:
+        for b_state in cluster_b.states:
+            dist = euclidean_distance(a_state.points, b_state.points)
+            total += dist
+            count += 1
+    if count != 0:
+        avg_dist = total / count
+    else:
+        avg_dist = -1
+    return avg_dist
 
 
 def hierarchical(data, linkage):
@@ -112,7 +133,8 @@ def hierarchical(data, linkage):
 
     # 1. Start with each data point as its own cluster
     for i in range(len(data)):
-        new_cluster = [data[i]]
+        new_cluster = Cluster()
+        new_cluster.states.append(data[i])
         clusters.append(new_cluster)
 
     # 2. Compute pairwise distances between all clusters
@@ -143,29 +165,11 @@ def hierarchical(data, linkage):
 
         # b. Merge the two closest clusters
         i, j = pair_to_merge
-        # print(f"clusters: {clusters}\ni: {i}, j: {j}")\
 
-        new_cluster = Cluster()
-        new_cluster.items.append(clusters[i].items)
-        new_cluster.items.append(clusters[j].items)
+        clusters[i].states.extend(clusters[j].states)
 
-        # for x in range(len(new_cluster.items)):
-        #     for y in range(len(new_cluster.items[x])):
-        #         print(new_cluster.items[x][y])
-
-        # remove old clusters
-        clusters.remove(clusters[j])
-        clusters.remove(clusters[i])
-
-        # introduce new cluster
-        # print(new_cluster)
-        clusters.append(new_cluster)
-
-        # for i in range(len(clusters)):
-        #     print(f"Cluster[{i}]")
-        #     print(clusters[i])
-        #     print()
-        # print("====================")
+        # remove old cluster
+        clusters.pop(j)
 
         # c. Update the distance matrix
         dm = create_distance_matrix(clusters)
@@ -180,13 +184,34 @@ def main():
     data = scale_data(data)
 
     print("Hierarchical Clustering:\n")
+    print("================================================================")
+    print("Single Linkage:\n")
     linkage = "single"
-    # linkage = "complete"
-    # linkage = "average"
     clusters = hierarchical(data, linkage)
     for i in range(len(clusters)):
         print(f"Cluster[{i}]")
-        print(clusters[i])
+        for state in clusters[i].states:
+            print(state)
+        print()
+
+    print("================================================================")
+    print("Complete Linkage:\n")
+    linkage = "complete"
+    clusters = hierarchical(data, linkage)
+    for i in range(len(clusters)):
+        print(f"Cluster[{i}]")
+        for state in clusters[i].states:
+            print(state)
+        print()
+
+    print("================================================================")
+    print("Average Linkage:\n")
+    linkage = "average"
+    clusters = hierarchical(data, linkage)
+    for i in range(len(clusters)):
+        print(f"Cluster[{i}]")
+        for state in clusters[i].states:
+            print(state)
         print()
 
 
