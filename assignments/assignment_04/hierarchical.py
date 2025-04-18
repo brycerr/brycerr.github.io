@@ -78,7 +78,7 @@ def scale_data(data):
 
 def create_distance_matrix(clusters):
     n = len(clusters)
-    dm = [[None] * n] * n
+    dm = [[None for _ in range(n)] for _ in range(n)]
     # print(dm)
 
     for i in range(n):
@@ -158,6 +158,9 @@ def hierarchical(data, linkage):
                     dist = max_pairwise_distance(clusters[i], clusters[j])
                 elif linkage == "average":
                     dist = avg_pairwise_distance(clusters[i], clusters[j])
+                else:
+                    print("Invalid linkage method.")
+                    exit(-1)
 
                 if dist < min_dist:
                     min_dist = dist
