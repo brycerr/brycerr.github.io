@@ -175,7 +175,7 @@ def predict_k_pcs(train_data, train_labels, test_data, test_labels, knn_k=3):
         print()
 
 
-def approximate_images(train_data, col_means, face_x, face_y):
+def approximate_images(train_data, col_means, num_faces, x, y):
     pc_k_values = [50, 100]
 
     coeff, latent = my_pca(train_data)
@@ -184,7 +184,21 @@ def approximate_images(train_data, col_means, face_x, face_y):
         coeff_k_pcs = np.array(coeff)[:, :k]
 
         # get first 5 images
-        first_images = np.array(train_data)[:5, :]
+        first_images = np.array(train_data)[:num_faces, :]
+
+        # # TEST: verify that these are the same 5 faces
+        # for i in range(num_faces):
+        #     eigen_face = coeff[i]
+        #     eigen_face_image = []
+        #     for j in range(x):
+        #         temp = eigen_face[j * y:(j + 1) * y]
+        #         eigen_face_image.append(temp)
+        #
+        #     # display image
+        #     plt.imshow(eigen_face_image, cmap='gray')
+        #     plt.title(f"Eigenface {i + 1}")
+        #     plt.show()
+        # # END OF TEST
 
         px_train = first_images @ coeff_k_pcs
         reconstructed_train = px_train @ coeff_k_pcs.transpose()
@@ -192,14 +206,14 @@ def approximate_images(train_data, col_means, face_x, face_y):
 
         # display image
         for i in range(len(first_images)):
-            image = fully_reconstructed_train[i].reshape((face_x, face_y))
+            image = fully_reconstructed_train[i].reshape((x, y))
             plt.imshow(image, cmap='gray')
             plt.title(f"Reconstructed Face {i + 1} using {k} PCs")
             plt.show()
 
 
 def main():
-
+    # load data
     train_path = "face_train_data_960.txt"
     test_path = "face_test_data_960.txt"
 
@@ -226,7 +240,7 @@ def main():
     predict_k_pcs(train_data, train_labels, test_data, test_labels)
 
     # e
-    approximate_images(train_data, col_means, face_x, face_y)
+    approximate_images(train_data, col_means, num_faces, face_x, face_y)
 
 
 if __name__ == "__main__":
