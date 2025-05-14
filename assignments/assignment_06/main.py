@@ -8,7 +8,9 @@ COMPSCI 767-01: Big Data and Data Mining
 import csv
 
 import matplotlib.pyplot as plt
-import numpy as np  # only used for computing eigenvalues and vectors
+import numpy as np
+
+from sklearn.neighbors import KNeighborsClassifier
 
 
 def read_data(path):
@@ -24,35 +26,40 @@ def read_data(path):
     return data
 
 
-def center_data(data):
+def center_data(data, col_means=None):
     # compute the means of each column
-    n = len(data[0]) - 1    # should be 960 (30 * 32 image size), but I don't want to hardcode this number
-    col_means = [0 for _ in range(n)]
-    for row in data:
-        for i in range(n):
-            col_means[i] += row[i]
+    n = len(data[0]) - 1    # = 960 (30 * 32 image size), but I don't want to hardcode this number
+    if col_means is None:   # this is so I can reuse the same col_means from train_data in the test_data
+        col_means = [0 for _ in range(n)]
+        for row in data:
+            for i in range(n):
+                col_means[i] += row[i]
 
-    for i in range(len(col_means)):
-        col_means[i] /= len(data)
-    # print(col_means)
+        for i in range(len(col_means)):
+            col_means[i] /= len(data)
+        # print(col_means)
 
     # center the data for use in PCA
     centered_data = []
+    centered_labels = []
     for row in data:
         centered_row = []
         for i in range(n):
             centered_row.append(row[i] - col_means[i])
         centered_data.append(centered_row)
+
+        centered_labels.append(row[-1])
     # print(centered_data)
+    # print(centered_labels)
 
-    return centered_data
+    return centered_data, centered_labels, col_means
 
 
-def my_pca(data):
+def my_pca(train_data):
     # (can use the built-in functions to compute eigenvalues and eigen vectors)
 
     # create covariance matrix
-    matrix_x = np.array(data)
+    matrix_x = np.array(train_data)
     cov_matrix = np.dot(matrix_x.T, matrix_x) / (matrix_x.shape[0] - 1)
 
     # eigen decomposition
@@ -73,10 +80,10 @@ def my_pca(data):
     return coeff, latent
 
 
-def eigen_faces(data, num_faces, x, y):
-    coeff, latent = my_pca(data)
+def eigen_faces(train_data, num_faces, x, y):
+    coeff, latent = my_pca(train_data)
 
-    # convert the lists of eigen faces into 30 * 32 images
+    # convert the first <num_faces> lists of eigen faces into 30 * 32 images
     for i in range(num_faces):
         eigen_face = coeff[i]
         eigen_face_image = []
@@ -90,9 +97,9 @@ def eigen_faces(data, num_faces, x, y):
         plt.show()
 
 
-def proportion_of_variance(data, var=0.90):
+def proportion_of_variance(train_data, var=0.90):
     # c2
-    coeff, latent = my_pca(data)
+    coeff, latent = my_pca(train_data)
     w_total = 0     # sum of all eigenvalues
     for i in range(len(latent)):
         w_total += latent[i]
@@ -136,6 +143,42 @@ def proportion_of_variance(data, var=0.90):
     return k
 
 
+def predict_k_pcs(train_data, train_labels, test_data, test_labels, knn_k=3):
+    pc_k_values = [1, 3, 5, 7]
+
+    coeff, latent = my_pca(train_data)
+
+    print("\nKNN")
+    for k in pc_k_values:
+        print(f"{k} Principle Components")
+
+        # project the data to k PCs (PX = X * coeff)
+        coeff_k_pcs = np.array(coeff)[:, :k]    # gets the first k cols of each row in coeff
+        # print(f"\n{coeff_k_pcs}\n")
+
+        px_train = np.array(train_data) @ np.array(coeff_k_pcs)
+        px_test = np.array(test_data) @ np.array(coeff_k_pcs)
+
+        # KNN
+        knn = KNeighborsClassifier(n_neighbors=knn_k)
+        knn.fit(px_train, train_labels)
+        predictions = knn.predict(px_test)
+
+        true_pos = 0
+        for i in range(len(test_labels)):
+            if test_labels[i] == predictions[i]:
+                true_pos += 1
+
+        accuracy = true_pos / len(test_labels) * 100
+
+        print(f"Accuracy: {accuracy:.2f}%")
+        print()
+
+
+def approximate():
+    return
+
+
 def main():
     num_faces = 0
     face_x = 30
@@ -145,20 +188,26 @@ def main():
     test_path = "face_test_data_960.txt"
 
     raw_train_data = read_data(train_path)
+    raw_test_data = read_data(test_path)
     # print(raw_train_data)
-    train_data = center_data(raw_train_data)
 
+    train_data, train_labels, col_means = center_data(raw_train_data)
+    test_data, test_labels, _ = center_data(raw_test_data, col_means=col_means)
+
+    # b
     eigen_faces(train_data, num_faces, face_x, face_y)
 
     # c
     k = proportion_of_variance(train_data)
     print(f"k: {k}")
 
-    # TODO: d
+    # d
     # Project the training data and test data to the K principle components that we find in section c for K={1,3,5,7}.
+    predict_k_pcs(train_data, train_labels, test_data, test_labels)
 
     # TODO: e
     # Use the first k components (k= {50, 100}) to approximate the first five images in the training set
+    approximate()
 
 
 if __name__ == "__main__":
