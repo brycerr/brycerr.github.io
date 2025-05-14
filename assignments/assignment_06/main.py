@@ -148,7 +148,7 @@ def predict_k_pcs(train_data, train_labels, test_data, test_labels, knn_k=3):
 
     coeff, latent = my_pca(train_data)
 
-    print("\nKNN")
+    print("KNN")
     for k in pc_k_values:
         print(f"{k} Principle Components")
 
@@ -175,14 +175,32 @@ def predict_k_pcs(train_data, train_labels, test_data, test_labels, knn_k=3):
         print()
 
 
-def approximate():
-    return
+def approximate_images(train_data, col_means, face_x, face_y):
+    # TODO: complete this function
+    pc_k_values = [50, 100]
+
+    coeff, latent = my_pca(train_data)
+
+    for k in pc_k_values:
+        coeff_k_pcs = np.array(coeff)[:, :k]
+
+        # get first 5 images
+        first_images = np.array(train_data)[:5, :]
+
+        px_train = first_images @ coeff_k_pcs
+        reconstructed_train = px_train @ coeff_k_pcs.transpose()
+        fully_reconstructed_train = reconstructed_train + np.mean(col_means)
+
+        # display image
+        for i in range(len(first_images)):
+            image = fully_reconstructed_train[i].reshape((face_y, face_x))
+            plt.imshow(image, cmap='gray')
+            plt.title(f"Image {i + 1} using {k} PCs")
+            plt.show()
+        # TODO: these images don't look right, review this later
 
 
 def main():
-    num_faces = 0
-    face_x = 30
-    face_y = 32
 
     train_path = "face_train_data_960.txt"
     test_path = "face_test_data_960.txt"
@@ -195,19 +213,22 @@ def main():
     test_data, test_labels, _ = center_data(raw_test_data, col_means=col_means)
 
     # b
+    num_faces = 5
+    face_x = 30
+    face_y = 32
     eigen_faces(train_data, num_faces, face_x, face_y)
 
     # c
     k = proportion_of_variance(train_data)
-    print(f"k: {k}")
+    print("Proportion of Variance")
+    print("Number of PCs to exceed variance threshold:")
+    print(f"k: {k}\n")
 
     # d
-    # Project the training data and test data to the K principle components that we find in section c for K={1,3,5,7}.
     predict_k_pcs(train_data, train_labels, test_data, test_labels)
 
     # TODO: e
-    # Use the first k components (k= {50, 100}) to approximate the first five images in the training set
-    approximate()
+    approximate_images(train_data, col_means, face_x, face_y)
 
 
 if __name__ == "__main__":
