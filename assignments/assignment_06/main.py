@@ -176,7 +176,6 @@ def predict_k_pcs(train_data, train_labels, test_data, test_labels, knn_k=3):
 
 
 def approximate_images(train_data, col_means, face_x, face_y):
-    # TODO: complete this function
     pc_k_values = [50, 100]
 
     coeff, latent = my_pca(train_data)
@@ -189,15 +188,14 @@ def approximate_images(train_data, col_means, face_x, face_y):
 
         px_train = first_images @ coeff_k_pcs
         reconstructed_train = px_train @ coeff_k_pcs.transpose()
-        fully_reconstructed_train = reconstructed_train + np.mean(col_means)
+        fully_reconstructed_train = reconstructed_train + np.array(col_means)
 
         # display image
         for i in range(len(first_images)):
-            image = fully_reconstructed_train[i].reshape((face_y, face_x))
+            image = fully_reconstructed_train[i].reshape((face_x, face_y))
             plt.imshow(image, cmap='gray')
-            plt.title(f"Image {i + 1} using {k} PCs")
+            plt.title(f"Reconstructed Face {i + 1} using {k} PCs")
             plt.show()
-        # TODO: these images don't look right, review this later
 
 
 def main():
@@ -227,7 +225,7 @@ def main():
     # d
     predict_k_pcs(train_data, train_labels, test_data, test_labels)
 
-    # TODO: e
+    # e
     approximate_images(train_data, col_means, face_x, face_y)
 
 
